@@ -7,7 +7,7 @@ Resources Required: Tech support, Communication support
 ---
 
 ## Summary of Proposal
-Give Devcon participants a taste of a regenerative economy, by allowing them to offset the carbon emissions associated with their participation in the event, as part of the ticketing process. This is payable in cryptocurrency with funds going directly to local carbon offset projects.
+Give Devcon participants a taste of a regenerative economy, by allowing them to offset the carbon emissions associated with the event, as part of the ticketing process. This is payable in cryptocurrency with funds going directly to local carbon offset projects.
 
 ## Abstract
 We want to offer attendees the ability to offset the carbon emissions associated with their Devcon visit. This includes both **direct** emissions that occur during the event—energy use, air conditioning, food, etc.—as well as **indirect** emissions that are tightly coupled to it—most importantly, accommodation and flights.
