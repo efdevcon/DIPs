@@ -1,5 +1,5 @@
 ---
-Title: CO2ken
+Title: Make Devcon carbon neutral
 Primary Contact: raphael@curvelabs.eu
 Themes: Ticketing, Environmental Sustainability
 Tags: Event production, Software
