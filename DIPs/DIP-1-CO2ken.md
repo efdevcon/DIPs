@@ -10,7 +10,7 @@ Resources Required: Tech support, Communication support
 Give Devcon participants a taste of a regenerative economy, by allowing them to offset the carbon emissions associated with the event, as part of the ticketing process. This is payable in cryptocurrency with funds going directly to local carbon offset projects.
 
 ## Abstract
-We want to offer attendees the ability to offset the carbon emissions associated with their Devcon visit. This includes both **direct** emissions that occur during the event—energy use, air conditioning, food, etc.—as well as **indirect** emissions that are tightly coupled to it—most importantly, accommodation and flights.
+We want to offer attendees the ability to offset the carbon emissions from Devcon. This includes both **direct** emissions that occur during the event—energy use, air conditioning, food, etc.—as well as **indirect** emissions that are tightly coupled to it—most importantly, accommodation and flights.
 
 We have identified 2 ways of approaching offsetting, each with it's own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option:
 
