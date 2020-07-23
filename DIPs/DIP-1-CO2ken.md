@@ -12,12 +12,9 @@ Give Devcon participants a taste of a regenerative economy, by allowing them to 
 ## Abstract
 We want to offer attendees the ability to offset the carbon emissions from Devcon. This includes both **direct** emissions that occur during the event—energy use, air conditioning, food, etc.—as well as **indirect** emissions that are tightly coupled to it—most importantly, accommodation and flights.
 
-We have identified 2 ways of approaching offsetting, each with it's own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option:
+We have identified 2 ways of approaching offsetting, each with it's own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option.
 
-1. **Split the bill:** We estimate both direct and indirect emissions of all participants. We then distribute the cost of offsetting all these emissions amongst all attendees—sharing is caring.
-2. **Pay your own way:** We give each participant the option to offset direct emissions, *which is the same for all attendees,* and indirect *(individual)* emissions separately. For example, if you come from Tokyo, you pay to offset your 20 hour flight.
-
-Whichever option comes out on top, the user will be able to pay in crypto, directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
+The user will be able to pay in crypto, directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
 
 ## Motivation & Rationale
 Most of us working on Ethereum are obsessed with building a "better future", and even though we're all focused on different building blocks, we understand that a radical shift is only possible if we combine these blocks into a global, interconnected, social and economic system. 
