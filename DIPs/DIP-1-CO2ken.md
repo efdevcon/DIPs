@@ -33,15 +33,6 @@ High quality carbon offset price per ton:
 → 10 – 20 USD 
 ```
 
-**Option 1: Split the bill**
-What makes an event like Devcon special is all the people that come together from all 4 corners of the world. Even if you could get to the venue by bike, you're still happy to talk to that one person who had take a 20h flight to get there—the event is the people who participate. So it only makes sense that we share the cost of aliviating the negative impact of all those people amongst all attendees.
-→ We estimate this option would cost 10-15 USD per person.
-
-**Option 2: Pay your own way**
-Everyone is responsible for their own impact, and therefore those who attend the Devcon as a local event don't have to pay for impact they don't personally incur. This may also help to protect against income inequality since those who pay most to attend (fly furthest) will have to offset the most. 
-→ We estimate that offsteting direct emissions will cost below 1 USD.
-→ Indirect emissions will depend on where you live.
-
 
 ## Implementation
 **Non-technical**
