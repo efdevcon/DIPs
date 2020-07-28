@@ -42,7 +42,7 @@ Devcon has several aspects to its organisation. To help us better guide you, sel
 * **Software** - Anything to do with software needs, devcon.org, subdomains, ...
 * **Communications** -Anything to do with Devcon-related communication, media, blog posts, ...
 * **Sponsorships** - Anything to do with sponsorships, benefits and more.
-* **Other** - Anyting else
+* **Other** - Anything else
 
 ## Resources
 Your DIP may require resources from the Devcon team, so make sure to add them to your draft. This will save both us both precious time when evaluating the feasibility of a DIP.
