@@ -8,7 +8,7 @@ Resources Required: Some Devcon dev time, connecting about hotels in Bogota
 
 ## Summary
 
-Winding Tree offers Devcon attendees to book their flights and hotels directly from suppliers with discount.
+Winding Tree offers Devcon attendees to book their flights and hotels directly from suppliers with discount. Winding Tree is 100% open-source and we aim to be as decentralized as it is possible.
 
 ## Abstract
 
@@ -24,14 +24,16 @@ Hopefully no one would even notice that travel booking was facilitated by our sm
 
 We haven't done anything like that at other events, but our open source travel agency is live: https://glider.travel.
 
-It would be amazing to learn about attendees' travel booking experience, if possible, but it is optional.
+For this to work we'll have to spin up a separate Glider Aggregator module, which will be combining data streams from different hotels and airlines. It will expose a REST API that the Devcon website will be able to talk to.
+
+Post-event, it would be amazing to learn about attendees' travel booking experience, if possible, but it is optional.
 
 ## Operational Requirements & Ownership
 
 ### 1. What actions are required to implement the proposal at Devcon?
 
 - we need to get a list of hotels Devcon team planned to target for room blocks
-- we will need to integrate our interfact into the Devcon website
+- we will need to integrate our interface into the Devcon website
 
 ### 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
