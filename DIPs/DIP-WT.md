@@ -41,7 +41,7 @@ Maksim Izmaylov <max@windingtree.com>
 
 ### 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 
-We're already working with solutions like Kleros and zkSync.
+We're already working with solutions like Kleros and zkSync. There is an opportunity to integrate with CO2ken and feed our flight and accommodation data into their system to allow attendees to offset their carbon footprint.
 
 ## Links & Additional Information
 
