@@ -3,7 +3,7 @@ Title: Winding Tree Travel Marketplace Integration
 Primary Contact: <Maksim Izmaylov> max@windingtree.com
 Themes: Ticketing, Purchases & ID
 Tags: Attendee Experience
-Resources Required: Some DevCon dev time, connecting about hotels in Bogota
+Resources Required: Some Devcon dev time, connecting about hotels in Bogota
 ---
 
 ## Summary
