@@ -1,5 +1,5 @@
 ---
-Title: Winding Tree Travel Marketplace Integration
+Title: Flight and hotel bookings sourced from decentralized open-source travel marketplace
 Primary Contact: <Maksim Izmaylov> max@windingtree.com
 Themes: Ticketing, Purchases & ID
 Tags: Attendee Experience
