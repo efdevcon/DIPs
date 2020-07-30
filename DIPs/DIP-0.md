@@ -109,6 +109,7 @@ Primary Contact: Email
 Themes: (See themes above)
 Tags: (Please select all that apply: Programming,_)
 Resources Required: (Physical space at venue, Operations Support)
+Discussion: (URL of where this DIP gets discussed, preferably on https://forum.devcon.org/)
 ---
 
 -----Summary of Proposal-----
