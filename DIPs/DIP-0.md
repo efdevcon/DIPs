@@ -19,7 +19,7 @@ The DIP author is responsible for making the case for a proposed DIP, and commun
 The Devcon Team intends DIPs to provide a mechanism for collecting collaborative community input on what should be included at the upcoming Devcon. While we are excited to have a more formal process to hear ideas from the community (roughly inspired by the more decentralized PEP, BIP and EIP processes), this is an experiment, and it should be understood that approval of proposals ultimately lies solely with the Devcon team. DIPs focus on collaboration in the ecosystem, so please review and collaborate on other proposals rather than submitting possible  duplicates.
 
 ## Themes
-There are two ways to suggest a DIP. We, the Devcon team issue a wishlist for implementations that we would like to see happen at the next edition of the conference. Check out the list! [link to RFPs] We also welcome all and any great idea that would improve Devcon.
+There are two ways to suggest a DIP. We, the Devcon team issue a wishlist (via RFPs) for implementations that we would like to see happen at the next edition of the conference. Check [them out here](https://forum.devcon.org/c/devcon-rfps/5)! We also welcome all and any great idea that would improve Devcon.
 
 Here is a list of themes to inspire you:
 
