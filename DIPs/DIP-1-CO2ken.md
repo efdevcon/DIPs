@@ -1,9 +1,11 @@
 ---
 Title: Make Devcon carbon neutral
+Status: Active
 Primary Contact: raphael@curvelabs.eu
 Themes: Ticketing, Environmental Sustainability
 Tags: Event production, Software
 Resources Required: Tech support, Communication support
+Discussions-to: https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27
 ---
 
 ## Summary of Proposal
