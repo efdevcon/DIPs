@@ -28,6 +28,8 @@ For this to work we'll have to spin up a separate Glider Aggregator module, whic
 
 Post-event, it would be amazing to learn about attendees' travel booking experience, if possible, but it is optional.
 
+What's great is that we don't need to build anything from scratch, we'll just modify our existing Glider components.
+
 ## Operational Requirements & Ownership
 
 ### 1. What actions are required to implement the proposal at Devcon?
