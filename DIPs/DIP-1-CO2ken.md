@@ -37,10 +37,9 @@ High quality carbon offset price per ton:
 
 
 ## Implementation
-**Non-technical**
+**Organizational**
 
-- Identify (at least) one high-quality carbon offset project in Colombia.
-- Negotiate purchasing conditions with the project(s).
+- How the funds gather during the ticketing process will be used to offset the event's carbon footprint will be discussed in a future DIP. This DIP should describe the governance and allocation of the funds and can be developed in collboration with other projects like [Terra0](https://terra0.org/) or the [Sovereign Nature Initiative](http://sovereignnature.com/). Inputs from the community are encouraged!
 - Gather data to best estimate the carbon footprint of the event.
 
 **Technical**
