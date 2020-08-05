@@ -106,10 +106,11 @@ All DIPs should be written in markdown format. Please use the template below:
 ---
 Title:
 Primary Contact: Email
+Status: Draft
 Themes: (See themes above)
 Tags: (Please select all that apply: Programming,_)
 Resources Required: (Physical space at venue, Operations Support)
-Discussion: (URL of where this DIP gets discussed, preferably on https://forum.devcon.org/)
+Discussion: (URL of where this DIP gets discussed, preferably on https://forum.devcon.org)
 ---
 
 -----Summary of Proposal-----
