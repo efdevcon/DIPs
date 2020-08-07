@@ -52,7 +52,7 @@ Treasure hunt games are customized and tailored around a conference or event. A 
 
 ## Previous Experience
 
-We set up [Planetscape][planetscape], a dystopian escape game for [36C3][36c3] based on the dreadful effects of climate change (ccc did **not** sponsored the game).
+We set up [Planetscape][planetscape], a dystopian escape game for [36C3][36c3] based on the dreadful effects of climate change (ccc did **not** sponsor the game).
 
 Planetscape is organized in 20 chapters, and requires players to solve quests in real life, explore the congress to find hints and interact with people. Planetscape had **20 levels**, **254 players**, [**1300** transactions][ps:transactions] to the smart contract, and **7 teams** finished the game and claimed their prize.
 
@@ -101,7 +101,7 @@ to create decentralized treasure hunts. Given a story, THC generates all the com
 .                                         +---------------------+
 ```
 
-THC creates a *user-friendly application that relys on decentralized technology only*. We want to live the decentralized dream with no compromises, developing a powerful dApp that would use Ethereum under the hood without exposing any details about blockchain and IPFS to the player.
+THC creates a *user-friendly application that relies on decentralized technology only*. We want to live the decentralized dream with no compromises, developing a powerful dApp that would use Ethereum under the hood without exposing any details about blockchain and IPFS to the player.
 
 The game has **instant onboarding** by allowing people to play the game just by visiting a website. By now, this happens by using a "burner-wallet"-like approach (the player's wallet is created on the fly when opening the dApp for the first time). In order to make transactions players needed Ether. While the current approach is to simply [transfer][gasstation] a small amount of (test) Ether to new players, we want to improve this by using [OpenGSN][opengsn].
 
@@ -123,6 +123,7 @@ chapter_address = private_key_to_address(
 The `chapter_address` is then used to verify if a user found the correct password.
 
 The smart contract stores the following information:
+
 - Chapters, identified by their sequential `id` such as `id ∈ [0, 2^96)`. Each `id` points to:
   - The **address of the chapter**.
   - The IPFS Content ID (CID) that points to the content of the chapter.
