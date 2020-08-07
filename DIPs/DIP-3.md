@@ -1,5 +1,5 @@
 ---
-Title:
+Title: Treasure Hunt Game
 Primary Contact: Alberto Granzotto <agranzot@mailbox.org>
 Status: Draft
 Themes: Social
