@@ -5,7 +5,7 @@ Status: Draft
 Themes: Social
 Tags: Event Production
 Resources Required: Communication support, Access to the venue before the event starts
-Discussion: TBD
+Discussion: https://forum.devcon.org/t/dip-a-treasure-hunt-game-for-devcon/45
 ---
 
 
