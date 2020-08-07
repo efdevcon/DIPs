@@ -16,7 +16,7 @@ We want to offer attendees the ability to offset the carbon emissions from Devco
 
 We have identified 2 ways of approaching offsetting, each with it's own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option.
 
-The user will be able to pay in crypto, directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
+The user will be able to pay directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
 
 ## Motivation & Rationale
 Most of us working on Ethereum are obsessed with building a "better future", and even though we're all focused on different building blocks, we understand that a radical shift is only possible if we combine these blocks into a global, interconnected, social and economic system. 
