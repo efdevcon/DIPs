@@ -4,6 +4,7 @@ Primary Contact: <Maksim Izmaylov> max@windingtree.com
 Themes: Ticketing, Purchases & ID
 Tags: Attendee Experience
 Resources Required: Some Devcon dev time, connecting about hotels in Bogota
+Discussions: https://forum.devcon.org/t/flights-and-hotels-sourced-via-decentralized-marketplace/42
 ---
 
 ## Summary
