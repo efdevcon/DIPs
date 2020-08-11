@@ -1,10 +1,12 @@
 ---
 DIP: 0
-title: DIP Purpose and Guidelines
-status: Active
-type: Meta
-author: <Bettina Boon Falleur> @BettinaBF, <Ligi> @ligi, <Heather Davidson> @p0unce, <Skylar> @skylarweaver, <Joseph Schweitzer> @ethjoe
-created: 2020-07-06
+Title: DIP Purpose and Guidelines
+Status: Active
+Theme: Meta
+Tags: Other
+Authors: <Bettina Boon Falleur> @BettinaBF, <Ligi> @ligi, <Heather Davidson> @p0unce, <Skylar> @skylarweaver, <Joseph Schweitzer> @ethjoe
+Discussion: [Devcon Forum](https://forum.devcon.org)
+Created: 2020-07-06
 ---
 
 
@@ -104,9 +106,10 @@ All DIPs should be written in markdown format. Please use the template below:
 
 ```
 ---
-Title:
+DIP: (Number of DIP)
+Title: (Think of a catchy, descriptive, short title)
 Status: Draft
-Primary Contact: Email
+Authors: (Emails of primary contacts)
 Themes: (See themes above)
 Tags: (Please select all that apply: Programming, ...)
 Resources Required: (Physical space at venue, Operations Support, etc.)
