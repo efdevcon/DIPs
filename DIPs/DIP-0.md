@@ -16,7 +16,7 @@ The DIP author is responsible for making the case for a proposed DIP, and commun
 
 ## Rationale
 
-The Devcon Team intends DIPs to provide a mechanism for collecting collaborative community input on what should be included at the upcoming Devcon. While we are excited to have a more formal process to hear ideas from the community (roughly inspired by the more decentralized PEP, BIP and EIP processes), this is an experiment, and it should be understood that approval of proposals ultimately lies solely with the Devcon team. DIPs focus on collaboration in the ecosystem, so please review and collaborate on other proposals rather than submitting possible  duplicates.
+The Devcon Team intends DIPs to provide a mechanism for collecting collaborative community input on what should be included at the upcoming Devcon. While we are excited to have a more formal process to hear ideas from the community (roughly inspired by the more decentralized PEP, BIP and EIP processes), this is an experiment, and it should be understood that approval of proposals ultimately lies solely with the Devcon team. DIPs focus on collaboration in the ecosystem, so please review and collaborate on other proposals rather than submitting possible duplicates.
 
 ## Themes
 There are two ways to suggest a DIP. We, the Devcon team issue a wishlist (via RFPs) for implementations that we would like to see happen at the next edition of the conference. Check [them out here](https://forum.devcon.org/c/devcon-rfps/5)! We also welcome all and any great idea that would improve Devcon.
@@ -74,17 +74,17 @@ You, the DIP author, just came up with a great idea for Devcon. Either (a) your 
 
 This is optional for DIPs responding to an RFP.
 
-Before writing a formal DIP Draft, take the time to vet your idea. Open a discussion thread here: forum.devcon.org and make sure to clearly state your idea to allow the community to provide feedback. This is done to ensure you don't waste your time writing a DIP that either won't get enough traction, is not feasible, or  is a duplicate. Take five minutes to read through the RFPs to make sure your idea doesn’t fit in one — it may save you some time!
+Before writing a formal DIP Draft, take the time to vet your idea. Open a discussion thread  on the [Devcon Forum](https://forum.devcon.org/) and make sure to clearly state your idea to allow the community to provide feedback. This is done to ensure you don't waste your time writing a DIP that either won't get enough traction, is not feasible, or is a duplicate. Take five minutes to read through the RFPs to make sure your idea doesn’t fit in one — it may save you some time!
 
 #### Process
 
- 1. **Draft DIP** - Choose your prettiest digital pen and write your DIP! Follow the yellow brick road: DIP format
+ 1. **Draft DIP** - Choose your prettiest digital pen and write your DIP! Follow the yellow brick road: [DIP format](https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-0.md#dip-format)
  2. **Submit DIP** - Click on the scary button and submit your DIP. Ensure you include all information required in the template under DIP Format below.
  3. **Editor Review** - Your DIP is now in the hands of the DIP editors team for review.
 Editors might request more information and ask to resubmit the DIP.  
  4. **Devcon team Review**
-     * **Accepted** - Your DIP is in! Welcome
-     * **Postponed** - Your DIP won’t be possible the following Devcon - but we love the idea.
+     * **Accepted** - Your DIP idea is approved! Now it's time to work on the implementation!
+     * **Postponed** - Your DIP won’t be possible the upcoming Devcon - but we love the idea.
      * **Rejected** - Oh no, the mean Devcon team, reach out to them and ask for more context to understand their reasoning
 
 #### Implementation
@@ -105,11 +105,11 @@ All DIPs should be written in markdown format. Please use the template below:
 ```
 ---
 Title:
-Primary Contact: Email
 Status: Draft
+Primary Contact: Email
 Themes: (See themes above)
-Tags: (Please select all that apply: Programming,_)
-Resources Required: (Physical space at venue, Operations Support)
+Tags: (Please select all that apply: Programming, ...)
+Resources Required: (Physical space at venue, Operations Support, etc.)
 Discussion: (URL of where this DIP gets discussed, preferably on https://forum.devcon.org)
 ---
 
