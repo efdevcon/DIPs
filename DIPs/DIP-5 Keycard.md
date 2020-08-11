@@ -36,7 +36,7 @@ Keycard is being mass produced (3k cards manufcatured as of 08/2020), integrated
 
 For interactions with dApps (retrieving preloaded NFTs, collecting them, proving ownership of a NFT) this can be done with already existing implementations 
 - a dApp running in status browser can request a transaction to be signed by any keycard tapped on the phone. see: https://keycard.tech/docs/web3.html
-- existign smart contracts can be used to associate preloaded assets with keycards. see: https://github.com/status-im/keycard-redeem
+- existing smart contracts can be used to associate preloaded assets with keycards. see: https://github.com/status-im/keycard-redeem
 
 For payments with keycard, for catering for instance, a layer 2 optimistic rollup network needs to be deployed. Status is currently working on this, and will be available for Devcon or not, depending on when Devcon VI is planned to happen in 2021. 
 
@@ -70,5 +70,4 @@ Each project will need to make sure their dApp (e.g project X wants to offer a N
 - Keycard documentation: https://keycard.tech/docs
 - Integrating Keycard with dApps: https://keycard.tech/docs/web3.html
 - Status pay, for payments with keycard: https://github.com/status-im/payment-network-apps
-
 
