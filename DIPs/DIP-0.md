@@ -47,7 +47,7 @@ Devcon has several aspects to its organisation. To help us better guide you, sel
 * **Other** - Anything else
 
 ## Resources
-Your DIP may require resources from the Devcon team, so make sure to add them to your draft. This will save both us both precious time when evaluating the feasibility of a DIP.
+Your DIP may require resources from the Devcon team, so make sure to add them to your draft. This will save us both precious time when evaluating the feasibility of a DIP.
 
 * Tech support
 * Physical room at venue
