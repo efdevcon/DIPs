@@ -32,7 +32,7 @@ Moreover, offering keycard will strongly incitate attendees to onboard status (t
 
 ## Implementation
 
-Keycard is being mass produced (3k cards manufcatured as of 08/2020), integrated with status app, and are being sold worldwide. Keycard have however never been distributed on an event to enable the use cases above. 
+Keycard is being mass produced (3k cards manufactured as of 08/2020), integrated with status app, and are being sold worldwide. Keycard have however never been distributed on an event to enable the use cases above. 
 
 For interactions with dApps (retrieving preloaded NFTs, collecting them, proving ownership of a NFT) this can be done with already existing implementations 
 - a dApp running in status browser can request a transaction to be signed by any keycard tapped on the phone. see: https://keycard.tech/docs/web3.html
@@ -70,4 +70,3 @@ Each project will need to make sure their dApp (e.g project X wants to offer a N
 - Keycard documentation: https://keycard.tech/docs
 - Integrating Keycard with dApps: https://keycard.tech/docs/web3.html
 - Status pay, for payments with keycard: https://github.com/status-im/payment-network-apps
-
