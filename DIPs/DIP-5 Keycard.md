@@ -1,6 +1,12 @@
-| Title              | Primary Contact    | Themes                    | Tags                | Ressources Required                        | Discussion |
-| ------------------ | ------------------ | ------------------------- | ------------------- | ------------------------------------------ | ---------- |
-| Keycard  at Devcon | guylouis@status.im | Ticketing, Purchases & ID | Attendee Experience | Communication support, Operational support | Tbd        |
+---
+Title: Keycard at Devcon
+Status: Draft
+Primary Contact: guylouis@status.im
+Themes: Ticketing, Purchase & ID
+Tags: Attendee Experience
+Resources Required: Operational support, Communication support
+Discussions-to: https://forum.devcon.org/t/dip-5-keycard-at-devcon/46
+---
 
 ## Summary
 
