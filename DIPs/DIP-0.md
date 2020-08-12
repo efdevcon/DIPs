@@ -1,10 +1,12 @@
 ---
 DIP: 0
-title: DIP Purpose and Guidelines
-status: Active
-type: Meta
-author: <Bettina Boon Falleur> @BettinaBF, <Ligi> @ligi, <Heather Davidson> @p0unce, <Skylar> @skylarweaver, <Joseph Schweitzer> @ethjoe
-created: 2020-07-06
+Title: DIP Purpose and Guidelines
+Status: Active
+Theme: Meta
+Tags: Other
+Authors: <Bettina Boon Falleur> @BettinaBF, <Ligi> @ligi, <Heather Davidson> @p0unce, <Skylar> @skylarweaver, <Joseph Schweitzer> @ethjoe
+Discussion: https://forum.devcon.org
+Created: 2020-07-06
 ---
 
 
@@ -45,7 +47,7 @@ Devcon has several aspects to its organisation. To help us better guide you, sel
 * **Other** - Anything else
 
 ## Resources
-Your DIP may require resources from the Devcon team, so make sure to add them to your draft. This will save both us both precious time when evaluating the feasibility of a DIP.
+Your DIP may require resources from the Devcon team, so make sure to add them to your draft. This will save us both precious time when evaluating the feasibility of a DIP.
 
 * Tech support
 * Physical room at venue
@@ -104,9 +106,10 @@ All DIPs should be written in markdown format. Please use the template below:
 
 ```
 ---
-Title:
+DIP: (Number of DIP)
+Title: (Think of a catchy, descriptive, short title)
 Status: Draft
-Primary Contact: Email
+Authors: (Emails of primary contacts)
 Themes: (See themes above)
 Tags: (Please select all that apply: Programming, ...)
 Resources Required: (Physical space at venue, Operations Support, etc.)
