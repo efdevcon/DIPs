@@ -109,9 +109,9 @@ All DIPs should be written in markdown format. Please use the template below:
 DIP: (Number of DIP)
 Title: (Think of a catchy, descriptive, short title)
 Status: Draft
-Authors: (Emails of primary contacts)
 Themes: (See themes above)
 Tags: (Please select all that apply: Programming, ...)
+Authors: (Emails of primary contacts)
 Resources Required: (Physical space at venue, Operations Support, etc.)
 Discussion: (URL of where this DIP gets discussed, preferably on https://forum.devcon.org)
 ---
