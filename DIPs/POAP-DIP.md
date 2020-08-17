@@ -1,5 +1,5 @@
 ---
-DIP: TB
+DIP: TBD
 Title: Proof of Attendance Protocol - basics
 Status: draft
 Theme: Social
