@@ -10,7 +10,7 @@ Discussion: https://forum.devcon.org/t/issuance-of-proof-of-attendance-nfts-with
 Created: 2020-08-17
 ---
 
---Summary of Proposal--
+## Summary of Proposal
 
 The main objective of this DIP is to replicate the experience of using POAP in Devcon 5 (Osaka). This being establishing the process for which every attendee gets one (and only one) POAP redemption code when they show up at the registration desk.
 
