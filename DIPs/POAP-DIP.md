@@ -40,7 +40,7 @@ Feedback or data from attendees post event is useful but not necesary.
 1. What actions are required to implement the proposal at Devcon?
 The implementation spans across several areas both physical and virtual. It's important to come up with a plan and diligently follow it.
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
-The POAP team and ad-hoc joined volunteers should be avaible for this.
+The POAP team and ad-hoc joined volunteers should be available for this.
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 POAP has a track record of several successful integrations with other products, we remain open mind to collaborate with anyone with good intentions.
 
