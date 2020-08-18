@@ -43,5 +43,3 @@ The implementation spans across several areas both physical and virtual. It's im
 The POAP team and ad-hoc joined volunteers should be available for this.
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 POAP has a track record of several successful integrations with other products, we remain open mind to collaborate with anyone with good intentions.
-
-```
