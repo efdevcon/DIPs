@@ -33,7 +33,7 @@ All these purposes were achieved and the community got highly engaged. As of Aug
 --Implementation--
 
 It's important to dedicate resources for creating a highly quality implementation. People that don't have advanced experience on using dapps need hand holding and explanations. Ideally a Devcon team member would be the liason with the POAP team to make sure the whole process is designed and executed switfly. 
-Feedback or data from attendees post event is useful but not necesary. 
+Feedback or data from attendees post event is useful but not necessary. 
 
 --Operational Requirements & Ownership--
 
