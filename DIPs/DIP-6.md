@@ -1,5 +1,5 @@
 ---
-DIP: 6
+DIP: 9
 Title: Devcon 5.1
 Status: Draft
 Theme: Virtual Experience
