@@ -114,7 +114,7 @@ The [CO2ken project](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27)
 
 **Possible Questions**
 1. Can the Tickets work without internet?
-A. Yes, the ticket can be used to check-in with out internet. This was one of the key requirements for the implemetnations for FIFA and UEFA. However, internet will be needed to access the advanced DAPP features offered by the ticket such as voting.
+A. Yes, the ticket can be used to check-in with out internet. This was one of the key requirements for the implementations for FIFA and UEFA. However, internet will be needed to access the advanced DAPP features offered by the ticket such as voting.
 
 2. tbc
 
