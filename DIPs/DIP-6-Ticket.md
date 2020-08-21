@@ -1,5 +1,5 @@
 ---
-Title: An dual-use (on/off chain) ticketing solution for DEVCON
+Title: An dual-use (on/off chain) ticketing solution for Devcon
 Status: Draft
 Theme: RFP-1 On-chain Ticketing
 Tags: Event Operations, Event Production, Software
@@ -10,17 +10,17 @@ Created: 2020-08-13
 ---
 
 ## Summary of Proposal
-Implement an attestation based ticketing system on Ethereum for DEVCON. This system will be integrated to Pretix, the existing DEVCON ticketing system
+Implement an attestation based ticketing system on Ethereum for Devcon. This system will be integrated to Pretix, the existing Devcon ticketing system
 
 ## Abstract
 
-DEVCON sends attendees attestation-based tickets, that can be used as a traditional ticket as well as crypto tokens.
+Devcon sends attendees attestation-based tickets, that can be used as a traditional ticket as well as crypto tokens.
 
-Once a ticket sales is confirmed, the attendee receives the ticket in the form of a cryptographic attestation to his email address. This ticket can be used as a traditional ticket. DEVCON does not send an Ethereum transaction in this process.
+Once a ticket sales is confirmed, the attendee receives the ticket in the form of a cryptographic attestation to his email address. This ticket can be used as a traditional ticket. Devcon does not send an Ethereum transaction in this process.
 
-If an attendee later becomes an Ethereum user by installing a wallet and create an Ethereum address, they can associate this ticket with their newly acquired Ethereum address through a process (see implementation), enabling them to use any smart contract based functions provided by DEVCON, such as voting or transferring the ticket. It's worth noting that the attendee does not need to send an "enabling" Ethereum transaction in order to start to use his ticket as a blockchain token.
+If an attendee later becomes an Ethereum user by installing a wallet and create an Ethereum address, they can associate this ticket with their newly acquired Ethereum address through a process (see implementation), enabling them to use any smart contract based functions provided by Devcon, such as voting or transferring the ticket. It's worth noting that the attendee does not need to send an "enabling" Ethereum transaction in order to start to use his ticket as a blockchain token.
 
-This approach is cost-effective, represent cost saving on the side of DEVCON as well as the attendee, as neither need to send any transaction before the attendee start to be able to use his ticket as a crypto token.
+This approach is cost-effective, represent cost saving on the side of Devcon as well as the attendee, as neither need to send any transaction before the attendee start to be able to use his ticket as a crypto token.
 
 It is flexible, allowing the attendee to acquire an Ethereum address before or after the ticket purchase.
 
@@ -40,7 +40,7 @@ Also the solution can convert non-crypto users to Ethereum users, as attendees c
       
 ## Implementation
 
-The core modules of the smart contract based ticketing system is already implemented by the same team for prior projects such as [FIFA 2018](https://alphawallet.com/for-business/case-study-tickets/) and UEFA 2020. The bulk of the implementation efforts for DEVCON 6 would be around integrating the existing solution with Pretix. Ideally this should be done in collaboration with Pretix team.
+The core modules of the smart contract based ticketing system is already implemented by the same team for prior projects such as [FIFA 2018](https://alphawallet.com/for-business/case-study-tickets/) and UEFA 2020. The bulk of the implementation efforts for Devcon 6 would be around integrating the existing solution with Pretix. Ideally this should be done in collaboration with Pretix team.
 
 On top of that, an email attestation service for uses needs to be built. We (AlphaWallet) can create one such service for attendees to claim attestation #2 (explained below) at http://attestation.id, ideally to create a decentralised ecosystem of attestors for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
@@ -73,7 +73,7 @@ First, the system is to be built through providing modules or customising pretix
 
 The usher app, which is used to validate tickets, can also be distributed to the vendors so that ticket holders can enjoy free meals included with the ticket. If plugged into a test net, a payment counter can be implemented in a smart contract, so that each person has a limited number of free meals.
 
-Furthermore, a ticket ownership proof can be generated from [TokenScript](http://docs.tokenscript.org/) that allows a website to recognise DEVCON ticket holders. This is useful for ticket holders to book services or to apply a discount. We can create a sample website for service providers to copy.
+Furthermore, a ticket ownership proof can be generated from [TokenScript](http://docs.tokenscript.org/) that allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply a discount. We can create a sample website for service providers to copy.
 
 **Previous implementations**
 
@@ -95,7 +95,7 @@ Development:
 - Integrating with Pretix
 - Optimizing features for Devcon
 - Ticket smart contract development and deployment
-- DEVCON Dapp website development  
+- Devcon Dapp website development
 - Initial testing and feedback (before event)
     
 Operations for the event should be more or less the same as the previous Devcon. Tech support for people who are trying out the new experiences would be something that is new and needs to be planned for
@@ -108,7 +108,7 @@ AlphaWallet and the Devcon team will be responsible for the implementation. The 
 
 Any services which require to verify attendees, like a discount for products, redeemable vouchers, content unlocking, IoT(open door, control screen), collateral for DeFis and etc.
 
-The [CO2ken project](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) is an ideal team to collaborate with and to integrate their proposal (DIP-1) to provide attendees the choice of offesting some of the carbon emissions caused by the event. This functionality can be added to the DEVCON DAPP website and any users using the website can support the cause by donating tokens to CO2ken
+The [CO2ken project](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) is an ideal team to collaborate with and to integrate their proposal (DIP-1) to provide attendees the choice of offesting some of the carbon emissions caused by the event. This functionality can be added to the Devcon DAPP website and any users using the website can support the cause by donating tokens to CO2ken
 
 ## Links & Additional Information
 
