@@ -81,7 +81,7 @@ Our first ticket implementation was on 2018, as an experiment with FIFA official
 
 The next full fledged implmentation was in 2019, with Shankai Sports for tokenising EURO Championship 2020 VIP event tickets, with integrated hospitality passes([App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
 
-In 2019, we also worked tordwards implementing EDCON 2020 event tickets on blockchain. Again, the app and tickets were ready, but thanks to the pandemic, the event got cancelled 😭😭😭)   
+In 2019, we also worked towards implementing EDCON 2020 event tickets on blockchain. Again, the app and tickets were ready, but thanks to the pandemic, the event got cancelled 😭😭😭)   
 
 ## Operational Requirements & Ownership
 **Actions required to implement the proposal at Devcon**
