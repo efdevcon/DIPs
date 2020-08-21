@@ -36,7 +36,7 @@ Tickets are one of the best use cases to demonstrate how blockchain and crypto t
 - Eliminates ticket fraud
 - Offer limitless integration with host of services
 
-Also the solution can convert non-crypto users to Ethereum users, as attendees can use the issued ticket (attestation #1) as an ethereum token, once he set up a wallet and goes through email verification (attestation #2). If we can maintain and open up the system to other event organisers, it will bring us millions of new ethereum users. Currently, there are 940 million unique digital ticket holders globally. If we can convert 5%, it is 47 million which is half of the total Ethereum unique addresses we have got for the past 5 years. 
+Also the solution can convert non-crypto users to Ethereum users, as attendees can use the issued ticket (attestation #1) as an Ethereum token, once he set up a wallet and goes through email verification (attestation #2). If we can maintain and open up the system to other event organisers, it will bring us millions of new Ethereum users. Currently, there are 940 million unique digital ticket holders globally. If we can convert 5%, it is 47 million which is half of the total Ethereum unique addresses we have got for the past 5 years. 
       
 ## Implementation
 
