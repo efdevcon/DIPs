@@ -1,14 +1,16 @@
+---
 Status: DRAFT
 Themes: Social
 Tags: Communication, Event Production, Sponsorship
 Authors: jonathan@status.im
 Resources Required: from the Devcon team side - support and communication
+---
 
------Summary of Proposal-----
+## Summary of Proposal
 
 Status as the communication layer for Devcon (on the ground and for satellite events). Utilizing Status as the layer into which many different projects showcased at Devcon plug in for maximum usability.
 
------Abstract-----
+## Abstract
 
 As we know, whenever we have an event in the Ethereum calendar, several different groups and conversations start taking shape in Telegram, WhatsApp etc. All less than decentralized.
 
@@ -26,7 +28,7 @@ But also enable attendees to create private chats with up to 10 friends.
 
 Using the Status wallet would enable the sending and receiving of tokens (NFTs as well as ERC20s), use of Keycard, any payment needs as well as any IRL experiences created by any dapps that would require a browser.
 
------Motivation & Rationale-----
+## Motivation & Rationale
 
 As an attendee, I very rarely use the official app and rely on my conversations (either IRL or via Telegram) to inform my decisions re where to go next, what events are happening, dinners etc.
 
@@ -35,7 +37,7 @@ Notifications on my phone alerting me of things happening (from talks coming up 
 
 Add in the security, wallet, dapp browsing facility and Keycard integration would make this a superior ALL IN ONE option vs various disjointed, non crypto products used for communication throughout the event.
 
------Implementation-----
+## Implementation
 
 Status has recently activated a whole host of features such as notifications and picture messages which bring the experience much closer to a mainstream platform. Both for communication but also for the frictionless access to functionality like payments.
 
@@ -47,7 +49,7 @@ getting an ens name so they become easier to identify by their peers on the grou
 QR codes on rooms to join live chats about what’s happening in a specific room/stage (or ask questions of the speakers)
 Since keycard comes with some preloaded assets e.g a POAP token, 10 SNTs, x DAIs to buy food etc. we can easily merge experiential with communication in a smooth bundle and plug in any other partner projects’ tokens.
 
------Operational Requirements & Ownership-----
+## Operational Requirements & Ownership
 Please answer questions below:
 
 Devcon team needs to be involved in the following manner:
