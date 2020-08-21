@@ -79,7 +79,7 @@ Furthermore, a ticket ownership proof can be generated from [TokenScript](http:/
 
 Our first ticket implementation was on 2018, as an experiment with FIFA officials to tokenise FIFA World Cup 2018 VIP tickets. The experiment was successful, where 50 users received attestation links through email and 28 of them converted those attestations into Ethereum tokens.
 
-The next full fledged implmentation was in 2019, with Shankai Sports for tokenising EURO Championship 2020 VIP event tickets, with integrated hospitality passes([App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
+The next full fledged implementation was in 2019, with Shankai Sports for tokenising EURO Championship 2020 VIP event tickets, with integrated hospitality passes([App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
 
 In 2019, we also worked towards implementing EDCON 2020 event tickets on blockchain. Again, the app and tickets were ready, but thanks to the pandemic, the event got cancelled 😭😭😭)   
 
