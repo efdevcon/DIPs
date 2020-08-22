@@ -14,7 +14,7 @@ Created: 2020-08-17
 
 The main objective of this DIP is to replicate the experience of using POAP in Devcon 5 (Osaka). This being establishing the process for which every attendee gets one (and only one) POAP redemption code when they show up at the registration desk.
 
---Abstract--
+## Abstract
 
 In devcon 5 the results were good, with 600 NFT redeemed and excellent feedback from the attendance. The process was established on the fly on the day of opening and it ended up being very clunky. The volunteers were supposed to give each attendee a deck of items that contained a decorative POAP sticky patch made of fabric with a QR code in the back and a colorful flyer with general information and instructions (among other stuff like a wrist band, food vouchers, a leaflet with the agenda). Weak and improvised coordination, problems with the wifi service and the language barrier made the registration process messy. For different reasons lots of attendees left the registration area without their POAP code or without the instructions. Although POAP had setup a help desk next to the main entrance, sometimes attendees with question weren't instructed to get there just because the volunteer was too rushed by the next person in line. 
 For devcon six we have the opportunity to develop a more polished process with clearer instructions and tasks. 
@@ -25,17 +25,17 @@ It remains to be analyzed in which format the attendees do get their QR redempti
 * The QR codes comes in an enamel pin (this was tested during ETHDenver and EthCC with great reception)
 * Others.
 
---Motivation & Rationale--
+## Motivation & Rationale
 
 When POAP was launched in Feb-2019 the purposes of it were to showcase true ownership of bearer assets, the potential of composability and the potential of Ethereum in general; as POAPs can create different highly sophisticated solutions like groundworks for sybil resistant identity solutions.
 All these purposes were achieved and the community got highly engaged. As of August 2020 POAP is a highly recognized protocol that has been used by thousands of people after being present in almost all large Ethereum events and a long tail of smaller community activities.
 
---Implementation--
+## Implementation
 
 It's important to dedicate resources for creating a highly quality implementation. People that don't have advanced experience on using dapps need hand holding and explanations. Ideally a Devcon team member would be the liason with the POAP team to make sure the whole process is designed and executed switfly. 
 Feedback or data from attendees post event is useful but not necessary. 
 
---Operational Requirements & Ownership--
+## Operational Requirements & Ownership
 
 1. What actions are required to implement the proposal at Devcon?
 The implementation spans across several areas both physical and virtual. It's important to come up with a plan and diligently follow it.
