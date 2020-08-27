@@ -8,7 +8,7 @@
    * [ ] Theme
    * [ ] Tags
    * [ ] Authors
-   * [ ] Resources Required
+   * [ ] Resources Required (optional)
    * [ ] Discussion-to (with link to devcon forum)
    * [ ] Created
  * [ ] contains these sections:
