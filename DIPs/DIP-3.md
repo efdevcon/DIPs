@@ -1,10 +1,13 @@
 ---
+DIP: 3
 Title: Flight and hotel bookings sourced from decentralized open-source travel marketplace
-Primary Contact: <Maksim Izmaylov> max@windingtree.com
-Themes: Ticketing, Purchases & ID
-Tags: Attendee Experience
+Status: Draft
+Theme(s): Ticketing, Purchases & ID
+Tag(s): Attendee Experience
+Author(s): <Maksim Izmaylov> max@windingtree.com
 Resources Required: Some Devcon dev time, connecting about hotels in Bogota
-Discussions: https://forum.devcon.org/t/flights-and-hotels-sourced-via-decentralized-marketplace/42
+Discussions-to: https://forum.devcon.org/t/flights-and-hotels-sourced-via-decentralized-marketplace/42
+Created: 2020-07-29
 ---
 
 ## Summary
