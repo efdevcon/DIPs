@@ -12,7 +12,7 @@
    * [ ] Discussion-to (with link to devcon forum)
    * [ ] Created (in the format year-month-day e.g 2020-4-20)
  * [ ] contains these sections:
-   * [ ] Abtract
+   * [ ] Abstract
    * [ ] Rationale
    * [ ] Implementation
    * [ ] Operational Reuirements & Ownership
