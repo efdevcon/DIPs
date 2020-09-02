@@ -17,7 +17,7 @@ Winding Tree is Ethereum-based decentralized B2B travel marketplace. We've also 
 
 ## Motivation & Rationale
 
-It would be grear if Devcon attendees were able to book their flight and hotel immediately after purchasing their Devcon ticket, and 10-20% cheaper than on any other travel booking website!
+It would be great if Devcon attendees were able to book their flight and hotel immediately after purchasing their Devcon ticket, and 10-20% cheaper than on any other travel booking website!
 
 Hopefully no one would even notice that travel booking was facilitated by our smart contracts, that would be the greatest compliment. At the same time, curious minds will be able to learn about our identity solution for organizations.
 
