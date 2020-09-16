@@ -1,7 +1,7 @@
 ---
 Title: Treasure Hunt Game
 Primary Contact: Alberto Granzotto <agranzot@mailbox.org>
-Status: Draft
+Status: Accepted
 Themes: Social
 Tags: Event Production
 Resources Required: Communication support, Access to the venue before the event starts
