@@ -1,6 +1,6 @@
 ---
 Title: Make Devcon carbon neutral
-Status: Draft
+Status: Accepted
 Primary Contact: raphael@curvelabs.eu
 Themes: Ticketing, Environmental Sustainability
 Tags: Event production, Software
@@ -19,7 +19,7 @@ We have identified 2 ways of approaching offsetting, each with it's own advantag
 The user will be able to pay directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
 
 ## Motivation & Rationale
-Most of us working on Ethereum are obsessed with building a "better future", and even though we're all focused on different building blocks, we understand that a radical shift is only possible if we combine these blocks into a global, interconnected, social and economic system. 
+Most of us working on Ethereum are obsessed with building a "better future", and even though we're all focused on different building blocks, we understand that a radical shift is only possible if we combine these blocks into a global, interconnected, social and economic system.
 
 We believe that any new system needs to learn from the shortcomings of previous systems and strive to be regenerative, forward thinking, keeping the best interests of future generations in mind. Internalising the cost of any negative social and environmental impact is tantamount to achieving this.
 
@@ -32,7 +32,7 @@ Rough emissions estimates for 3500 attendees and 4 days:
 → Transport = 1350 t
 
 High quality carbon offset price per ton:
-→ 10 – 20 USD 
+→ 10 – 20 USD
 ```
 
 
@@ -75,13 +75,13 @@ High quality carbon offset price per ton:
 
 - *But we don't have the data to accurately calculate the carbon footprint of `X` ?*
 
-	Unfortunately today, most things fall into the  **`X`** category where we would need more data to fully understand the climate impact of a certain action. But this data is often not measured, siloed or private.  We believe developing systems that can collect and aggregate carbon footprint data are amongst the most important things to focus on right now. 
+	Unfortunately today, most things fall into the  **`X`** category where we would need more data to fully understand the climate impact of a certain action. But this data is often not measured, siloed or private.  We believe developing systems that can collect and aggregate carbon footprint data are amongst the most important things to focus on right now.
 
 	But the lack of accurate data should not be used as an excuse for not starting to act in the first place. Let's not forget: we’re dealing with CO2 emissions. If we use the data we have, take the most conservative estimate, and start offsetting these emissions, we will at worst offset too much. Given the state of the planet, we need to do this anyway.
 
 - *Aren't carbon offsets the new letters of indulgence?*
 
-	We want to make it clear that offsetting is no silver bullet. Studies estimate that three quarters of circulating carbon credits are “hot air” and don’t lead to additional emission reductions. We should foremost aim to reduce our carbon footprint overall, and only compensate for those activities for which no good alternatives exist today. 
+	We want to make it clear that offsetting is no silver bullet. Studies estimate that three quarters of circulating carbon credits are “hot air” and don’t lead to additional emission reductions. We should foremost aim to reduce our carbon footprint overall, and only compensate for those activities for which no good alternatives exist today.
 
 	This is why a lot of research has to go into sourcing the right projects. Ultimately, our goal at CO2ken is to shed light into the opaque carbon offset value chain in order to unlock the rapid growth we need to see in climate finance.
 
