@@ -85,9 +85,11 @@ Before writing a formal DIP Draft, take the time to vet your idea. Open a discus
  3. **Editor Review** - Your DIP is now in the hands of the DIP editors team for review.
 Editors might request more information and ask to resubmit the DIP.  
  4. **Devcon team Review**
+     * **Draft** - Your DIP that is undergoing rapid iteration and changes
      * **Accepted** - Your DIP idea is approved! Now it's time to work on the implementation!
      * **Postponed** - Your DIP won’t be possible the upcoming Devcon - but we love the idea.
      * **Rejected** - Oh no, the mean Devcon team, reach out to them and ask for more context to understand their reasoning
+     * **Changes Requested** - The DIP needs modifications conditional to its validation.
 
 #### Implementation
 
