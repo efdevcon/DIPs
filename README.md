@@ -19,6 +19,7 @@ After submitting editors will go through [this checklist](checklist.md) - it is 
 ## DIP Status Terms
 
  * **Draft** - an DIP that is undergoing rapid iteration and changes.
- * **Accepted** - The Devcon Organisers have Accepted your DIP
- * **Postponed** - The DIP won’t be possible for the following edition
- * **Rejected** - The DIP won’t be implemented
+ * **Accepted** - The Devcon Organisers have Accepted your DIP.
+ * **Postponed** - The DIP won’t be possible for the following edition.
+ * **Rejected** - The DIP won’t be implemented.
+ * **Changes Requested** - The DIP needs modifications conditional to its validation.
