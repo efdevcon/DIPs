@@ -17,7 +17,7 @@ This time, however, the mechanics and story of the room should be fundamentally 
 ## Abstract
 Daedalus Industries proposes a sequel to "The Spy Who Staked Me" Crypto-Escape Room experience.
 
-The general mechanics, outline, and several pieces of equipment are adaptable from the previous production, but there are some open questions concerning space, funding, and local execution that need to be addressed. 
+The general mechanics, outline, and several pieces of equipment are adaptable from the previous production, but there are some open questions concerning space, funding, and local execution that need to be addressed.
 
 ## Motivation & Rationale
 Escape rooms are a wonderful experience to have at an event like Devcon; and offer an alternative environment to have fun and take a break from the conference proper.
@@ -40,7 +40,7 @@ There are essentially 3 components to a well-executed escape room:
 
 * Hardware. Several custom-built components need to be either shipped from Berlin (some pieces are quite heavy) or assembled in Bogotá before the event.
 
-* Software. [The burner wallet](https://medium.com/@dmihal/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962) needs to be adapted to both the new story and a well-concieved mechanism of staking.
+* Software. [The burner wallet](https://medium.com/@dmihal/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962) needs to be adapted to both the new story and a well-conceived mechanism of staking.
 
 There exists a lead-person for each of these elements on the Daedalus team, and I've confirmed with each of them they are willing and able to work on them this year in preparation for Devcon6.
 
@@ -52,7 +52,7 @@ What I do not have sorted yet concern locale and execution:
 
 * Funding. Between working hours, travel expenses, and custom equipment/furniture builds, this is not a *cheap* proposal by any stretch of the imagination. I believe there is some opportunity for external funding from the ecosystem, such as sponsorship from hardware wallet companies or (tasteful and unimposing) in-room promotions. I can provide an itemized budget from the previous production by request, but would rather not post it here.
 
-* Translation. Although it would be a tremendous amount of work, producing the story and materials to be Spanish-compatible would be worth it, IMO. The whole point of the room is for crypto-onboarding, and a spanish-language option would encourage much more local participation.
+* Translation. Although it would be a tremendous amount of work, producing the story and materials to be Spanish-compatible would be worth it, IMO. The whole point of the room is for crypto-onboarding, and a Spanish-language option would encourage much more local participation.
 
 
 ## Links and Additional Information
