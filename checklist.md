@@ -15,5 +15,5 @@
    * [ ] Abstract
    * [ ] Rationale
    * [ ] Implementation
-   * [ ] Operational Reuirements & Ownership
+   * [ ] Operational Requirements & Ownership
  * [ ] PR title prefixed with DIP-X
