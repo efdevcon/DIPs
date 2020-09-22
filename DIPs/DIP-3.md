@@ -1,7 +1,7 @@
 ---
 DIP: 3
 Title: Flight and hotel bookings sourced from decentralized open-source travel marketplace
-Status: Draft
+Status: Changes Requested
 Theme(s): Ticketing, Purchases & ID
 Tag(s): Attendee Experience
 Author(s): <Maksim Izmaylov> max@windingtree.com
