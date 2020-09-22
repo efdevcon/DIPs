@@ -1,6 +1,6 @@
 ---
 Title: Keycard at Devcon
-Status: Draft
+Status: Changes Requested
 Primary Contact: guylouis@status.im
 Themes: Ticketing, Purchase & ID
 Tags: Attendee Experience
