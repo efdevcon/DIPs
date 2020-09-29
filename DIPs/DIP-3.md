@@ -1,7 +1,7 @@
 ---
 DIP: 3
 Title: Flight and hotel bookings sourced from decentralized open-source travel marketplace
-Status: Changes Requested
+Status: Accepted
 Theme(s): Ticketing, Purchases & ID
 Tag(s): Attendee Experience
 Author(s): <Maksim Izmaylov> max@windingtree.com
@@ -39,7 +39,7 @@ What's great is that we don't need to build anything from scratch, we'll just mo
 ### 1. What actions are required to implement the proposal at Devcon?
 
 - we need to get a list of hotels Devcon team planned to target for room blocks
-- we will need to integrate our interface into the Devcon website
+- Contingent on the Devcon team's approval (which will be based in part on *seeing* a [stellar UX and thorough customer service plan](https://github.com/efdevcon/DIPs/pull/33) in action), we would like to integrate our interface into the Devcon website
 
 ### 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
