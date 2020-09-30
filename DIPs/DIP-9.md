@@ -1,7 +1,7 @@
 ---
 DIP: 9
 Title: Devcon 5.1
-Status: Draft
+Status: Rejected
 Theme: Virtual Experience
 Tags: Other
 Authors: <Cristian Espinoza> @crisgarner
