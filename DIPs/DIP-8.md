@@ -1,7 +1,7 @@
 ---
 DIP: 8
 Title: Proof of Attendance Protocol - basics
-Status: draft
+Status: Accepted
 Theme: Social
 Tags: Event Production
 Authors: <Patricio Worthalter> worthalter AT poap DOT xyz
