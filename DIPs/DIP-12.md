@@ -69,5 +69,5 @@ DAOs are popping out of the Ether like mushrooms trying to address challenges of
 **Links:**
 * [Link to Devon Forum — CO2ken DIP](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27)
 * [CO2ken Website](https://www.co2ken.io/)
-* [Medium post describing the project's Genesis (things have chaged since then)](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1)
+* [Medium post describing the project's Genesis (things have changed since then)](https://medium.com/curve-labs/co2ken-genesis-74d7a1387ea1)
 * [@CO2ken_io on Twitter](https://twitter.com/CO2ken_io)
