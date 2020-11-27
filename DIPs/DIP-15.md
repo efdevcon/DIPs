@@ -21,7 +21,7 @@ __200 word description of the proposal.__
 
 ## Motivation & Rationale
 Attendees get peace of mind when travelling to DevConVI. This will increase their wellbeing
-and will also attract people who otherwise would obstain from participation.
+and will also attract people who otherwise would abstain from participation.
 DevConVI attendees will most likely be willing to use blockchain based insurance because it fits
 best in their DeFi engagement. Payouts can be immediate and no paperwork is needed.
 While we have offered FlightDelay Insurance at DevConII in Shanghai and got a lot of good feedback, 
