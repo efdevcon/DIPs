@@ -6,7 +6,7 @@ Themes: a,b,c
 Tags: DeFi, Insurance, Peer2Peer, Travel
 Authors: christoph@etherisc.com
 Resources Required: CustomerSupportBooth at DevConVI
-Discussion: https://forum.devcon.org
+Discussion: https://forum.devcon.org/t/dip-15-travel-insurance/176
 Created: 2020-11-27
 ---
 
