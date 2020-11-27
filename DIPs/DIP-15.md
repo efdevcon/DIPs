@@ -20,7 +20,7 @@ __200 word description of the proposal.__
 (this will be provided)
 
 ## Motivation & Rationale
-Attendees get peace of mind when travelling to DevConVI. This will increase their wellbeing
+Attendees get peace of mind when travelling to DevConVI. This will increase their well-being
 and will also attract people who otherwise would abstain from participation.
 DevConVI attendees will most likely be willing to use blockchain based insurance because it fits
 best in their DeFi engagement. Payouts can be immediate and no paperwork is needed.
