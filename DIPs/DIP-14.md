@@ -37,7 +37,7 @@ It is quite common, sometimes even celebrated (when the beer comes into play) an
 ## Operational Requirements & Ownership
 1. What actions are required to implement the proposal at Devcon?
 
-Offer the possibility to submit posters - either parallely during the call for "speaking slots" or specifically to those, whose talk submission got rejected. 
+Offer the possibility to submit posters - either parallelly during the call for "speaking slots" or specifically to those, whose talk submission got rejected. 
 
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
