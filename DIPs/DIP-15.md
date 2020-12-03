@@ -22,7 +22,7 @@ After registering, people select their flight(s) and pay a small premium (about 
 e.g. USDC, DAI etc. 
 Via an oracle, the risk of the flight being late is calculated. 
 After landing, the actual delay is determined by a second oracle call and in case of a delay, the payout is calcuated
-and immediately transfered to the customers wallet.
+and immediately transferred to the customers wallet.
 We are currently talking to [Team WindingTree](https://windingtree.com) to integrate the insurance in windingtree's travel agency solution.
 The oracle is provided by [Chainlink](https://chain.link). The core business process runs on our 
 "[Generic Insurance Framework](https://github.com/etherisc/GIF)" and does
