@@ -33,9 +33,9 @@ theft, and others, depending on availability of reliable loss data.
 
 Claims are paid out from risk pools. Investors can provide liquidity for risk pools. Liquidity providers receive
 those premiums which are not used to pay out claims. To become a liquidity provider, investors need to 
-stake DIP tokens.
+stake [DIP (Decentralized Insurance Protocol) tokens](https://etherscan.io/token/0xc719d010b63e5bbf2c0551872cd5316ed26acd83).
 
-The economic model together with the staking model is tested in Q1/2021.   
+The economic model together with the staking model will be tested in Q1/2021.   
 
 ## Motivation & Rationale
 Attendees get peace of mind when travelling to DevConVI. This will increase their well-being
@@ -43,7 +43,9 @@ and will also attract people who otherwise would abstain from participation.
 DevConVI attendees will most likely be willing to use blockchain based insurance because it fits
 best in their DeFi engagement. Payouts can be immediate and no paperwork is needed.
 While we have offered FlightDelay Insurance at DevConII in Shanghai and got a lot of good feedback, 
-we believe that a full featured travel insurance would  
+we believe that a full featured travel insurance would be even more attractive for Devcon VI attendees.
+The connection with WindingTree will further improve the user experience because travellers can buy 
+flight tickets, hotel and other services and pay in a single transaction. 
 
 ## Implementation
 FlightDelay Insurance has been live at DevConII and DevConIII. It will be implemented using our
@@ -51,7 +53,7 @@ FlightDelay Insurance has been live at DevConII and DevConIII. It will be implem
 
 ## Operational Requirements & Ownership
 Implementation and operation will be provided by Etherisc.
-We are talking with DIP-3 author WindingTree to integrate in their travel agency.
+We are talking with [DIP-3 author WindingTree](https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-3.md) to integrate in their travel agency.
 
 ## Links & Additional Information
 - https://etherisc.com
