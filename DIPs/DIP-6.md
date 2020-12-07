@@ -31,13 +31,20 @@ Tickets are one of the best use cases to demonstrate how blockchain and crypto t
 - Eliminates ticket fraud
 - Offer limitless integration with host of services
 
-Also the solution can convert non-crypto users to Ethereum users, as attendees can use the issued ticket (attestation #1) as an Ethereum token, once he set up a wallet and goes through email verification (attestation #2). If we can maintain and open up the system to other event organisers, it will bring us millions of new Ethereum users. Currently, there are 940 million unique digital ticket holders globally. If we can convert 5%, it is 47 million which is half of the total Ethereum unique addresses we have got for the past 5 years. 
+Also the solution can convert non-crypto users to Ethereum users, as attendees can use the issued ticket (attestation #1) as an Ethereum token. If we can maintain and open up the system to other event organisers, it will bring us millions of new Ethereum users. Currently, there are 940 million unique digital ticket holders globally. If we can convert 5%, it is 47 million which is half of the total Ethereum unique addresses we have got for the past 5 years. 
       
 ## Implementation
 
-The core modules of the smart contract based ticketing system is already implemented by the same team for prior projects such as [FIFA 2018](https://alphawallet.com/for-business/case-study-tickets/) and UEFA 2020. The bulk of the implementation efforts for Devcon 6 would be around integrating the existing solution with Pretix. Ideally this should be done in collaboration with Pretix team.
+The core modules of the smart contract based ticketing system is already implemented by the AlphaWallet for prior projects such as [FIFA 2018](https://alphawallet.com/for-business/case-study-tickets/) and UEFA 2020. 
 
-On top of that, an email attestation service for uses needs to be built. We (AlphaWallet) can create one such service for attendees to claim attestation #2 (explained below) at http://attestation.id, ideally to create a decentralised ecosystem of attestors for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
+The key peices of work that needs to be done include:
+- Integrating ticket attestation generation to ticket purchase confirmation (attestation generator component would be created by AlphaWallet, integration to email attestation needs to be implemented by Devcon team)
+- an email attestation service
+- Attestation javascript components for websites
+- Attestation libray for smart contracts
+- Email attestation service 
+
+WIth regards to the email attestation service (AlphaWallet) can create one such service for attendees to claim attestation #2 (explained below) at http://attestation.id, ideally to create a decentralised ecosystem of attestors for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
 ### Attestations ###
 
@@ -51,28 +58,21 @@ Attestation #2
 
 ![Attestations involved](images/DIP-Ticket_Attestations.svg)
  
-Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](http://docs.tokenscript.org/MagicLinks.html). User is not required to have an Ethereum address at this stage!
+Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](http://docs.tokenscript.org/MagicLinks.html). User is not required to have an Ethereum address at this stage.
 
-If the user later installed a wallet and get his Ethereum address, Attestation #2 can be issued by http://attestation.id The process of acquiring attestation #2 would be a simple guided process for the users. It will be through visiting a website, where the user verifies their email to receive an attestation that will be saved in the Dapp browser as a cookie or in the user's wallet if the wallet can recognise attestations.
+Attestation #2 can be issued by http://attestation.id The process of acquiring attestation #2 would be a simple guided process for the users. It will be through visiting a website, where the user verifies their email to receive an attestation that will be saved in the Dapp browser as a cookie or in the user's wallet if the wallet can recognise attestations.
  
 When the user wishes to interact with a smart contract function, such as voting, the user will call the smart contract with the attestation #1 and #2. Together they prove that the transaction sender's Ethereum address is that of the valid attendee. Such an implementation would preserve the privacy of the user, as these attestations do not reveal the actual email address. Please check out the [safe protocol](https://github.com/AlphaWallet/blockchain-attestation/blob/master/use-cases/send-ether-by-identifier-attestation.md) for more details.
 
-**Integration with Pretix**
-- A brief idea about integration with pretix, details are to be confirmed
-
-![Attestations involved](images/Pretix-integration.svg)
-
-White: Must have, Yellow: Could have
-
-First, the system is to be built through providing modules or customising pretix, which is a mature ticketing system. This is to be done through a collaboration between Pretix and AlphaWallet.
-
-The usher app, which is used to validate tickets, can also be distributed to the vendors so that ticket holders can enjoy free meals included with the ticket. If plugged into a test net, a payment counter can be implemented in a smart contract, so that each person has a limited number of free meals.
 
 Furthermore, a ticket ownership proof can be generated from [TokenScript](http://docs.tokenscript.org/) that allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply a discount. We can create a sample website for service providers to copy.
 
+**Integration with Pretix**
+- No integrations to Pretix solution, as per the latest designs. The current app for Pretix ticket check-in will continue to be used as it is.
+
 **Previous implementations**
 
-Our first ticket implementation was on 2018, as an experiment with FIFA officials to tokenise FIFA World Cup 2018 VIP tickets. The experiment was successful, where 50 users received attestation links through email and 28 of them converted those attestations into Ethereum tokens.
+Our first ticket implementation was in 2018, as an experiment with FIFA officials to tokenise FIFA World Cup 2018 VIP tickets. The experiment was successful, where 50 users received attestation links through email and 28 of them converted those attestations into Ethereum tokens.
 
 The next full fledged implementation was in 2019, with Shankai Sports for tokenising EURO Championship 2020 VIP event tickets, with integrated hospitality passes([App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
 
@@ -83,17 +83,15 @@ In 2019, we also worked towards implementing EDCON 2020 event tickets on blockch
 
 1. What actions are required to implement the proposal at Devcon?
 
-The key effort would be around developing the solution further to integrate it with the Pretix solution. 
-
 Development:
 - Improving our existing attestation and smart contract based ticketing system
-- Integrating with Pretix
 - Optimizing features for Devcon
 - Ticket smart contract development and deployment
 - Devcon Dapp website development
+- Example webpages and Dapps to help implement the components 
 - Initial testing and feedback (before event)
     
-Operations for the event should be more or less the same as the previous Devcon. Tech support for people who are trying out the new experiences would be something that is new and needs to be planned for
+Operations for the event should be more or less the same as the previous Devcon. Tech support would be needed for people who are trying out the new experiences would be needed.
 
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
