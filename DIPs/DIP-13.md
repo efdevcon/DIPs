@@ -1,7 +1,7 @@
 ---
 DIP: 13
 Title: On-chain & trouble-free ticketing for Devcon 6 with GET Protocol
-Status: Draft
+Status: Rejected
 Themes: Ticketing
 Tags: Event operations
 Authors: olivier@get-protocol.io
