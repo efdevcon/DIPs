@@ -5,11 +5,11 @@
    * [ ] DIP
    * [ ] Title
    * [ ] Status
-   * [ ] Theme(s)
-   * [ ] Tag(s)
-   * [ ] Author(s)
+   * [ ] Themes
+   * [ ] Tagss
+   * [ ] Authors
    * [ ] Resources Required (optional)
-   * [ ] Discussion-to (with link to devcon forum)
+   * [ ] Discussion (with link to devcon forum)
    * [ ] Created (in the format year-month-day e.g 2020-4-20)
  * [ ] contains these sections:
    * [ ] Abstract

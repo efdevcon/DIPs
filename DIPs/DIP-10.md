@@ -6,7 +6,7 @@ Themes: Social
 Tags: Communication, Event Production, Sponsorship
 Authors: jonathan@status.im
 Resources Required: from the Devcon team side - support and communication
-Discussions-to: https://forum.devcon.org/t/dip-10-status-as-communication-layer-for-devcon/115
+Discussion: https://forum.devcon.org/t/dip-10-status-as-communication-layer-for-devcon/115
 Created: 2020-08-21
 ---
 

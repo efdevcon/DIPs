@@ -1,11 +1,12 @@
 ---
+DIP: 5
 Title: Keycard at Devcon
 Status: Accepted
-Primary Contact: guylouis@status.im
 Themes: Ticketing, Purchase & ID
 Tags: Attendee Experience
+Authors: guylouis@status.im
 Resources Required: Operational support, Communication support
-Discussions-to: https://forum.devcon.org/t/dip-5-keycard-at-devcon/46
+Discussion: https://forum.devcon.org/t/dip-5-keycard-at-devcon/46
 ---
 
 ## Summary
