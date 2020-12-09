@@ -102,6 +102,24 @@ Operations for the event should be more or less the same as the previous Devcon.
 
 AlphaWallet and the Devcon team will be responsible for the implementation. The project governance would be done through weekly or fortnightly meetings managed in an Agile fashion. 
 
+**Deliverables and Ownership:**
+|#  | Deliverable | Description | Owner|
+|---|-------------|-------------|------|
+|1.|Devcon ticket Attributes |<ul><li>All the attributes that define a ticket</li></ul>|Devcon|
+|2.|Attestation Modules |<ul><li>Library for websites to handle attestations, which are available as a cookie in the browser</li><li>The websites created by Devcon and other 3rd parties who want to verify a valid Devcon ticket holder will need to incorporate this library into their website.</li></ul>|AlphaWallet|
+|3.|Attes.sol library |<ul><li>Library for smart contracts to handle attestations, for verifying a valid ticket holder</li></ul>|AlphaWallet|
+|4.|Library documentations |<ul><li>Documentation for both TS_Attestation.js and Attes.sol libraries</li></ul>|AlphaWallet|
+|5.|Attestation.id website |<ul><li>The website that sends OTP to verify user’s email ID and generates email attestation. </li></ul>|AlphaWallet|
+|6.|Example Webpage: Ticket Issuer webpage |<ul><li>A sample website which shows just the ticket details and generate ticket attestation cookie to be stored in user’s browser </li></ul>|AlphaWallet|
+|7.|Example Dapp: Simple Dapp using  attestations |<ul><li>A simple example distributed application to demonstrate how to implement attestation verification and uses a placeholder smart contract</li></ul>|AlphaWallet|
+|8.|Ticket Attestation generator |<ul><li>Java component for creating links for ticket attestation</li></ul>|AlphaWallet|
+|9.|Ticket Attestation Email routine |<ul><li>Use the ticket attestation generator component to create attestations and incorporate it into ticket confirmation emails</li></ul>|Devcon|
+|10.|Devcon Ticket Page |<ul><li>The actual webpage that ticket attestation link directs user to </li></ul>|Devcon|
+|11.|Devcon Dapps |<ul><li>The Dapps that allow users to vote, generate NFT etc based on ticket verification</li></ul>|Devcon|
+|12.|Third Party Dapps |<ul><li>Any other services that may be offered by the community, for valid ticket holders.</li></ul>|Respective third party teams|
+
+---
+
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 
 Any services which require to verify attendees, like a discount for products, redeemable vouchers, content unlocking, IoT(open door, control screen), collateral for DeFis and etc.
