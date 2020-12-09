@@ -70,7 +70,7 @@ Furthermore, a ticket ownership proof can be generated from [TokenScript](http:/
 **Process Flow**
 The attached swimlane diagram shows how the different actors and parties invloved in the ticketing process would use the solution to prove and verify ticket's authenticity to provide previlaged access.
 
-![Process_Flow](Swimlane_DIP6.jpg)
+![Process_Flow](images/Swimlane_DIP6.jpg)
 
 **Integration with Pretix**
 - No integrations to Pretix solution, as per the latest designs. The current app for Pretix ticket check-in will continue to be used as it is.
