@@ -2,9 +2,9 @@
 DIP: 2
 Title: Audius music in common areas and between talks at Devcon
 Status: Withdrawn
-Primary Contact: roneil at the website audius.co
 Themes: Art & Beauty
 Tags: Event Operations, Event Production
+Authors: roneil at the website audius.co
 Resources Required: Operational support
 Discussion: https://forum.devcon.org/t/dip-2-audius-music-in-common-areas-and-between-talks-at-devcon/37
 ---

@@ -2,11 +2,11 @@
 DIP: 6
 Title: Attestation based ticketing solution for Devcon
 Status: Draft
-Theme: RFP-1 On-chain Ticketing
+Themes: RFP-1 On-chain Ticketing
 Tags: Event Operations, Event Production, Software
 Authors: weiwu.zhang@alphawallet.com, sunil.tom.jose@alphawallet.com, victor.zhang@alphawallet.com
 Resources Required: software development, operations Support and tech support
-Discussions-to: https://forum.devcon.org/t/attestation-based-ticketing-system-that-is-managed-by-ethereum-smart-contracts-and-integrated-with-pretix-re-rfp-1-onchain-ticketing/54
+Discussion: https://forum.devcon.org/t/attestation-based-ticketing-system-that-is-managed-by-ethereum-smart-contracts-and-integrated-with-pretix-re-rfp-1-onchain-ticketing/54
 Created: 2020-08-13  
 ---
 

@@ -1,9 +1,10 @@
 ---
+DIP: 4
 Title: Treasure Hunt Game
-Primary Contact: Alberto Granzotto <agranzot@mailbox.org>
 Status: Accepted
 Themes: Social
 Tags: Event Production
+Authors: Alberto Granzotto <agranzot@mailbox.org>
 Resources Required: Communication support, Access to the venue before the event starts
 Discussion: https://forum.devcon.org/t/dip-a-treasure-hunt-game-for-devcon/45
 ---
