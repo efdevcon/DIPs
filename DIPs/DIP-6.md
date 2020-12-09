@@ -46,6 +46,9 @@ The key peices of work that needs to be done include:
 
 WIth regards to the email attestation service (AlphaWallet) can create one such service for attendees to claim attestation #2 (explained below) at http://attestation.id, ideally to create a decentralised ecosystem of attestors for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
+### Storyboard ###
+![Storyboard for atttestation based ticketing](images/Storyboard_DIP6.jpg)
+
 ### Attestations ###
 
 Attestation based ticketing ensures privacy, flexibility and cost efficiency for the blockchain implementation of ticketing. It involves two attestations:
@@ -67,7 +70,7 @@ When the user wishes to interact with a smart contract function, such as voting,
 
 Furthermore, a ticket ownership proof can be generated from [TokenScript](http://docs.tokenscript.org/) that allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply a discount. We can create a sample website for service providers to copy.
 
-**Process Flow**
+### Process Flow ###
 The attached swimlane diagram shows how the different actors and parties invloved in the ticketing process would use the solution to prove and verify ticket's authenticity to provide previlaged access.
 
 ![Process_Flow](images/Swimlane_DIP6.jpg)
