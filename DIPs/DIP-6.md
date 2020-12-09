@@ -47,7 +47,7 @@ The key peices of work that needs to be done include:
 WIth regards to the email attestation service (AlphaWallet) can create one such service for attendees to claim attestation #2 (explained below) at http://attestation.id, ideally to create a decentralised ecosystem of attestors for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
 ### Storyboard ###
-![Storyboard for atttestation based ticketing](images/Storyboard_for_DIP6.jpg)
+![Storyboard for atttestation based ticketing](images/Storyboard_pic_DIP6.jpg)
 
 ### Attestations ###
 
