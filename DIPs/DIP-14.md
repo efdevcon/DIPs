@@ -7,6 +7,7 @@ Tags: Event Operations
 Authors: valerie.vaske@gmail.com
 Resources Required: Physical space at venue, Communication support
 Discussion: https://forum.devcon.org/t/dip-14-using-posters-as-a-medium-alongside-talks/174/2
+Created: 25.11.2020
 ---
 
 ## Summary of Proposal
