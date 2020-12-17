@@ -22,7 +22,7 @@ Such a dApp could be a redeem dApp, developped by Status, this dApp allowing use
 
 Keycard is an open source implementation to enable smartcards in the crypto space. The framework allows to use smartcards both as highly secure hardware wallets with one's phone, and as super simple to use (think: one tap) devices that can be tapped on someone else's phone to sign a transaction, opening up a variety of use cases.
 
-A Devcon attendee (using Android or iOS) would be handed over a keycard when checking in at Devcon. If relevant, tis keycard will be printed with some indication of which assets are offered with the card. The user then can:
+A Devcon attendee (using Android or iOS) would be handed over a keycard when checking in at Devcon. If relevant, this keycard will be printed with some indication of which assets are offered with the card. The user then can:
 - download & onboard Status app. As part of this onboarding the user would import an existing or create a ethereum account
 - if relevant, retrieve preloaded assets that come with the card (e.g POAP token, Status SNT token that would come as a gift, etc) to the wallet of their choice 
 - tap the card to partner projects that developped a dApp interacting with the card
