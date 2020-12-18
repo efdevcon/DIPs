@@ -1,7 +1,7 @@
 ---
 DIP: 11
 Title: A Crypto-Onboarding Escape Room
-Status: Draft
+Status: Accepted
 Themes: Freeform
 Tags: Event Production, Other
 Authors: Griffin Ichiba Hotchkiss @gichiba
