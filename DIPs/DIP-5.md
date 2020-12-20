@@ -11,26 +11,28 @@ Discussion: https://forum.devcon.org/t/dip-5-keycard-at-devcon/46
 
 ## Summary
 
-Status wants to offer to Devcon attendees a keycard (https://get.keycard.tech/) coming preloaded with crypto assets (e.g NFTs and ERC-20). It can be used at Devcon to easily (at the tap of a card) collect more assets, prove ownership of them, and transfer them. 
+Status wants to offer to Devcon attendees a keycard (https://get.keycard.tech/). This card:
+- is a hardware wallet with a face value of 29$
+- helps user downloads status app, which can be used on the show
+- allows any dApp developer to develop applications that interface with the card with the tap of the card on the browser 
+
+Such a dApp could be a redeem dApp, developped by Status, this dApp allowing users to retrieve assets coming preloaded with the card on the wallet of their choice. 
 
 ## Abstract
 
 Keycard is an open source implementation to enable smartcards in the crypto space. The framework allows to use smartcards both as highly secure hardware wallets with one's phone, and as super simple to use (think: one tap) devices that can be tapped on someone else's phone to sign a transaction, opening up a variety of use cases.
 
-A Devcon attendee (using Android) would be handed over a keycard when checking in at Devcon. This keycard will be printed with some indication of which assets are offered with the card. The user then can:
+A Devcon attendee (using Android or iOS) would be handed over a keycard when checking in at Devcon. If relevant, this keycard will be printed with some indication of which assets are offered with the card. The user then can:
 - download & onboard Status app. As part of this onboarding the user would import an existing or create a ethereum account
-- retrieve preloaded assets that come with the card (e.g POAP token, Status SNT token that would come as a gift, etc) to the wallet of their choice 
-- tap the card to partner projects to collect NFTs or prove ownership of NFTs (think: use your card to redeem some swag, or to attend a given event)
-- use keycard for payments (e.g for catering). Payments may or may not be possible depending on when the event takes place in 2021
+- if relevant, retrieve preloaded assets that come with the card (e.g POAP token, Status SNT token that would come as a gift, etc) to the wallet of their choice 
+- tap the card to partner projects that developped a dApp interacting with the card
 - after the show he can use keycard as secure hardware wallet with status app
 
-The same experience can be enabled for iOS users, depending on when the event takes place in year 2021. 
+Catering or purchases with Keycard is not considered in this proposal. 
 
 ## Motivation & Rationale
 
 Bringing in a simple physical device that holds a private key (unique to each attendee) and that can sign transactions is enabling a smoother and faster user experience to interact with the blockchain. The user doesn't need to open up a wallet on his phone, or a dApp browser, he just need to tap his card on the right dApp handed over to him on a phone for instance. 
-
-Example: project X wants to offer a NFT or ERC20 to some attendees that come on their booth, without keycard a user needs to go to a app, copy/paste his wallet address (super cumbersome) or use a web3 browser, to finally get the assets. With keycard project X can have a dApp running on one of their phone, and ask attendees to simply tap their card on the phone. 
 
 Moreover, offering keycard will strongly incitate attendees to onboard status (to retrieve their offered preloaded assets, or to pay if payments is part of the experience) and thus other status features can be leveraged: 
 - chat: channels QR code can be printed on conference rooms to enable attendees to comment the presentations 
@@ -45,29 +47,27 @@ For interactions with dApps (retrieving preloaded NFTs, collecting them, proving
 - a dApp running in status browser can request a transaction to be signed by any keycard tapped on the phone. see: https://keycard.tech/docs/web3.html
 - existing smart contracts can be used to associate preloaded assets with keycards. see: https://github.com/status-im/keycard-redeem
 
-For payments with keycard, for catering for instance, a layer 2 optimistic rollup network needs to be deployed. Status is currently working on this, and will be available for Devcon or not, depending on when Devcon VI is planned to happen in 2021. 
-
 ## Operational Requirements & Ownership
 
 Devcon team needs to be involved in the following manner:
 - communication support prior to the conference: 
-    - identify projects that want to offer assets as part of the initial bundle of assets preloaded with each keycard (e.g POAP token)
-    - communicate to projects how they can build dApps that interact with the attendees keycards 
+    - if redeeeming of preloaded assets is proposed, then identify projects that want to offer assets as part of the initial bundle of assets preloaded with each keycard (e.g POAP token)
+    - communicate to projects how they can build dApps that interact with the attendees keycards through keycard web3 API https://keycard.tech/docs/web3.html
 - operational support
     - distribute cards on site 
     - if chat is used, print QR codes of chat channels and put them at the right places in the venue 
 
 Status will:
 - provide the cards
-- provide the redeeming dApps for the initial bundle of assets offered with each card
-- offer a number (yet to be defined) of SNT with each card part of this bundle
+- if relevant, provide the redeeming dApps for the initial bundle of assets offered with each card
 - provide technical material for projects to build their own dApps using keycard
+
+Status can: 
+- make public the list of public keys preloaded in the Keycard Cash Applet of each keycard.See: https://keycard.tech/docs/sdk/cash.html and  https://keycard.tech/docs/web3.html
 
 Status will be responsible to make sure the following work fine: 
 - download and onboard status with each keycard 
-- user can redeem their bundle of free assets with keycard 
-
-Each project will need to make sure their dApp (e.g project X wants to offer a NFT on its booth) with Keycard. Status will provide technical support though. 
+- if relevant, user can redeem their bundle of free assets with keycard 
 
 
 ## Links & Additional Information
