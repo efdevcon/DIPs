@@ -6,7 +6,7 @@
    * [ ] Title
    * [ ] Status
    * [ ] Themes
-   * [ ] Tagss
+   * [ ] Tags
    * [ ] Authors
    * [ ] Resources Required (optional)
    * [ ] Discussion (with link to devcon forum)
