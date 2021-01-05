@@ -76,7 +76,7 @@ The Vocdoni Open Stack has been used successfuly by various organizations (Munic
 The largest cultural association in Europe (185.000 members) has used Vocdoni to organize its Annual General Meetings and elections 2 years in a row and will handle a new election on January 2021.
 
 - Do you require feedback or data from attendees post-event?
-Feedback will not only be welcome, but will be very important. Especially to continue improving the tool to cover the governance needs of Devcon and other community events. This is critical, as governance implies dealing with human behaviour and this first pilot will certainly priovide many inputs to improve the product. We'll have available a helpdesk (chat+chatbot+KnowledgeBase+ticketsystem) and we could establish extra channels (e.g. telegram) to receive technical, accessability and UX/UI feedback.
+Feedback will not only be welcome, but will be very important. Especially to continue improving the tool to cover the governance needs of Devcon and other community events. This is critical, as governance implies dealing with human behaviour and this first pilot will certainly priovide many inputs to improve the product. We'll have available a helpdesk (chat+chatbot+KnowledgeBase+ticketsystem) and we could establish extra channels (e.g. telegram) to receive technical, accessebility and UX/UI feedback.
 
 
 ### Operational Requirements & Ownership
