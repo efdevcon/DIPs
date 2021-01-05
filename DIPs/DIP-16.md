@@ -71,7 +71,7 @@ Users and organizers will be able to track the votes using the [Vochain explorer
 
 POAP's Tokens technology has been used in many physical and virtual events, including DevCon, EthCC, EthDenver, EDcon and Dappcon. There are already more than 650 POAPs representing events.
 
-The Vocdoni Open Stack has been used successfuly by various organizations (Municipalities, associations, cooperatives, companies and informal organizations) to organize Signalling polls, Event polls, Annual General Meetings and elections.
+The Vocdoni Open Stack has been used successfully by various organizations (Municipalities, associations, cooperatives, companies and informal organizations) to organize Signalling polls, Event polls, Annual General Meetings and elections.
 
 The largest cultural association in Europe (185.000 members) has used Vocdoni to organize its Annual General Meetings and elections 2 years in a row and will handle a new election on January 2021.
 
