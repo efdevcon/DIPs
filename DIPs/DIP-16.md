@@ -10,11 +10,11 @@ Discussion: https://forum.devcon.org/t/dip-16-universally-verifiable-off-chain-p
 Created: 2021-01-05
 ---
 
-### Summary of Proposal
+## Summary of Proposal
 
 Vocdoni and POAP joint proposal to provide a universally verifiable, affordable and offchain voting system for DevCon ticket-holders. Supports quadratic voting and other governance systems.
 
-### Abstract
+## Abstract
 __200 word description of the proposal.__
 
 Our proposal entails the development of a privacy-centric, scalable, affordable and universally verifiable governance layer complete with a great UX/UI. This will allow Devcon attendees to be heard and enable a wide range of possibilities for the event's organization while stimulating the crowd's collective knowledge.
@@ -31,7 +31,7 @@ After this experiment, we believe that our proposal can unfold into a host of ne
 
 Likewise, it will also be possible to develop strategies of retroactive governance by including participants from previous Devcon editions to voting processes or even giving more voting power to those who are recurrent attendees.
 
-### Motivation & Rationale
+## Motivation & Rationale
 __Below are some useful prompts__
 - How would this enhance attendee experience?
 
@@ -53,7 +53,7 @@ Typically scalable polling systems that don't use DLT are very hard to operate r
 
 By combining the existing technologies created by Vocdoni and POAP participants of the event will learn that superfluid collective decision making processes are possible at nearly no cost.
 
-### Implementation
+## Implementation
 
 **User-flow**
 
@@ -79,7 +79,7 @@ The largest cultural association in Europe (185.000 members) has used Vocdoni to
 Feedback will not only be welcome, but will be very important. Especially to continue improving the tool to cover the governance needs of Devcon and other community events. This is critical, as governance implies dealing with human behaviour and this first pilot will certainly priovide many inputs to improve the product. We'll have available a helpdesk (chat+chatbot+KnowledgeBase+ticketsystem) and we could establish extra channels (e.g. telegram) to receive technical, accessebility and UX/UI feedback.
 
 
-### Operational Requirements & Ownership
+## Operational Requirements & Ownership
 
 **1. What actions are required to implement the proposal at Devcon?**
 
