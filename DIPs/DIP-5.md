@@ -16,7 +16,7 @@ Status wants to offer to Devcon attendees a keycard (https://get.keycard.tech/).
 - helps user downloads status app, which can be used on the show
 - allows any dApp developer to develop applications that interface with the card with the tap of the card on the browser 
 
-Such a dApp could be a redeem dApp, developped by Status, this dApp allowing users to retrieve assets coming preloaded with the card on the wallet of their choice. 
+Such a dApp could be a redeem dApp, developed by Status, this dApp allowing users to retrieve assets coming preloaded with the card on the wallet of their choice. 
 
 ## Abstract
 
@@ -25,7 +25,7 @@ Keycard is an open source implementation to enable smartcards in the crypto spac
 A Devcon attendee (using Android or iOS) would be handed over a keycard when checking in at Devcon. If relevant, this keycard will be printed with some indication of which assets are offered with the card. The user then can:
 - download & onboard Status app. As part of this onboarding the user would import an existing or create a ethereum account
 - if relevant, retrieve preloaded assets that come with the card (e.g POAP token, Status SNT token that would come as a gift, etc) to the wallet of their choice 
-- tap the card to partner projects that developped a dApp interacting with the card
+- tap the card to partner projects that developed a dApp interacting with the card
 - after the show he can use keycard as secure hardware wallet with status app
 
 Catering or purchases with Keycard is not considered in this proposal. 
@@ -51,7 +51,7 @@ For interactions with dApps (retrieving preloaded NFTs, collecting them, proving
 
 Devcon team needs to be involved in the following manner:
 - communication support prior to the conference: 
-    - if redeeeming of preloaded assets is proposed, then identify projects that want to offer assets as part of the initial bundle of assets preloaded with each keycard (e.g POAP token)
+    - if redeeming of preloaded assets is proposed, then identify projects that want to offer assets as part of the initial bundle of assets preloaded with each keycard (e.g POAP token)
     - communicate to projects how they can build dApps that interact with the attendees keycards through keycard web3 API https://keycard.tech/docs/web3.html
 - operational support
     - distribute cards on site 

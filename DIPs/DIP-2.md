@@ -44,7 +44,7 @@ neat opportunity to dogfood a decentralized Ethereum-powered service.
 ## Motivation & Rationale
 
 Typically, conferences play music at various times including: between talks, in
-common areas (eg. by the food / drinks / sitting areas), and at the evening
+common areas (e.g. by the food / drinks / sitting areas), and at the evening
 happy hours and other social events.
 
 However, using music in this way poses a few problems: 1) most music cannot be

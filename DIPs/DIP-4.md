@@ -49,11 +49,11 @@ Treasure hunt games are customized and tailored around a conference or event. A 
 - **Discover.** The game requires to go around and explore different areas of the event and discover what's around them.
 - **Socialize.** It makes people socialize outside the context of doing business and have fun together. Individuals or groups of players can team up and play the game together.
 - **Think.** The game is built around a story. Our previous game featured a story that develops in a future where transplanetary corporations commodified democracy, manipulated governments, and destroyed the environment, to warn people about the dystopian future they face if they don't fight.
-- **Learn.** The dApp to interact with the game, the smart contracts, and the tools to compile and deploy the story are free and open source software. To fight centralization, we must stop building centralized systems. That's why the whole game is developed using only Ethereum and IPFs, and no centralized APIs. The game itself is a showcase of what can be built **today** using decentralized protocols.
+- **Learn.** The dApp to interact with the game, the smart contracts, and the tools to compile and deploy the story are free and open source software. To fight centralization, we must stop building centralized systems. That's why the whole game is developed using only Ethereum and IPFS, and no centralized APIs. The game itself is a showcase of what can be built **today** using decentralized protocols.
 
 ## Previous Experience
 
-We set up [Planetscape][planetscape], a dystopian escape game for [36C3][36c3] based on the dreadful effects of climate change (ccc did **not** sponsor the game).
+We set up [Planetscape][planetscape], a dystopian escape game for [36C3][36c3] based on the dreadful effects of climate change (CCC did **not** sponsor the game).
 
 Planetscape is organized in 20 chapters, and requires players to solve quests in real life, explore the congress to find hints and interact with people. Planetscape had **20 levels**, **254 players**, [**1300** transactions][ps:transactions] to the smart contract, and **7 teams** finished the game and claimed their prize.
 
