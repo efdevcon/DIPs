@@ -7,7 +7,7 @@ Tags: Event Operations, Event Production, Software
 Authors: weiwu.zhang@alphawallet.com, sunil.tom.jose@alphawallet.com, victor.zhang@alphawallet.com
 Resources Required: software development, operations Support and tech support
 Discussion: https://forum.devcon.org/t/attestation-based-ticketing-system-that-is-managed-by-ethereum-smart-contracts-and-integrated-with-pretix-re-rfp-1-onchain-ticketing/54
-Created: 2020-08-13  
+Created: 2020-08-13
 ---
 
 ## Summary of Proposal
