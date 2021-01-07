@@ -43,7 +43,7 @@ The key pieces of work that need to be done include:
 - Attestation JavaScript components for websites
 - Attestation library for smart contracts
 
-The email attestation service created by AlphaWallet will allow the attendees to claim their attestations at http://attestation.id. This comes with the goal of creating a decentralised ecosystem of attesters for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
+The email attestation service created by AlphaWallet will allow the attendees to claim their attestations at attestation.id website. This comes with the goal of creating a decentralised ecosystem of attesters for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
 ### Storyboard ###
 ![Storyboard for attestation based ticketing](images/Storyboard_pic_DIP6.jpg)
