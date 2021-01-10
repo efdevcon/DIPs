@@ -19,7 +19,7 @@ At the time of a ticket purchase, Devcon will issue the attendee a ticket attest
 
 This ticket attestation will be recognised by websites and dApps that use the attestation libraries provided by the AlphaWallet team. Using the ticket attestation along with the correct email attestation, the websites and dApps will be able to authenticate ticket holders and provide privileged access to content or actions. This solution enables Devcon attendees to use any smart contract based functions provided by Devcon or its partners, such as voting or buying exclusive products and services. It's worth noting that the attendee does not need to send an "approve" transaction to start using his or her ticket as a crypto-token.
 
-This approach provides a cost-effective, flexible and privacy preserving path for Devcon and the attendees. It allows the attendee to create an Ethereum address before or after the ticket purchase, or to use their choice of address for online interactions. Via elliptic cryptography and zero-knowledge proofs, we have a protocol, [safe protocol](https://GitHub.com/AlphaWallet/blockchain-attestation/blob/master/use-cases/send-ether-by-identifier-attestation.md), to enable attestations for an email address without revealing it.
+This approach provides a cost-effective, flexible and privacy preserving path for Devcon and the attendees. It allows the attendee to create an Ethereum address before or after the ticket purchase, or to use their choice of address for online interactions. Via elliptic cryptography and zero-knowledge proofs, we have a protocol, [safe protocol]( http://tokenscript.org/Cheque/send_token_by_identifier.html), to enable attestations for an email address without revealing it.
 
 ## Motivation & Rationale
 
@@ -43,7 +43,7 @@ The key pieces of work that need to be done include:
 - Attestation JavaScript components for websites
 - Attestation library for smart contracts
 
-The email attestation service created by AlphaWallet will allow the attendees to claim their attestations at http://attestation.id. This comes with the goal of creating a decentralised ecosystem of attesters for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
+The email attestation service created by AlphaWallet will allow the attendees to claim their attestations at attestation.id website. This comes with the goal of creating a decentralised ecosystem of attesters for the benefit of enriching smart contract functions and reducing on-chain transactions. These attestations can be reused.
 
 ### Storyboard ###
 ![Storyboard for attestation based ticketing](images/Storyboard_pic_DIP6.jpg)
@@ -58,13 +58,13 @@ Attestation #2 : [for crypto users] Links an Ethereum address with an email addr
 
 ![Attestations involved](images/DIP-Ticket_Attestations.svg)
  
-Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](http://docs.TokenScript.org/MagicLinks.html). the user is not required to have an Ethereum address at this stage.
+Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](https://tokenscript.org/MagicLink.html). the user is not required to have an Ethereum address at this stage.
 
 Attestation #2 can be issued by http://attestation.id. The process of acquiring attestation #2 would be a simple guided process. The user will visit a website, where the user verifies their email to receive an attestation that will be saved in the dApp browser as a cookie, or in the user's wallet (if the wallet can recognise attestations).
  
 When the user wishes to interact with a smart contract function, such as voting, the user will call the smart contract with attestation #1 and #2. Together they prove that the transaction senders Ethereum address is that of the attendee. Such an implementation would preserve the privacy of the user, as these attestations do not reveal the actual email address. Please check out the [safe protocol](https://GitHub.com/AlphaWallet/blockchain-attestation/blob/master/use-cases/send-ether-by-identifier-attestation.md) for more details.
 
-Furthermore, a ticket's proof of ownership can be generated from [TokenScript](http://docs.TokenScript.org/), which allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply for a discount. We can create a sample website for service providers to copy.
+Furthermore, a ticket's proof of ownership can be generated from [TokenScript](https://tokenscript.org/), which allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply for a discount. We can create a sample website for service providers to copy.
 
 ### Process Flow ###
 The attached swimlane diagram shows how the different parties involved in the ticketing process would use the solution to prove and verify the ticket's authenticity.
