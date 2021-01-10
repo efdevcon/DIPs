@@ -184,4 +184,4 @@ Additional information can be found here:
 [zk:creation]: https://github.com/social-dist0rtion-protocol/thc/blob/v0.0.1/app/src/Chapter.svelte#L21
 [zk:verification]: https://github.com/social-dist0rtion-protocol/thc/blob/v0.0.1/eth/contracts/TreasureHuntCreator.sol#L66
 [gasstation]: https://rinkeby.etherscan.io/address/0x197970e48082cd46f277abdb8afe492bccd78300
-[opengsn]: https://www.opengsn.org/
+[opengsn]: https://opengsn.org
