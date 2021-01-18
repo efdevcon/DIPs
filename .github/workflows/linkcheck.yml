@@ -1,6 +1,7 @@
 on:
   push:
   workflow_dispatch:
+  pull_request:
 name: Check links for modified files
 jobs:
   markdown-link-check:
