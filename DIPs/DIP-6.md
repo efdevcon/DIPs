@@ -60,9 +60,9 @@ Attestation #2 : [for crypto users] Links an Ethereum address with an email addr
  
 Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](https://tokenscript.org/MagicLink.html). the user is not required to have an Ethereum address at this stage.
 
-Attestation #2 can be issued by http://attestation.id. The process of acquiring attestation #2 would be a simple guided process. The user will visit a website, where the user verifies their email to receive an attestation that will be saved in the dApp browser as a cookie, or in the user's wallet (if the wallet can recognise attestations).
+Attestation #2 can be issued by attestation.id website. The process of acquiring attestation #2 would be a simple guided process. The user will visit a website, where the user verifies their email to receive an attestation that will be saved in the dApp browser as a cookie, or in the user's wallet (if the wallet can recognise attestations).
  
-When the user wishes to interact with a smart contract function, such as voting, the user will call the smart contract with attestation #1 and #2. Together they prove that the transaction senders Ethereum address is that of the attendee. Such an implementation would preserve the privacy of the user, as these attestations do not reveal the actual email address. Please check out the [safe protocol](https://GitHub.com/AlphaWallet/blockchain-attestation/blob/master/use-cases/send-ether-by-identifier-attestation.md) for more details.
+When the user wishes to interact with a smart contract function, such as voting, the user will call the smart contract with attestation #1 and #2. Together they prove that the transaction senders Ethereum address is that of the attendee. Such an implementation would preserve the privacy of the user, as these attestations do not reveal the actual email address. Please check out the [safe protocol](https://tokenscript.org/Cheque/send_token_by_identifier.html) for more details.
 
 Furthermore, a ticket's proof of ownership can be generated from [TokenScript](https://tokenscript.org/), which allows a website to recognise Devcon ticket holders. This is useful for ticket holders to book services or to apply for a discount. We can create a sample website for service providers to copy.
 
@@ -78,7 +78,7 @@ The attached swimlane diagram shows how the different parties involved in the ti
 
 Our first ticket implementation was in 2018, as an experiment with Shankai Sports to tokenise FIFA World Cup 2018 VIP tickets. The experiment was successful, where 50 users received magic links through email and 28 of them converted those magic links into Ethereum tokens.
 
-The next full fledged implementation was in 2019, with Shankai Sports tokenising EURO Championship 2020 VIP event tickets with integrated hospitality passes (Link: [App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
+The next full fledged implementation was in 2019, with Shankai Sports tokenising EURO Championship 2020 VIP event tickets with integrated hospitality passes (The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
 
 In 2019, we also worked towards implementing EDCON 2020 event tickets on blockchain. Again, the app and tickets were ready, but thanks to the pandemic, the event got cancelled 😭😭😭.
 
