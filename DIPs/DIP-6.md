@@ -60,7 +60,7 @@ Attestation #2 : [for crypto users] Links an Ethereum address with an email addr
  
 Attestation #1 is the "traditional ticket". It is issued by email after the payment is confirmed on the ticket purchasing website as QR code and [magic link](https://tokenscript.org/MagicLink.html). the user is not required to have an Ethereum address at this stage.
 
-Attestation #2 can be issued by attestation.id wesite. The process of acquiring attestation #2 would be a simple guided process. The user will visit a website, where the user verifies their email to receive an attestation that will be saved in the dApp browser as a cookie, or in the user's wallet (if the wallet can recognise attestations).
+Attestation #2 can be issued by attestation.id website. The process of acquiring attestation #2 would be a simple guided process. The user will visit a website, where the user verifies their email to receive an attestation that will be saved in the dApp browser as a cookie, or in the user's wallet (if the wallet can recognise attestations).
  
 When the user wishes to interact with a smart contract function, such as voting, the user will call the smart contract with attestation #1 and #2. Together they prove that the transaction senders Ethereum address is that of the attendee. Such an implementation would preserve the privacy of the user, as these attestations do not reveal the actual email address. Please check out the [safe protocol](http://tokenscript.org/Cheque/send_token_by_identifier.html) for more details.
 
