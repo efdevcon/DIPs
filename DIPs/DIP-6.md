@@ -78,7 +78,7 @@ The attached swimlane diagram shows how the different parties involved in the ti
 
 Our first ticket implementation was in 2018, as an experiment with Shankai Sports to tokenise FIFA World Cup 2018 VIP tickets. The experiment was successful, where 50 users received magic links through email and 28 of them converted those magic links into Ethereum tokens.
 
-The next full fledged implementation was in 2019, with Shankai Sports tokenising EURO Championship 2020 VIP event tickets with integrated hospitality passes (Link: [App](https://apps.apple.com/us/app/shankai/id1492559481). The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
+The next full fledged implementation was in 2019, with Shankai Sports tokenising EURO Championship 2020 VIP event tickets with integrated hospitality passes (The tickets were tokenised and the apps were ready to go, but the event got cancelled 😭😭😭)
 
 In 2019, we also worked towards implementing EDCON 2020 event tickets on blockchain. Again, the app and tickets were ready, but thanks to the pandemic, the event got cancelled 😭😭😭.
 
