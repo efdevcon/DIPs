@@ -7,6 +7,7 @@ Tags: Attendee Experience
 Authors: guylouis@status.im
 Resources Required: Operational support, Communication support
 Discussion: https://forum.devcon.org/t/dip-5-keycard-at-devcon/46
+Created: 2020-08-10
 ---
 
 ## Summary

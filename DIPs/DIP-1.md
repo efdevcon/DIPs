@@ -7,6 +7,7 @@ Tags: Event production, Software
 Authors: raphael@curvelabs.eu
 Resources Required: Tech support, Communication support
 Discussion: https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27
+Created: 2020-07-20
 ---
 
 ## Summary of Proposal

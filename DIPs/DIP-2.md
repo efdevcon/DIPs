@@ -7,6 +7,7 @@ Tags: Event Operations, Event Production
 Authors: roneil at the website audius.co
 Resources Required: Operational support
 Discussion: https://forum.devcon.org/t/dip-2-audius-music-in-common-areas-and-between-talks-at-devcon/37
+Created: 2020-08-03
 ---
 
 ## Summary of Proposal
