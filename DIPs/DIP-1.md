@@ -4,7 +4,7 @@ Title: Make Devcon carbon neutral
 Status: Accepted
 Themes: Ticketing, Environmental Sustainability
 Tags: Event production, Software
-Authors: raphael@curvelabs.eu
+Authors: Raphaël Haupt <raphael@curvelabs.eu>
 Resources Required: Tech support, Communication support
 Discussion: https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27
 Created: 2020-07-20

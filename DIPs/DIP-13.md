@@ -4,7 +4,7 @@ Title: On-chain & trouble-free ticketing for Devcon 6 with GET Protocol
 Status: Rejected
 Themes: Ticketing
 Tags: Event operations
-Authors: olivier@get-protocol.io
+Authors: Olivier Biggs <olivier@get-protocol.io>
 Resources Required: Operations support
 Discussion: https://forum.devcon.org/t/on-chain-trouble-free-ticketing-with-get-protocol/169
 Created: 2020-6-11

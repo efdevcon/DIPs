@@ -4,7 +4,7 @@ Title: Proof of Attendance Protocol - basics
 Status: Accepted
 Themes: Social
 Tags: Event Production
-Authors: <Patricio Worthalter> worthalter AT poap DOT xyz
+Authors: Patricio Worthalter <worthalter@poap.xyz>
 Resources Required: Strong operations supports
 Discussion: https://forum.devcon.org/t/issuance-of-proof-of-attendance-nfts-with-poap/76/5
 Created: 2020-08-17
