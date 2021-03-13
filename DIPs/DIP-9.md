@@ -4,7 +4,7 @@ Title: Devcon 5.1
 Status: Rejected
 Themes: Virtual Experience
 Tags: Other
-Authors: <Cristian Espinoza> @crisgarner
+Authors: Cristian Espinoza (@crisgarner)
 Discussion: https://forum.devcon.org/t/devcon-5-1-or-devcon-6-alpha/71
 Created: 2020-08-14
 ---

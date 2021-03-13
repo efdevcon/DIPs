@@ -4,7 +4,7 @@ Title: Travel insurance
 Status: Draft
 Themes: Travel, Safety
 Tags: DeFi, Insurance, Peer2Peer
-Authors: christoph@etherisc.com
+Authors: Christoph Mussenbrock <christoph@etherisc.com>
 Resources Required: CustomerSupportBooth at DevConVI
 Discussion: https://forum.devcon.org/t/dip-15-travel-insurance/176
 Created: 2020-11-27
