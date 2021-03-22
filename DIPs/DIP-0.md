@@ -64,7 +64,7 @@ Your DIP may require resources from the Devcon team, so make sure to add them to
 * FOSS mentality
 
 ## Team
-The Devcon team is the final decision maker on the status of a DIP (Accepted - Postponed - Rejected). A dedicated team will work together to provide a technical and operational review of all DIP drafts submitted. They are responsible for communicating with the DIP authors and relaying information between teams, and accompany projects through their production-implementation phase to ensure Accepted DIPs are ready for Devcon.
+The Devcon team is the final decision maker on the status of a DIP (Accepted - Postponed - Not Implemented). A dedicated team will work together to provide a technical and operational review of all DIP drafts submitted. They are responsible for communicating with the DIP authors and relaying information between teams, and accompany projects through their production-implementation phase to ensure Accepted DIPs are ready for Devcon.
 
 ## Workflow
 
@@ -88,7 +88,7 @@ Editors might request more information and ask to resubmit the DIP.
      * **Draft** - Your DIP that is undergoing rapid iteration and changes
      * **Accepted** - Your DIP idea is approved! Now it's time to work on the implementation!
      * **Postponed** - Your DIP won’t be possible the upcoming Devcon - but we love the idea.
-     * **Rejected** - Oh no, the mean Devcon team, reach out to them and ask for more context to understand their reasoning
+     * **Not Implemented** - Oh no, the mean Devcon team, reach out to them and ask for more context to understand their reasoning
      * **Changes Requested** - The DIP needs modifications conditional to its validation.
 
 #### Implementation
