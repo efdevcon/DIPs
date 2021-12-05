@@ -10,8 +10,8 @@ matrix:
   - pyspelling.filters.markdown:
   - pyspelling.filters.url:
   - pyspelling.filters.html:
-    comments: false
-    ignores:
+  comments: false
+  ignores:
     - code
     - pre
   sources:
