@@ -10,7 +10,7 @@ While we are excited to have a more formal process to hear ideas from the commun
 1. Post your idea in the [Devcon Forum](https://forum.devcon.org/), publicize it, discuss there, and gather feedback.
 2. Once you have feedback and some interest in the idea, proceed with the below steps.
 3. Review [DIP-0](DIPs/DIP-0.md). If you have questions or need help with Github, please just ask us — we can help you!
-4. Fork the repository by clicking "Fork" in the top right.
+4. Fork the repository by clicking "Fork" at the top right.
 5. Add your DIP to your fork of the repository.
 6. Submit a Pull Request to this repository
 
