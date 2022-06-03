@@ -12,7 +12,7 @@ Created: 2020-07-29
 
 ## Summary
 
-Winding Tree offers Devcon attendees to book their stay directly from accomomodation providers with discount. 0% commissions are paid to intermediaries, a 1% treasury contribution is made tha fuels the community chest for the development of the platform.
+Winding Tree offers Devcon attendees to book their stay directly from accommodation providers with discount. 0% commissions are paid to intermediaries, a 1% treasury contribution is made that fuels the community chest for the development of the platform.
 
 ## Abstract
 
