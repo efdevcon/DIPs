@@ -29,7 +29,7 @@ We are currently in a re-branding process, for now these are the key terms:
 
 It would be great if Devcon attendees were able to book their accommodation without using intermediaries like Booking.com or Expedia that take on average 15-20% commissions on bookings. Additionally, the ability to use cryptocurrency to book and wrapping the booking as an NFT gives a lot of convenience and added benefits such as easy transferability of the booking. 
 
-The use of blockchain to decentralized travel marketplaces is not novel and has been thought about and worked for years, however, the return of travel after the pandemic, the progress on L2s and sidechains, and the track record of some stablecoins like Dai have all made it possible to create a fully-functional decentralized accommodation marketplace.
+The use of blockchain to decentralized travel marketplaces is not novel and has been thought about and worked for years, however, the return of travel after the pandemic, the progress on L2s and sidechains, and the track record of some stablecoins like DAI have all made it possible to create a fully-functional decentralized accommodation marketplace.
 
 ## Implementation
 
