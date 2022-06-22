@@ -21,7 +21,7 @@ There are two existing DIPs that aim to make Devcon events carbon neutral:
 - [DIP-1](./DIP-1.md), Accepted: Aims to allow Devcon participants to offset their emissions associated with their event attendance by integrating a payment for this purpose as part of the ticketing process.
 - [DIP-12](./DIP-12.md), Draft: Allow participants to vote which offset project should be supported by the offsetting funds collected by creation of a DAO.
 
-DIP-1 has been accepted by the community but was not implemented in time for Devcon6 (as of time of writing, ticketing for Devcon6 is live). This DIP proposes to implement the goals outlined in DIP-1, but using external tooling. The tooling will be provided as public goods as part of disCarbon (pitch.discarbon.earth); disCarbon has no intention of collecting fees from this process.
+DIP-1 has been accepted by the community but was not implemented in time for Devcon6 (as of time of writing, ticketing for Devcon6 is live). This DIP proposes to implement the goals outlined in DIP-1, but using external tooling. The tooling will be provided as public goods as part of disCarbon (disCarbon has no intention of collecting any fees from this process).
 
 Devcon6 attendees will be informed about the possibility to make a contribution to offset their emissions and provided with a link to a website where they can enter a few details about their trip to Devcon (most importantly mode of transport and distance traveled). The site will estimate their carbon footprint and the cost associated with offsetting based on the price of on-chain carbon assets. Finally, the site will enable the attendee to submit a transaction on Polygon that swaps funds (MATIC, USDC, WETH) for the required amount of tokenized carbon credits, which are transferred to a multisig wallet under the Devcon Team's control. Attendees that participate will be issued with a POAP and could be given additional swag at Devcon6.
 
@@ -55,7 +55,7 @@ Please refer to [DIP-1](./DIP-1.md) for the rationale of making Devcon carbon ne
 **Previous experience**
 
 - This will be the first time that a carbon offset is performed for a Devcon event.
-- We have a running MVP for flight emission estimation with on-chain offsetting at TODO.
+- We have a running MVP for flight emission estimation with on-chain offsetting at [flight.discarbon.earth](https://flight.discarbon.earth/).
 
 **Post-event**
 
@@ -78,3 +78,13 @@ Please refer to [DIP-1](./DIP-1.md) for the rationale of making Devcon carbon ne
 	- Anyone who contributes to offsetting emissions will be receive a POAP.
 	- Participants with the POAP/bracelet could get special swag, discounts, etc. from other projects, for example, Toucan.
 	- Vote (for offset project) via Snapshot.
+
+## Links & Additional Information
+
+The organization referred to as CO2ken in previous DIPs is now knows as Toucan Protocol.
+
+**Links:**
+- More about disCarbon: [pitch.discarbon.earth](https://pitch.discarbon.earth/)
+- disCarbon's on-chain flight offsetter: [flight.discarbon.earth](https://flight.discarbon.earth/)
+- Toucan Protocol: [toucan.earth](https://toucan.earth)
+- The Nature Carbon Tonne (NCT) Pool: [details on inclusion criteria](https://docs.toucan.earth/protocol/pool/pool-parties/nct-pool-party-report), [announcement](https://blog.toucan.earth/announcing-nct-nature-carbon-tonne/)
