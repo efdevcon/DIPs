@@ -178,6 +178,7 @@ Kleros
 KnowledgeBase
 laveraging
 leaderboard
+learnings
 liason
 libp
 ligi
