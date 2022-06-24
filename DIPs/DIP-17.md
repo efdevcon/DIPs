@@ -6,7 +6,7 @@ Themes: Ticketing, Environmental Sustainability
 Tags: Event production, Software
 Authors: danceratopz <danceratopz@gmail.com>, haurog <haurog@pm.me>
 Resources Required: Operational support, Communication support, (Tech support?)
-Discussion: TBD
+Discussion: https://forum.devcon.org/t/lets-make-devcon6-carbon-neutral-a-step-towards-implementing-dip-1-dip-12
 Requires: DIP-17
 Created: 2022-06-22
 ---
