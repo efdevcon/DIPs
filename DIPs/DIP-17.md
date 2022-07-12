@@ -47,7 +47,7 @@ Provide a DNSLink (optional) so that it can serve regular DNS domains (e.g. devc
 
 These features of the gateway-proxy (DNSLink) are not yet implemented, but they are on our roadmap, they are aligned with our organizational goals and are not fundamentally difficult problems so we are confident that by the devcon they can be delivered and ready for production.Please note that we already have delivered website hosting with our current implementation, so we are confident in the excellent delivery. 
 
-This configuration should be load balanced and supplied with the appropriate postage stamps and chequebook balances. We have experience with how to do this with our gateway website and the underlying infrastructure. We are also in contact with the Ethereum Foundation currently discussing how to set up sSwarm nodes for certain Remix IDE services.
+This configuration should be load balanced and supplied with the appropriate postage stamps and chequebook balances. We have experience with how to do this with our gateway website and the underlying infrastructure. We are also in contact with the Ethereum Foundation currently discussing how to set up Swarm nodes for certain Remix IDE services.
 
 2. Who will be responsible for the proposal to be implemented effectively? 
 The Swarm Association will be responsible for the implementation of this proposa. The following people will work to bring the proposal to life:
