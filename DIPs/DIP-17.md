@@ -1,5 +1,5 @@
 ---
-DIP: DIP-18
+DIP: DIP-17
 Title: Hosting DevCon agenda and document sharing on Swarm
 Status: Draft
 Themes: Freeform, Website, Agenda
