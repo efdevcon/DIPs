@@ -38,6 +38,21 @@ More info: https://blog.fairdatasociety.org/posts/2021/12/fair-data-society-blog
 - Do you require feedback or data from attendees post-event?
 No
 
+### Implementation Details
+
+The original idea was to host the agenda of Devcon on Swarm. After having discussion with the developers of the Devcon website we came up with the following project plan, which has two components, an Exporter plugin and a Decentralized Frontend.
+
+The Devcon website uses a self-hosted service called Pretalx, which is an open-source conference management tool, written in Python. This is used by the organizers to edit the agenda. The website connects to the service through its API and based on that displays the agenda.
+
+__Exporter plugin__
+
+The Pretalx tool has the ability to be extended with plugins and the idea is to write an exporter plugin to it that exports the agenda as a JSON file on Swarm. This should be relatively easy to implement and this plugin would be installed on the Pretalx service that is used by the organizers. The plugin could use the Swarm feeds feature to keep the updated JSON file at a well known address. This address could be published so that other developers and applications could integrate the agenda and display it.
+
+__Decentralized frontend__
+
+Once this is done another possible thing to build is a simple web application that uses the agenda JSON and displays it, with options for filtering for tracks, days etc. This web application could be also hosted on Swarm, therefore we could achieve the goal to host the agenda of Devcon on Swarm that is always up-to-date.
+
+
 ## Operational Requirements & Ownership
 __Please answer questions below:__
 1. What actions are required to implement the proposal at Devcon?
