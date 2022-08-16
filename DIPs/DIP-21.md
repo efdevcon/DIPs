@@ -57,7 +57,7 @@ We cannot offer an exact layout as we have not been given venue layout informati
 
 DevCon Bogota venue support would be necessary to gather the necessary equipment into place before the conference begins on Oct 11, 2022. 
 
-From there, the individuals listed in the [RFP](https://forum.devcon.org/t/building-web3-developer-communities-hub-proposal/849) (harking from Polygon, The Graph, Superfluid, and more) will begin a series of activities, discussions, and sessions to engage attendees.
+From there, the individuals listed in the [RFP](https://forum.devcon.org/t/building-web3-developer-communities-hub-proposal/849) (harking from Polygon, The Graph, Superfluid, and more) will begin a series of activities, discussions, and themed sessions to engage attendees.
 
 ## 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 
@@ -74,4 +74,5 @@ Support for putting on the Building Web3 Developer Communities Hub has support f
 - HomeDAO
 - Questbook
 - EPNS
+
 All organizations which place emphasis on the importance of fostering active developer communities.
