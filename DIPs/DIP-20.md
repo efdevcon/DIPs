@@ -29,7 +29,7 @@ Adding to a variety of textures currently present in Developer Conferences a spa
 Well we would argue Art is one experience… yet elevated to a new form and level of communication with the blockchain. If we weren’t a group of individuals each convicted in this technology we wouldn’t voluntarily help create the best experience at Devcon as possible. We know what is good for the blockchain is good for everything involved with the blockchain. As artists we know the gift we both experience and can give with our heart. We need our whole world to start to see the opportunity the blockchain allows for one to give of their passions and expressions openly, correspondingly allowing an open space for the embrace of a supportive community.
     
 - **How does this proposal introduce attendees to a novel blockchain/ethereum use case?**
-Art is the ultimate world language we share. We are artists who love Ethereum, and the art we will share in part is a reflection of that emotion and a notion for artiscally strengthening the community. Art is also inviting, and can be used in the important tasks of education and adoption. 
+Art is the ultimate world language we share. We are artists who love Ethereum, and the art we will share in part is a reflection of that emotion and a notion for artistically strengthening the community. Art is also inviting, and can be used in the important tasks of education and adoption. 
 
 ### Implementation
 - **Has any part of this proposal been implemented at other events? If so, please describe how it went.**
