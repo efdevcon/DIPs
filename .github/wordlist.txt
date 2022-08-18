@@ -50,6 +50,7 @@ Audius
 backfill
 Bakeoff
 bandwitdh
+BCT
 BettinaBF
 BIP
 blockchain
@@ -71,6 +72,7 @@ crypto
 cryptocurrency
 CustomerSupportBooth
 customizations
+danceratopz
 DAI
 DAIs
 DAIsdapp
@@ -100,6 +102,9 @@ DevConVI
 di
 DIP
 DIPs
+discarbon
+disCarbon
+disCarbon's
 DLT
 dogfood
 dogfooded
@@ -127,6 +132,7 @@ Ethereum
 etherisc
 ethjoe
 ethonline
+explainer
 externality
 FIFA
 FlightDelay
@@ -143,6 +149,7 @@ groundworks
 guylouis
 Hackathon
 hackathons
+haurog
 helpdesk
 hoc
 Hotchkiss
@@ -171,6 +178,7 @@ Kleros
 KnowledgeBase
 laveraging
 leaderboard
+learnings
 liason
 libp
 ligi
@@ -180,12 +188,16 @@ livestreams
 lockpick
 mainnet
 Maksim
+MATIC
 md
 Medalla
 Metamask
+multisig
+NCT
 NFT
 NFTs
 offchain
+offsetter
 onboarding
 onchain
 OpenGSN
@@ -250,6 +262,7 @@ Tix
 tokenise
 tokenised
 tokenising
+tokenized
 TokenScript
 transplanetary
 UEFA
@@ -266,6 +279,7 @@ votings
 webpage
 Webpage
 webpages
+WETH
 weiwu
 WhatsApp
 wifi
