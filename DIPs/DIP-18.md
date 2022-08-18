@@ -78,7 +78,6 @@ Costanza Gallo will act as the bridge between the DevCon team and the Swarm Asso
 The project could integrate Fair data society’s products such as Fairdrive (decentralised “dropbox”), Fairdrop (decentralised “wetransfer.com”), Dracula Markdown editor (for notes; can be saved to user’s Fairdrive), Fairphoto (decentralised gallery) or essentially any other dapp (NFT Generator) as solution is interoperable, while the underlying storage layer will be Swarm
 
 ## Links & Additional Information
-__
 [Swarm website](https://www.ethswarm.org/)
 
 [Swarm whitepaper](https://www.ethswarm.org/swarm-whitepaper.pdf)
