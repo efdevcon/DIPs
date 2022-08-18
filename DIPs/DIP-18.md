@@ -85,4 +85,4 @@ __
 
 [Book of Swarm ](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
 
-[Bee Documentation](https://docs.ethswarm.org/docs/)__
+[Bee Documentation](https://docs.ethswarm.org/docs/)
