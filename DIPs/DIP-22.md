@@ -1,5 +1,5 @@
 ---
-DIP: DIP-22
+DIP: 22
 Title: Design Community Hub at Devcon Bogota
 Status: Draft
 Themes: Design, Experience
