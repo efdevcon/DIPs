@@ -30,7 +30,6 @@ __Implementing this DIP would make DevCon’s website hosting decentralized and 
 - Has any part of this proposal been implemented at other events? If so, please describe how it went.
 Not yet. We are planning to reach out to more events that happen before to implement this solution. This DIP will be updated accordingly. 
 However, the solution has been implemented on other situations like blogposts: 
-http://fairdatasociety.bzz.link/
 https://fairdataprotocol.bzz.link/
 
 More info: https://blog.fairdatasociety.org/posts/2021/12/fair-data-society-blog-is-now-hosted-on-swarm/
