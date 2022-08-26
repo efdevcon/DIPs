@@ -1,5 +1,5 @@
 ---
-DIP: DIP-19
+DIP: 19
 Title: Hosting DevCon Archive Videos on Swarm via Etherna
 Status: Draft
 Themes: Virtual Experience, Website, Community Involvement
