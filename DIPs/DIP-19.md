@@ -44,7 +44,7 @@ __Please answer questions below:__
 ## 1. What actions are required to implement the proposal at Devcon?
 
 
-#### Etherna public release (July/initial August) - Required.
+#### Etherna public release (July/early August) - Required.
 
 Here will be possible to start upload videos and test the platform.
 This point already offer capability to embed any uploaded video on external pages.
