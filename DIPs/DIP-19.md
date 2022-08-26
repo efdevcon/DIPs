@@ -7,6 +7,7 @@ Tags: Software, Event Operations, Communications
 Authors: Costanza Gallo costanza@ethswarm.org
 Resources Required: Operation support
 Discussion: https://forum.devcon.org/t/host-devcon-videos-on-swarm-etherna/585/6
+Created: 2023-08-26
 ---
 
 # Summary of Proposal
