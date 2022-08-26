@@ -94,7 +94,3 @@ Costanza Gallo will act as the bridge between the DevCon team, the Swarm Associa
 ## 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 This is a joint project between Swarm and Etherna. 
 
-# Links & Additional Information
-
-__Any additional information__
-
