@@ -7,6 +7,7 @@ Tags: Event Production
 Authors: daphneacharles@gmail.com
 Resources Required: Physical space at venue, Operations Support, Signage, Comfortable chairs for AMA, panel, and DEI training sessions, Floor pillows for circle discussions, speed friending, and wellness activities, Projector and screen, Desks for hands on workshops, Whiteboards, Speakers for light ambient music
 Discussion: https://forum.devcon.org/t/community-hub-proposal-women-leaders-in-web3/839/7
+Created: 2022-8-26
 ---
 
 -----Summary of Proposal-----
