@@ -3,6 +3,8 @@
 Devcon Improvement Proposals (DIPs) are intended for collaborative community input on what should be included at the upcoming Devcon. 
 
 While we are excited to have a more formal process to hear ideas from the community (roughly inspired by the more decentralized PEP, BIP and EIP processes), this is an experiment, and it should be understood that approval of proposals ultimately lies solely with the Devcon team. DIPs focus on collaboration in the ecosystem, so please review [DIP-0](DIPs/DIP-0.md) and try to collaborate on other proposals before submitting your new DIP. *We're excited to see all of your great ideas!*
+
+You can also see the DIPs [on the DEVCon website](https://www.devcon.org/en/#contribute).
  
  
 ## Contributing
