@@ -57,7 +57,7 @@ This is needed for be able to offer data even if Swarm garbage collect them. Bes
 
 #### Update Postage Stamps management (August-September) - Nice to have
 
-Currently every user has a single postage stamp for every upload. We want to update this, and create a new postage stamp for each upload group. In this way a single video, it's encoded versions, it's thumbnail ecc, would be uploaded with the same postage stamp, and every group with a different one. This offer a better granularity when postage stamps need to be renewed.
+Currently every user has a single postage stamp for every upload. We want to update this, and create a new postage stamp for each upload group. In this way a single video, it's encoded versions, it's thumbnail etc, would be uploaded with the same postage stamp, and every group with a different one. This offer a better granularity when postage stamps need to be renewed.
 
 #### Test and devs for remove arbitrary limit of 500MB upload (end of September) - Nice to have 
 
