@@ -62,7 +62,7 @@ Currently every user has a single postage stamp for every upload. We want to upd
 #### Test and devs for remove arbitrary limit of 500MB upload (end of September) - Nice to have 
 
 Currently an arbitrary limit of 500MB for uploaded file size has been implemented.
-More tests have to been done, and probably a gateway component (interceptor) will need to be rewrited with a different technology (migrate from Nginx to a reverse proxy implemented with .Net). Anyway in this phase videos are still manually encoded, and compression can be adjusted accordly.
+More tests have to been done, and probably a gateway component (interceptor) will need to be rewritten with a different technology (migrate from Nginx to a reverse proxy implemented with .Net). Anyway in this phase videos are still manually encoded, and compression can be adjusted accordingly.
 
 
 
