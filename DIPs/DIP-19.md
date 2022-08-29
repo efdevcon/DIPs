@@ -59,7 +59,7 @@ This is needed for be able to offer data even if Swarm garbage collect them. Bes
 
 Currently every user has a single postage stamp for every upload. We want to update this, and create a new postage stamp for each upload group. In this way a single video, it's encoded versions, it's thumbnail ecc, would be uploaded with the same postage stamp, and every group with a different one. This offer a better granularity when postage stamps need to be renewed.
 
-#### Test and devs for remove arbitrary limit of 500MB upload (end of Septemper) - Nice to have 
+#### Test and devs for remove arbitrary limit of 500MB upload (end of September) - Nice to have 
 
 Currently an arbitrary limit of 500MB for uploaded file size has been implemented.
 More tests have to been done, and probably a gateway component (interceptor) will need to be rewrited with a different technology (migrate from Nginx to a reverse proxy implemented with .Net). Anyway in this phase videos are still manually encoded, and compression can be adjusted accordly.
