@@ -105,9 +105,3 @@ Approving the budget for gear, and or delegating what can be provided. Formal sc
 3. **What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))** We are Opensourced Artists and collaboratively seeking engagement with all parties interested in creating. We have many dear frens in the community already supporting this movement as well as participating in it. SHAKA and CAMILO will be available before DAY 0, we can be available on day -22 to -2 if needed. Camilo is local in Bogota and SHAKA is nomadically working independently/remotely with plans to be in Bogota at the beginning of October. WE HAVE TO ALL INTEGRATE FOR THE BRIGHT FUTURE WE WILL CREATE:))) 
 
 ### Links & Additional Information
-#### Questions for Devcon Team
-- [\*] We would need some location space definitions in order to calculate the screens specs. Camilo has local LED contact we could acquire a digital display from. 
-
-- If we have one to two confirmed professional acts confirmed before the end of August, can we offer them entry to Devcon for free?
-
-> ℹ Everyone mentioned as confirmed above has the entry, Shaka and Camilo have volunteer positions.
