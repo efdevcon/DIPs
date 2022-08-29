@@ -1,7 +1,7 @@
 ---
 DIP: 19
 Title: Hosting DevCon Archive Videos on Swarm via Etherna
-Status: Draft
+Status: Accepted
 Themes: Virtual Experience, Website, Community Involvement
 Tags: Software, Event Operations, Communications
 Authors: Costanza Gallo costanza@ethswarm.org
