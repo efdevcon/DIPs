@@ -1,7 +1,7 @@
 ---
 DIP: 18
 Title: Hosting DevCon agenda and document sharing on Swarm
-Status: Draft
+Status: Accepted
 Themes: Freeform, Website, Agenda
 Tags: Software, Event Operations, Attendee Experience
 Authors: Costanza Gallo <costanza@ethswarm.org>
