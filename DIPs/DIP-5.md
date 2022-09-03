@@ -1,7 +1,7 @@
 ---
 DIP: 5
 Title: Keycard at Devcon
-Status: Accepted
+Status: Postponed
 Themes: Ticketing, Purchase & ID
 Tags: Attendee Experience
 Authors: Guy-Louis Grau <guylouis@status.im>
