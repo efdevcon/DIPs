@@ -3,7 +3,7 @@ DIP: 22
 Title: Design Community Hub at Devcon Bogota
 Status: Draft
 Themes: Design, Experience
-Tags: Event Operations, Event Production
+Tags: Community Hub, Event Operations, Event Production
 Authors: amy@raw-haus.co
 Resources Required: Physical space at venue, Basic Equipment, On-site Operations/Technical Point Person to ask questions about setup 
 Discussion: https://forum.devcon.org/t/community-hub-proposal-design-community-hub/622
@@ -75,25 +75,30 @@ Below is how we imagine the space being segmented:
 
 Equipment details are optimistic and expected to be finalized depending on the space:
 
-|Equipment|Provided by Devcon?|Lead|
-| --- | --- | --- |
-|X# Power Sources / Extension Cable|Yes?||
-|1 Display or Projector|Yes||
-|Monitor for (UX Research Advice)|Yes?||
-|2 Couches, 3-4 Beanbags (Depends on size of space)|Yes?||
-|Strong, reliable, (preferably one dedicated to the space) wifi!|Yes?||
-|3-4 Smaller tables, 1 Large Table (for Surveys, UX Audits, Workshop Materials)|Yes||
-|Plants (for vibes)|Maybe?||
-|Speakers (for music jam, background music)|Maybe?||
-|~3 Whiteboards (one will be used for hiring board)|Yes||
-|Extra Large Wall Paper (Collaborative Mural)|Maybe?||
-|Pens, Sharpies|Maybe?||
-|Post it notes|Maybe?||
-|Posters / Signage|Yes|Maybe VectorDAO can help design some?|
-|Makerspace Materials (raspberry pis, paper, VR Tilt Brush,)|No|Partner being finalized|
-|Coffee / Matcha / Kava Bar|No|Need to find a partner|
-|Games (chess, backgammon, twister, rubrik’s cubes)|No|Partner being finalized|
+Provided by Devcon as per Community Hub Production Guide:
+- 1 pallet sofa for 6 pax
+- 2 small coffee tables
+- 3 small puffs
+- 1 whiteboard
+- 1 Logo totem
+- 1 A-frame
+- 1 desk table
+- 2 desk chairs
+- 2 cardboard “armchairs “
+- 2 exhibition or desk-like tables
+- 1 Tv 50”
+- 1 socket connection 110 Volts
+- Signage
 
+Additional equipment to be provided / coordinated by the Community Hub:
+
+- Additional Whiteboards (if needed)
+- Extra Large Wall Paper (Collaborative Mural)
+- Pens, Sharpies
+- Post it notes
+- Makerspace Materials (raspberry pis, paper, VR Tilt Brush,)
+- Coffee / Matcha / Kava Bar
+- Games (chess, backgammon, twister, rubrik’s cubes)
 
 ## Operational Requirements & Ownership
 
