@@ -3,9 +3,9 @@ DIP: 24
 Title: Women Leaders in Web3 Community Hub at Devcon
 Status: Draft
 Themes: Social, Community Involvement, Art & Beauty
-Tags: Event Production 
+Tags: Community Hub, Event Production
 Authors: daphneacharles@gmail.com
-Resources Required: Physical space at venue, Operations Support, Signage, Comfortable chairs for AMA, panel, and DEI training sessions, Floor pillows for circle discussions, speed friending, and wellness activities, Projector and screen, Desks for hands on workshops, Whiteboards, Speakers for light ambient music
+Resources Required: Physical space at venue, Signage, Comfortable chairs for AMA, panel, and DEI training sessions, Floor pillows for circle discussions, speed friending, and wellness activities, Screen, Desks for hands on workshops, Whiteboard
 Discussion: https://forum.devcon.org/t/community-hub-proposal-women-leaders-in-web3/839/7
 Created: 2022-8-26
 ---
