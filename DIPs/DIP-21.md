@@ -1,7 +1,7 @@
 ---
 DIP: 21
 Title: Building Web3 Developer Communities Hub
-Status: Draft
+Status: Not Implemented
 Themes: Social
 Tags: Event Production
 Authors: sunny@superfluid.finance, fran@superfluid.finance
