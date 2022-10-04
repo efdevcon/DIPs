@@ -3,7 +3,7 @@ DIP: 25
 Title: Community Hub - Temporary Anonymous Zone
 Status: Accepted
 Themes: Community Involvement
-Tags: Event Production
+Tags: Community Hub, Event Production
 Authors: Althea <althea@ethereum.org>
 Resources Required: Physical space, signage, seating, projector if possible
 Discussion: https://forum.devcon.org/t/community-hub-proposal-temporary-anonymous-zone/567
