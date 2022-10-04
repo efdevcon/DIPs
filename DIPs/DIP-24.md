@@ -1,7 +1,7 @@
 ---
 DIP: 24
 Title: Women Leaders in Web3 Community Hub at Devcon
-Status: Draft
+Status: Accepted
 Themes: Social, Community Involvement, Art & Beauty
 Tags: Community Hub, Event Production
 Authors: daphneacharles@gmail.com
