@@ -1,7 +1,7 @@
 ---
 DIP: 22
 Title: Design Community Hub at Devcon Bogota
-Status: Draft
+Status: Accepted
 Themes: Design, Experience
 Tags: Community Hub, Event Operations, Event Production
 Authors: amy@raw-haus.co
