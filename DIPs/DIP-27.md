@@ -1,5 +1,5 @@
 ---
-DIP: 25
+DIP: 27
 Title: Community Hub - Temporary Anonymous Zone
 Status: Accepted
 Themes: Community Involvement
