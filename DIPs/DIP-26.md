@@ -1,7 +1,7 @@
 ---
 DIP: 26
 Title: Cryptoeconomics & Governance Community Hub 
-Status: Draft
+Status: Accepted
 Themes: Social
 Tags: Community Hub, Event Production
 Authors: Angela Kreitenweis (angela@tokenengineering.net), Eugene Leventhal (eugene@scrf.io). Patricia Brolezzi (patricia@tokenengineering.net)
