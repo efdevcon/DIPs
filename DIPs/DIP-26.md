@@ -7,6 +7,7 @@ Tags: Community Hub, Event Production
 Authors: Angela Kreitenweis (angela@tokenengineering.net), Eugene Leventhal (eugene@scrf.io). Patricia Brolezzi (patricia@tokenengineering.net)
 Resources Required: Physical space at venue, additional screens for the laptop connection if possible
 Discussion: https://forum.devcon.org/t/cryptoecon-governance-community-hub-idea/597
+Created: 2020-08-27
 ---
 
 ### Summary of Proposal
