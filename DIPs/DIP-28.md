@@ -7,6 +7,7 @@ Tags: Community Hub, Event Production
 Authors: michael@0xparc.org, remy@0xparc.org
 Resources Required: Seating for discussion groups, TV-sized screen, Power Outlet, Signage, Desks and tables, Whiteboard
 Discussion: https://forum.devcon.org/t/community-hub-proposal-zk-community-hub/773
+Created: 2022-08-08
 ---
 
 ## Summary of Proposal
