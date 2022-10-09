@@ -1,7 +1,7 @@
 ---
 DIP: 28
 Title: ZK Community Hub
-Status: Draft
+Status: Accepted
 Themes: Social, Community Involvement
 Tags: Community Hub, Event Production
 Authors: michael@0xparc.org, remy@0xparc.org
