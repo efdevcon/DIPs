@@ -30,7 +30,7 @@ We will invite teams from across the ecosystem, including:
 - Teams building ZK infrastructure—proving stacks, libraries, etc.
 - ZK application development teams, such as PSE or 0xPARC’s identity application teams.
 
------Motivation & Rationale-----
+## Motivation & Rationale
 Applied ZK has evolved beyond university research projects: we believe that we’ll have a little bit of something for each part in the stack, from technical infrastructure to consumer facing applications. 
 
 - At the infrastructure layer, we will hold office hours where, as an example, a team building a ZK toolstack (for example, circom) may book a slot and invite community members to come by to ask the core development team questions.
