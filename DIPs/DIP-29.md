@@ -9,12 +9,12 @@ Resources Required: Seating/pillows for discussion groups, Access to the venue f
 Discussion: https://forum.devcon.org/t/proposal-to-organise-a-regens-unite-gathering-at-devcon/560
 ---
 
------Summary of Proposal-----
+## Summary of Proposal
 
 The Regen Hub is a safe space where Regens can meet, ground and build bridges. Regeneration in all shapes and forms is considered, with the goal of **cross-pollinating** inside and outside of the crypto bubble. **Local** regenerative initiatives and Colombian **cultural heritage** will be given a prominent place within the schedule.
 
 
------Abstract-----
+## Abstract
 
 Goals of the Regen Hub:
 
@@ -33,7 +33,7 @@ With this hub, we want to bring the unique atmosphere of a Regens Unite gatherin
 To that end, we encourage everyone who interacts with the hub, to consider [a set of shared values](https://regensunite.notion.site/For-Session-Holders-Facilitators-71418860ea8146fbbb3a41bc055642ff).
 
 
------Motivation & Rationale-----
+## Motivation & Rationale
 
 > if you want to go fast, go alone; if you want to go far, go together 💚
 
@@ -50,7 +50,7 @@ At the same time, we aim to cultivate a safe and brave space for personal regene
 We hope to inspire many web3 builders to work on high-impact problems that can help local communities in Bogota and beyond. We also hope to plant the seeds for collaboration between crypto and non-crypto projects. We hope to unite a chiva-load[^1] of regens.
 
 
------Implementation-----
+## Implementation
 
 Inspiration for the hub are the three past Regens Unite gatherings (in [Brussels](https://photos.app.goo.gl/7iYzrXk1JNcHqRLdA), [Berlin](https://photos.app.goo.gl/6R11RhViT7dVNmqPA) and [Amsterdam](https://photos.app.goo.gl/KawxEvHxn7na3U9D8)).
 
@@ -62,7 +62,7 @@ For this community hub, the format should scale down and we are well aware of th
 - The environment may be louder and busier than past Regens Unite gatherings. We expect people to enter and leave more often as well. We will arrange one or more experienced facilitators to navigate and play with the setting.
 
 
------Operational Requirements & Ownership-----
+## Operational Requirements & Ownership
 
 1. What actions are required to implement the proposal at Devcon?
 
@@ -94,7 +94,7 @@ This community hub is a merge of several forum discussions:
 We embrace diversity and value co-creation 💚 Get in touch with us if you like this DIP and want to contribute :)
 
 
------Links & Additional Information-----
+## Links & Additional Information
 
 Sessions and timings: https://regensunite.earth/bogota
 
@@ -105,6 +105,6 @@ Choco 4 Peace twitter: https://twitter.com/Choco4Peace
 Tropykus twitter: https://twitter.com/tropykus
 
 
------Footnotes-----
+## Footnotes
 
 [^1]: A chiva is a typical Colombian bus.
