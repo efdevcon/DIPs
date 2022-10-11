@@ -77,7 +77,7 @@ Coordinate with all contributors on the ground, so the hub will be tended at all
 
 2. Who will be responsible for the proposal to be implemented effectively?
 
-- [Sinouhe Monteiro Nunes](twitter.com/sinomont/) (Regens Unite)
+- [Sinouhe Monteiro Nunes](https://twitter.com/sinomont/) (Regens Unite)
 - [Sergio Figueredo](https://twitter.com/Serg4Peace) (Choco4peace)
 - [Diego Mazo](https://twitter.com/dmazorosete) (Tropykus)
 
@@ -104,7 +104,5 @@ Choco 4 Peace twitter: https://twitter.com/Choco4Peace
 
 Tropykus twitter: https://twitter.com/tropykus
 
-
-## Footnotes
 
 [^1]: A chiva is a typical Colombian bus.
