@@ -20,7 +20,7 @@ This provides a perk to POAP holders to encourage participation amongst attendee
 
 ## Implementation
 
-Participants must show their POAP in either the POAP, Rainbow, or welook App at the lunch queue.
+Participants must show their POAP at the lunch queue.
 
 danceratopz & haurog would verify POAP holders at either 1 or 2 of the vegetarian lunch queues. 
 
