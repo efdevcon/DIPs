@@ -1,6 +1,6 @@
 ---
 DIP: 30
-Title: "Climate Friendly Devcon VI" POAP Holders Get Priority in the Vegetarian Lunch Queue
+Title: "Climate Friendly Devcon VI" POAP Holders get lunch priority
 Status: Draft
 Themes: Environmental Sustainability
 Tags: Event production
