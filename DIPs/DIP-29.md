@@ -1,5 +1,5 @@
 ---
-DIP: 28
+DIP: 29
 Title: Regen Corner -- Devcon Bogota Community Hub
 Status: Draft
 Themes: Social, Community Involvement, Environmental Sustainability, Art & Beauty
@@ -7,6 +7,7 @@ Tags: (Please select all that apply: Community Hub, Event Production
 Authors: sinouhe.monteironunes@gmail.com, bruno.regens.unite@outlook.com
 Resources Required: Seating/pillows for discussion groups, Access to the venue for session holders, Screen for showing schedule, Screen/tablet for POAP dispenser, Power outlet, Whiteboard or flipchart, Plants
 Discussion: https://forum.devcon.org/t/proposal-to-organise-a-regens-unite-gathering-at-devcon/560
+Created: 2022-10-11
 ---
 
 ## Summary of Proposal
@@ -23,7 +24,7 @@ Goals of the Regen Hub:
 - practice regeneration
 - hold space for care, reflection and genuine connection within a busy conference
 - connect international attendants with locals
-- hold space for Colombian heritage and indiginous wisdom
+- hold space for Colombian heritage and indigenous wisdom
 
 The hub will be used to host various workshops that are optimized for participation. The use of electronic devices will be avoided as much as possible.
 
