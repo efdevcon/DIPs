@@ -3,7 +3,7 @@ DIP: 29
 Title: Regen Corner -- Devcon Bogota Community Hub
 Status: Draft
 Themes: Social, Community Involvement, Environmental Sustainability, Art & Beauty
-Tags: (Please select all that apply: Community Hub, Event Production, Regen) 
+Tags: Community Hub, Event Production, Regen
 Authors: sinouhe.monteironunes@gmail.com, bruno.regens.unite@outlook.com
 Resources Required: Seating/pillows for discussion groups, Access to the venue for session holders, Screen for showing schedule, Screen/tablet for POAP dispenser, Power outlet, Whiteboard or flipchart, Plants
 Discussion: https://forum.devcon.org/t/proposal-to-organise-a-regens-unite-gathering-at-devcon/560
