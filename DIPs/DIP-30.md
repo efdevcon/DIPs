@@ -26,7 +26,7 @@ danceratopz & haurog would verify POAP holders at either 1 or 2 of the vegetaria
 
 ## Operational Requirements & Ownership
 
-In order for this perk to have impact, we aks whether it would be possible to advertise the initiative on the main stage on the last day of Devcon and/or in the Agora Center LED banner.
+In order for this perk to have impact, we ask whether it would be possible to advertise the initiative on the last day of Devcon and/or in the Agora Center LED banner.
 
 danceratopz & haurog would take full ownership of verifying POAP holders in the lunch queue.
 
