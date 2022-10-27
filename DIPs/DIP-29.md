@@ -1,7 +1,7 @@
 ---
 DIP: 29
 Title: Regen Corner -- Devcon Bogota Community Hub
-Status: Draft
+Status: Accepted
 Themes: Social, Community Involvement, Environmental Sustainability, Art & Beauty
 Tags: Community Hub, Event Production, Regen
 Authors: sinouhe.monteironunes@gmail.com, bruno.regens.unite@outlook.com
