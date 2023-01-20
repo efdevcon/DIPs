@@ -9,18 +9,18 @@ You can also see the DIPs [on the DEVCon website](https://www.devcon.org/en/#con
  
 ## Contributing
 
-1. Post your idea in the [Devcon Forum](https://forum.devcon.org/), publicize it, discuss there, and gather feedback.
+1. Post your idea in the [Devcon Forum](https://forum.devcon.org/), publicize it, discuss it there, and gather feedback.
 2. Once you have feedback and some interest in the idea, proceed with the below steps.
 3. Review [DIP-0](DIPs/DIP-0.md). If you have questions or need help with Github, please just ask us — we can help you!
 4. Fork the repository by clicking "Fork" at the top right.
 5. Add your DIP to your fork of the repository.
 6. Submit a Pull Request to this repository
 
-After submitting editors will go through [this checklist](checklist.md) - it is encouraged that you already went trough these points yourself.
+After submitting editors will go through [this checklist](checklist.md) - it is encouraged that you already went through these points yourself.
 
 ## DIP Status Terms
 
- * **Draft** - an DIP that is undergoing rapid iteration and changes.
+ * **Draft** - a DIP that is undergoing rapid iteration and changes.
  * **Accepted** - The Devcon Organisers have Accepted your DIP.
  * **Postponed** - The DIP won’t be possible for the following edition.
  * **Not implemented** - The DIP won’t be implemented.
