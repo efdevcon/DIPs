@@ -12,8 +12,8 @@ assignees: ''
 A clear and concise description of what the issue is.
 
 ### Improvement operation
+- [] Subtract
 - [] Add
-- [] Substract
 - [] Modify
 
 ### Rationale 
