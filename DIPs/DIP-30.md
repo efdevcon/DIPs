@@ -1,6 +1,6 @@
 ---
 DIP: 30
-Title: "Climate Friendly Devcon VI" POAP Holders get lunch priority
+Title: "'Climate Friendly Devcon VI' POAP Holders get lunch priority"
 Status: Accepted
 Themes: Environmental Sustainability
 Tags: Event production
