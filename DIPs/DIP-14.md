@@ -3,6 +3,7 @@ DIP: 14
 Title: Poster Presentations
 Status: Draft
 Themes: Community Involvement
+Instances: [DEVcon6]
 Tags: Event Operations
 Authors: Valerie Vaske <valerie.vaske@gmail.com>
 Resources Required: Physical space at venue, Communication support

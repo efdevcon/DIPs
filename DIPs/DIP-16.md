@@ -3,6 +3,7 @@ DIP: 16
 Title: Universally verifiable off-chain polls for Devcon 6
 Status: Draft
 Themes: Community Involvement, Ticketing
+Instances: [DEVcon6]
 Tags: Software, Event production
 Authors: Pau Escrich <pau@vocdoni.io>, Patricio Worthalter <worthalter@poap.xyz>, Ferran Reyes <ferran@vocdoni.io>
 Resources Required: Communication support

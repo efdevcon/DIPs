@@ -3,6 +3,7 @@ DIP: 6
 Title: Attestation based ticketing solution for Devcon
 Status: Accepted
 Themes: RFP-1 On-chain Ticketing
+Instances: [DEVcon6]
 Tags: Event Operations, Event Production, Software
 Authors: Weiwu Zhang <weiwu.zhang@alphawallet.com>, Sunil Tom <sunil.tom.jose@alphawallet.com>, Victor Zhang <victor.zhang@alphawallet.com>
 Resources Required: software development, operations Support and tech support

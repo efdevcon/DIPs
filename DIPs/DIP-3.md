@@ -3,6 +3,7 @@ DIP: 3
 Title: Book your accommodation on-chain, 0% commissions paid to intermediaries.
 Status: Accepted
 Themes: Ticketing, Purchases & ID
+Instances: [DEVcon6]
 Tags: Attendee Experience
 Authors: Maksim Izmaylov <max@windingtree.com> & Luca Cosivi <luca@windingtree.com>
 Resources Required: Local contacts and Promotion on all channels including website

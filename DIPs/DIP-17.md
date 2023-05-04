@@ -3,6 +3,7 @@ DIP: 17
 Title: Make Devcon6 Carbon Neutral
 Status: Draft
 Themes: Ticketing, Environmental Sustainability
+Instances: [DEVcon6]
 Tags: Event production, Software
 Authors: danceratopz <danceratopz@gmail.com>, haurog <haurog@pm.me>
 Resources Required: Operational support, Communication support, (Tech support?)
