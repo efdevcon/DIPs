@@ -3,6 +3,7 @@ DIP: 20
 Title: OPEN SOURCED ART from the HEART
 Status: Draft
 Themes: Social
+Instances: [Devcon6]
 Tags: Event Production
 Authors: Shaka Lei Kaumaka (@shakaleikaumaka), Matteo Tambussi (@matlemad), Camilo Cruz (@isdotlove)
 Discussion: https://forum.devcon.org/t/music-sessions-open-mic-stage/387

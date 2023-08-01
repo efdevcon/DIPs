@@ -3,6 +3,7 @@ DIP: 23
 Title: CRYPTOMURALS - Street art hunting
 Status: Draft
 Themes: Social, Art & Beauty, Community Involvement, Public Goods.
+Instances: [Devcon6]
 Tags: Software, Communications, Others.
 Authors: 0xnats@proton.me j.caraballose@gmail.com cryptomurals@gmail.com manu@doingud.com sanchit@doingud.com
 Resources Required: Development of the street art hunt platform by DoinGud, Production of 3 murals in Bogotá by ELAR,GAVILÁN & TONRA, Graffiti tour guides for 4 days, operations support.

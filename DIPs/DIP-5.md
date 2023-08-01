@@ -3,6 +3,7 @@ DIP: 5
 Title: Keycard at Devcon
 Status: Postponed
 Themes: Ticketing, Purchase & ID
+Instances: [Devcon6]
 Tags: Attendee Experience
 Authors: Guy-Louis Grau <guylouis@status.im>
 Resources Required: Operational support, Communication support

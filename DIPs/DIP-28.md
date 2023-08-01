@@ -3,6 +3,7 @@ DIP: 28
 Title: ZK Community Hub
 Status: Accepted
 Themes: Social, Community Involvement
+Instances: [Devcon6]
 Tags: Community Hub, Event Production
 Authors: michael@0xparc.org, remy@0xparc.org
 Resources Required: Seating for discussion groups, TV-sized screen, Power Outlet, Signage, Desks and tables, Whiteboard

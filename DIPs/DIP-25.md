@@ -3,6 +3,7 @@ DIP: 25
 Title: Live UX Research
 Status: Draft
 Themes: Design, Experience, Research
+Instances: [Devcon6]
 Tags: Event production, programming
 Authors: hester@uxenzo.com
 Resources Required: Physical space, Registration
