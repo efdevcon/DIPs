@@ -3,7 +3,7 @@ DIP: 21
 Title: Building Web3 Developer Communities Hub
 Status: Not Implemented
 Themes: Social
-Instances: [DEVcon6]
+Instances: [Devcon6]
 Tags: Event Production
 Authors: sunny@superfluid.finance, fran@superfluid.finance
 Resources Required: Physical room at venue, Tech support, Basic Equipment (Furniture, Power Outlets, TV, etc.)
