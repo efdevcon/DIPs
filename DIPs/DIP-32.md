@@ -94,7 +94,7 @@ We want to approach this project in a user research mindset so we will be trying
 
 1. What actions are required to implement the proposal at Devconnect?
 
-Primarily we need buy-in from Devconnect & subevent organizers to host some of these cards and allow attendees to collect Jubjubs at their event. We want to make this as easy as possible, but also want to find organizers that are naturally excited about the experience and will be good evangelists. We also would love to get in contact with local restaurants and tourist spots to see if they have any interest in keeping **one** of these cards to incentivize conference attendees to visit their business.
+Primarily we need buy-in from Devconnect & subevent organizers to host some of these cards and allow attendees to collect Jubjubs at their event. We want to make this as easy as possible, but also want to find organizers that are naturally excited about the experience and will be good evangelists. We also would love to get in contact with local restaurants and tourist spots to see if they have any interest in keeping one of these cards to incentivize conference attendees to visit their business.
 
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
