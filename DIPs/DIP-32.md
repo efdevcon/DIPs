@@ -6,8 +6,9 @@ Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
 Instances: Devconnect Istanbul
 Authors: Vivek (vb7401@gmail.com), Rachel (rachelaux3@gmail.com), Althea (althea@ethereum.org)
-Resources Required: Space in the Devconnect venue
+Resources Required: Potentially a space in the Devconnect venue as a hub for the game
 Discussion: [to-be-posted]
+Created: 2023-08-31
 ---
 
 ## Summary of Proposal
