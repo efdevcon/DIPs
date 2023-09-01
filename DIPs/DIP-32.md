@@ -98,7 +98,7 @@ Primarily we need buy-in from Devconnect & subevent organizers to host some of t
 
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
 
-Vivek, Althea and Rachel will be the main responsible parties, with help from the PSE team and others as needed.
+Vivek, Althea and Rachel will be the main responsible parties, with help from the PSE team and others as needed. We will be in Istanbul the 2 weeks prior to Devconnect for another event, so we will have plenty of time for setup before Day 0.
 
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 
