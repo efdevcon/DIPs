@@ -1,6 +1,6 @@
 ---
 DIP: 32
-Title: Jubjubs: Collect → Prove → Win!
+Title: "Jubjubs: Collect → Prove → Win!"
 Status: Draft
 Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
@@ -10,7 +10,7 @@ Resources Required: Space in the Devconnect venue
 Discussion: [to-be-posted]
 ---
 
-# Summary of Proposal
+## Summary of Proposal
 
 An interactive game using ZK to prove your score while protecting privacy. Attendees collect unique [signatures](https://eips.ethereum.org/EIPS/eip-2494) from physical NFC cards, which are tied to attending events or meeting people. These signatures serve as private POAPs, and are visualized as different "Jubjub" monsters. Attendees use ZK to reveal the number & rarity of the Jubjubs they've collected, but nothing else.
 
@@ -22,7 +22,7 @@ An interactive game using ZK to prove your score while protecting privacy. Atten
 
 ## Abstract
 
-Devconnect attendees are invited to collect digital monsters called "Jubjubs", which would be found all over Devconnect & Istanbul. They are collected by using NFC cards from (Arx)[arx.org] that produce a unique signature on each tap from an on-card public/private keypair. By securing a card with an event, speaker, or local restaurant, and associating the card's public key with its owner, proving you have a valid signature from that public key serves as a proof of attendance or meeting. But instead of being posted on-chain, these signatures are stored privately in browser `localStorage`, with more permanent backup options including PCDPass (from DIP #31), Apple Wallet & PassAndroid (.pkpass files), and Google Wallet (JWT). Here is an example from the Sigmojis experience we ran at SBC '23:
+Devconnect attendees are invited to collect digital monsters called "Jubjubs", which would be found all over Devconnect & Istanbul. They are collected by using NFC cards from [Arx](arx.org) that produce a unique signature on each tap from an on-card public/private keypair. By securing a card with an event, speaker, or local restaurant, and associating the card's public key with its owner, proving you have a valid signature from that public key serves as a proof of attendance or meeting. But instead of being posted on-chain, these signatures are stored privately in browser `localStorage`, with more permanent backup options including PCDPass (from DIP #31), Apple Wallet & PassAndroid (.pkpass files), and Google Wallet (JWT). Here is an example from the Sigmojis experience we ran at SBC '23:
 
 <p align="center">
 <img src="images/DIP32-apple-wallet-pass.jpeg" alt="Apple Wallet storage" style="height: 300px;">
@@ -64,11 +64,15 @@ One deployment we're particularly excited about is giving a Jubjub card to local
 
 This project builds on top of two prior activations: Zupass Stamps at this year’s Zuzalu, and Sigmojis at this year’s SBC.
 
+<p align="center">
 <img src="images/DIP32-zupass-stamps.png" alt="Zupass Stamps" style="height: 300px;">
+</p>
 
 We had great traction with stamps at Zuzalu, which served as private POAPs of various community events and parties. We had a total of 34 different cards deployed, and over 500 stamps were collected by Zuzalu attendees in the last 10 days of the event. Storage was handled by Zupass, a precursor to PCDPass. People resonated with the concept and enjoyed the tactile interaction with the cards. We provided a full retrospective [here](https://pse-team.notion.site/Zupass-Stamps-v1-Retrospective-6bd7aa223f4d41cdb59b4ecf8aafb130).
 
+<p align="center">
 <img src="images/DIP32-sbc-sigmojis.png" alt="SBC Sigmojis" style="height: 300px;">
+</p>
 
 We iterated the stamps experience in the following ways for SBC in order to test with a broader audience.
 
