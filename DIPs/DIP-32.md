@@ -45,7 +45,7 @@ We believe NFC cards that produce unique signatures on every tap are a great sol
 
 ### Generate understanding of ZK through an interactive experience
 
-Past not having personal data to make proofs about, actually making the proof also feels out of reach for most people. This could be due to perceptions that generating a proof requires a technical background or is too computationally intensive for personal devices. We want to change that perception by allowing everyone at Devconnect to generate a game proof: the rarity of your Jubjub collection, without revealing the specific set of Jubjubs you've collected.
+Past not having personal data to make proofs about, actually making the proof also feels out of reach for most people. This could be due to perceptions that generating a proof requires a technical background or is too computationally intensive for personal devices. We want to change that perception by allowing everyone at Devconnect to generate a gamified, unserious proof: the rarity of your Jubjub collection, without revealing the specific set of Jubjubs you've collected.
 
 We are hoping that once folks get to experience private data ownership and making their own proofs, they will be able to more actively ideate on how their communities can benefit from private data ownership and selective revealing via ZK.
 
