@@ -5,9 +5,9 @@ Status: Draft
 Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
 Instances: Devconnect Istanbul
-Authors: Vivek (vb7401@gmail.com), Rachel (rachelaux3@gmail.com), Althea (althea@ethereum.org)
+Authors: Rachel (rachelaux3@gmail.com), Vivek (vb7401@gmail.com), Althea (althea@ethereum.org)
 Resources Required: Potentially a space in the Devconnect venue as a hub for the game
-Discussion: [to-be-posted]
+Discussion: https://forum.devcon.org/t/jubjubs-zk-provable-devconnect-mementos/3225
 Created: 2023-08-31
 ---
 
@@ -45,7 +45,7 @@ We believe NFC cards that produce unique signatures on every tap are a great sol
 
 ### Generate understanding of ZK through an interactive experience
 
-Past not having personal data to make proofs about, actually making the proof also feels out of reach for most people. This could be due to perceptions that generating a proof requires a technical background or is too computationally intensive for personal devices. We want to change that perception by allowing everyone at Devconnect to generate a simple proof: what your Jubjub collection is worth, without revealing the specific set of Jubjubs you've collected.
+Past not having personal data to make proofs about, actually making the proof also feels out of reach for most people. This could be due to perceptions that generating a proof requires a technical background or is too computationally intensive for personal devices. We want to change that perception by allowing everyone at Devconnect to generate a game proof: the rarity of your Jubjub collection, without revealing the specific set of Jubjubs you've collected.
 
 We are hoping that once folks get to experience private data ownership and making their own proofs, they will be able to more actively ideate on how their communities can benefit from private data ownership and selective revealing via ZK.
 
