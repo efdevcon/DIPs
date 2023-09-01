@@ -12,7 +12,7 @@ Discussion: [to-be-posted]
 
 ## Summary of Proposal
 
-An interactive game using ZK to prove your score while protecting privacy. Attendees collect unique [signatures](https://eips.ethereum.org/EIPS/eip-2494) from physical NFC cards, which are tied to attending events or meeting people. These signatures serve as private POAPs, and are visualized as different "Jubjub" monsters. Attendees use ZK to reveal the number & rarity of the Jubjubs they've collected, but nothing else.
+An interactive game using ZK to prove points while protecting privacy. Attendees collect unique signatures from physical NFC cards, which represent attending events or meeting people, and are visualized as different "Jubjub" monsters. Attendees use ZK to reveal the number & rarity of the Jubjubs they've collected, but nothing else.
 
 <p align="center">
 <img src="images/DIP32-jubjub-bird.png" alt="Jub Jub bird" style="height: 300px;">
