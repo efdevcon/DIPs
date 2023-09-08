@@ -77,3 +77,131 @@ The PCD Team of 0xPARC is responsible for developing, testing, and deploying thi
 
 - [PCD Team Website](https://pcd.team)
 - [Zupass Repo](https://github.com/proofcarryingdata/zupass)
+
+# Technical Specification of PCDpass Ticketing
+
+We include a technical specification of the design of our ticketing system.
+
+## Pretix Data Model
+
+In order to understand how PCDpass integrates with Pretix, it is important to understand the Pretix data model. Under the hood, PCDpass reads event and ticketing information from Pretix, and converts that information into PCD-based tickets.
+
+The data model of Pretix is as follows:
+
+- `Instance`: Pretix can be self-hosted, or you can use it as a SASS. “Instance” refers to the entire Pretix application stack - web server, database, etc. required to run Pretix, whether it is run by the event host, or by Pretix itself.
+- `Organizer`: An organizer is effectively the ‘account’ on Pretix which an event host is able to configure to suit their particular event ticketing needs.
+- `Event`: an `Organizer` can have many events. `Event`s have a start date, end date, location, etc.
+- `Product`: each `Event` has its own set of `Product`s that it can offer. `Product` refers to an individual purchasable item in the context of that particular `Event`.
+    - `Product`s are highly configurable. They can have quotas, questions that must be answered at purchase-time, etc.
+    - Examples of `Product`s would be: a GA ticket to the event, a Student ticket to the event, a ‘t-shirt’, a piece of memorabilia like a commemorative booklet.
+- `Question`: each `Product` can have multiple `Question`s that can be answered by purchasers. `Question`s can be required or optional. Two important questions are the purchaser’s name and email.
+- `Shop`: Each `Event` has a web-interface through which prospective event attendees can purchase one or more `Products` via a web interface. Attendees can pay at the `Shop`, as Pretix offers a Stripe integration. The `Shop` enforces `Event` configuration, such as quotas. It also ensures that attendees answers the required `Question`s for each `Product` sold in the `Shop`, and gives attendees the opportunity to answer optional `Question`s as well.
+- `Order`: Each time a person purchases one or more `Product`s via the Pretix `Shop` for a particular `Event`, their entire purchase is represented by an `Order`. An `Order` can have multiple purchased `Product`s.
+- `Position`: A purchased `Product` within an `Order` is represented by a `Position`, which can be thought of as an ‘instance of an `Product`’.
+
+## Pretix Configuration
+
+In order to offer tickets to events, a host must set up their `Organizer`, `Event`s and `Product`s for each event they want to seel tickets to. Pretix is quite flexible, and there are may correct ways to set up a Pretix `Organizer`.
+
+However, in order for PCDpass to be able to issue PCD-based tickets to event attendees, there are a few specific configuration options that must be set up correctly.
+
+The following configuration options must be set up for each `Event` and `Product` that an event host wants PCDpass to be able to issue PCD-based tickets for:
+
+- `Event` configuration options:
+    - Under ‘General’, in ‘Customer and attendee data’ section, in the ‘Attendee Data (once per personalized ticket)’ subsection, the ‘Ask for email addresses per ticket’ option must be set to ‘Ask and require input’. This is very important!
+        
+        ![Screenshot 2023-07-14 at 10.46.15 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.46.15_AM.png)
+        
+    - Under ‘Tickets’, in the ‘Ticket Download’ section, in the ‘Download settings’ subsection, the ‘Allow users to download tickets’ checkbox must be **unchecked**. This is important, as in the case that it is unchecked, attendees would be able to have two different tickets - a Pretix-implemented ticket, and a PCDpass ticket, which would cause confusion for attendees.
+        
+        ![Screenshot 2023-07-14 at 10.49.55 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.49.55_AM.png)
+        
+- `Product` configuration options:
+    - Under ‘General’, the ‘Personalization’ option must be set to ‘Personalized Ticket’. This is important because it enforces that each `Position` has a corresponding email address, which is how PCDpass distinguishes between tickets internally.
+        
+        ![Screenshot 2023-07-14 at 10.52.41 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.52.41_AM.png)
+        
+
+If Pretix is not set up with the above configuration options, PCDpass will not sync ticket information, and not issue PCD-based tickets to attendees of those events.
+
+## PCDpass Pretix Sync Configuration
+
+In order for PCDpass to sync event and ticket information from Pretix, we need to collect some configuration information for each `Organizer` (which can have many `Event`s and `Product`s).
+
+PCDpass does not issue PCD-based tickets to attendees for `Event`s and `Product`s that have not been explicitly configured with the PCD Team.
+
+- `organizer_url` - a unique identifier that refers to a collection of `Events` and configuration options controlled by the event host.
+    - <add instructions for how to get this info>
+- `organizer_token` - an API key (maintained by Pretix per-organizer) that gives web API to PCDpass, enabling it to send web requests to Pretix to download information about `Organizer`s, `Event`s, `Products`s, `Order`s and `Position`s.
+    - You can find instructions for how to get a token here: [https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth](https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth)
+- In order to sync properly, an event organizer (human) must inform us of the `Events` and `Products` that PCDpass should be aware of. For each event, we need to know:
+    - its `event_id`
+        - <add instructions for how to get this info>
+    - its `Product`s that PCDpass should interpret to be tickets. Under the hood, a `Product` can also be referred to as an ‘Item’, and each `Product` has a unique `item_id`. Thus, in order for PCDpass to sync the correct tickets, for each event, we need to know the list of item ids (`active_item_ids`) - ids of `Product`s that should be interepreted as tickets.
+        - <add instructions for how to get this info>
+- In order to allow users to be checked in, some PCDpass users need to be identified as `Superuser`s, which would grant them permission to check people in. At the time that an `Event` is being onboarded to the PCDpass product, we would ask the event host to provide a list of `Product`s that should be granted `Superuser` permissions. This means that all `Superuser`s have a ticket to the event on their PCDpass, and must be logged into the email address to which this `Superuser` ticket was issued in order to check in attendees to that event.
+
+## PCDpass Pretix Two-Way Sync
+
+In order to be able to issue PCD-based tickets to event attendees, PCDpass needs to be aware of the `Organizer`, `Event`s, and `Product`s that live in Pretix. Thus, we have developed a syncing mechanism that downloads state from Pretix and saves it to our own database in our own data format.
+
+Internally, we refer to an individual ticket to an event as a `Pretix Ticket`. A more explicit definition of `Pretix Ticket` can be found in the description of the algorithm by which we sync an `Organizer` into PCDpass.
+
+- A ticket can either be `Soft Deleted` or not.
+
+The sync algorithm is as follows:
+
+- For each `Organizer` that has been configured, and for each `Event` that has been specified as relevant, we download the `Event` metadata.
+    - For each `Event`, we download its name, which I will refer to as its `event_name`.
+    - For each `Product` within each `Event` that PCDpass understands to be a ticket `Product`, as identified by that `Event`'s `active_item_ids`, we sync that `Product`'s name, which I will refer to as its `item_name`.
+- For each `Event`, we download all the `Order`s.
+- For each `Order`, we extract the `Position`s.
+- We record each `Position`  as a `Pretix Ticket` in our system.
+- The sync algorithm is robust to `Order`s and `Position`s changing.
+    - In the case that an `Order` containing the `Position` that caused us to record a `Pretix Ticket` is cancelled or deleted, we record the `Pretix Ticket` as `Soft Deleted`.
+    - In the case that the `Position` that caused us to record a `Pretix Ticket` is cancelled or deleted, we record the `Pretix Ticket` as `Soft Deleted`.
+    - In the case that we encounter one or more `Position`s that translated to a `Pretix Ticket` that is `Soft Deleted`, we make that `Pretix Ticket` **not** `Soft Deleted`.
+- The sync algorithm is robust to to `Event`s and `Product`s being renamed.
+- The sync algorithm is robust to `Event`s and `Product`s being deleted.
+    - In the case that an `Event` or `Product` no longer exists, we cancel the sync so that existing `Pretix Ticket`s are not changed. Fixing this state requires manual intervention by the PCD Team.
+- For each `Pretix Ticket` that has been checked in by an event volunteer on-site, we sync the check-in to the corresponding `Position` in Pretix. In the case that the ticket was checked in both on the Pretix side and on the PCDpass side, and had its checkin deleted by an organizer on Pretix, the ticket will become un-checked-in on PCDpass as well, letting the attendee get checked in by an event volunteer via PCDpass. To summarize, each ticket's check-in status is synced between PCDpass and Pretix, such that the latest state is in sync between the two systems of record.
+
+## PCDpass Ticket Issuance
+
+- Once a user logs into PCDpass using their email, their PCDpass makes a web request to the PCDpass server (which is responsible for syncing ticket information from Pretix, and issuing PCD-based tickets), to ask for the PCD-based tickets that they have purchased. The server responds with a list of `Ticket PCD`s that are then added to the user’s PCDPass.
+- A `Ticket PCD` is represented by an `RSATicketPCD` - which is a PCD that contains the information in its corresponding `Pretix Ticket`, signed by the PCDpass server’s RSA private key.
+    - For production, we will use a different signature algorithm than RSA: `eddsa-bjj-poseidon-pcd`, which I will refer to as `EDDSA` elsewhere in this document. The reason we want to use `EDDSA` is that it is a SNARK-friendly signature algorithm, which enables users to performantly compute zero-knowledge statements about their `Ticket PCD`s.
+- Each `Ticket PCD` contains the following information:
+    - `email` - which corresponds to the answer to the ‘attendee email’ question entered by the attendee at purchase-time on the Pretix `Shop`.
+    - `event_name` - corresponds to the name of the `Event` in Pretix.
+    - `ticket_name` - corresponds to the name of the `Product` that was purchased (and thus added as a `Position` within some `Order` in Pretix) by the attendee.
+    - `timestamp` - the timestamp at which the `Ticket PCD` was signed and issued by the PCDpass server to the user.
+    - `ticket_id` - the unique identifier internal to PCDpass corresponding to the `Pretix Ticket` from which the `Ticket PCD` was generated.
+- Given that `Order`s and `Position`s can be updated by event hosts in Pretix manually, which causes our internal representation of `Pretix Ticket`s to be updated, the information in a `Ticket PCD` can become out of date. Thus, the PCDpass client will periodically re-download the `Ticket PCD`s that have been issued to its user’s email address, in order to keep them up to date with the state in Pretix. This means that:
+    - Whenever an event host changes an `Event` name that PCDpass is tracking via the Pretix web interface or API, the information in the user’s `Ticket PCD` will eventually reflect the correct `Event` name.
+    - Similarly, whenever the name of a `Product` changes, it will eventually end up being reflected in the user’s `Ticket PCD`.
+
+## PCDpass Ticket Checkin
+
+To check into an event, a PCDpass user will need to have logged into PCDPass with the email they used to purchase their tickets, or the email that was entered on their behalf by someone else who purchased a ticket for them.
+
+After logging in, as mentioned earlier, the PCDpass user will have access to all of their `Ticket PCD`s.
+
+To checkin to an `Event`, the PCDpass user would have to navigate to the `Ticket PCD` in their PCDpass that corresponds to a ticket for that `Event`, and show that `Ticket PCD`'s QR code to the `Superuser` in charge of checking people into the event.
+
+To start checking attendees into the `Event`, the `Superuser` must have signed into PCDpass using the email address to which a ticket with `Superuser` permissions was issued..
+
+To check in an attendee, the `Superuser` would scan the attendee’s `Ticket PCD` QR code (which contains the `Ticket PCD`) using their logged-in PCDpass. This action sends a request to the PCDpass server to determine whether the `Ticket PCD` was actually issued, whether it was revoked, and whether it has already been used to check in.
+
+Each `Ticket PCD` can only be used once to checkin to an `Event`.
+
+## PCDpass Ticket Revocation
+
+To revoke a ticket within PCDpass, an event host has several options:
+
+- Mark the `Order` that contains the `Position` which that corresponds to the `Ticket PCD`that the event host wants to cancel as `Cancelled`. This option is not ideal because this would would also revoke all the other `Ticket PCD`s corresponding to the rest of the `Position`s in that order.
+    - Another option is to delete the `Order`.
+- Mark the `Position` corresponding to the `Ticket PCD` that the event host wants to cancel as  `Cancelled`.
+    - Another option is to delete the `Position` from the order
+
+All of the above options cause an existing `Pretix Ticket` in the PCDpass system to end up in the `Soft Deleted` state, which effectively revokes the ticket, and prevents it from being used to check in to physical events.
