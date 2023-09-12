@@ -101,7 +101,7 @@ The data model of Pretix is as follows:
 
 ## Pretix Configuration
 
-In order to offer tickets to events, a host must set up their `Organizer`, `Event`s and `Product`s for each event they want to seel tickets to. Pretix is quite flexible, and there are may correct ways to set up a Pretix `Organizer`.
+In order to offer tickets to events, a host must set up their `Organizer`, `Event`s and `Product`s for each event they want to sell tickets to. Pretix is quite flexible, and there are may correct ways to set up a Pretix `Organizer`.
 
 However, in order for PCDpass to be able to issue PCD-based tickets to event attendees, there are a few specific configuration options that must be set up correctly.
 
@@ -131,14 +131,11 @@ In order for PCDpass to sync event and ticket information from Pretix, we need t
 PCDpass does not issue PCD-based tickets to attendees for `Event`s and `Product`s that have not been explicitly configured with the PCD Team.
 
 - `organizer_url` - a unique identifier that refers to a collection of `Events` and configuration options controlled by the event host.
-    - <add instructions for how to get this info>
 - `organizer_token` - an API key (maintained by Pretix per-organizer) that gives web API to PCDpass, enabling it to send web requests to Pretix to download information about `Organizer`s, `Event`s, `Products`s, `Order`s and `Position`s.
     - You can find instructions for how to get a token here: [https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth](https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth)
 - In order to sync properly, an event organizer (human) must inform us of the `Events` and `Products` that PCDpass should be aware of. For each event, we need to know:
     - its `event_id`
-        - <add instructions for how to get this info>
     - its `Product`s that PCDpass should interpret to be tickets. Under the hood, a `Product` can also be referred to as an ‘Item’, and each `Product` has a unique `item_id`. Thus, in order for PCDpass to sync the correct tickets, for each event, we need to know the list of item ids (`active_item_ids`) - ids of `Product`s that should be interepreted as tickets.
-        - <add instructions for how to get this info>
 - In order to allow users to be checked in, some PCDpass users need to be identified as `Superuser`s, which would grant them permission to check people in. At the time that an `Event` is being onboarded to the PCDpass product, we would ask the event host to provide a list of `Product`s that should be granted `Superuser` permissions. This means that all `Superuser`s have a ticket to the event on their PCDpass, and must be logged into the email address to which this `Superuser` ticket was issued in order to check in attendees to that event.
 
 ## PCDpass Pretix Two-Way Sync
