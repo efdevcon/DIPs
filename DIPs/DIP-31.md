@@ -161,7 +161,7 @@ The sync algorithm is as follows:
 - The sync algorithm is robust to to `Event`s and `Product`s being renamed.
 - The sync algorithm is robust to `Event`s and `Product`s being deleted.
     - In the case that an `Event` or `Product` no longer exists, we cancel the sync so that existing `Pretix Ticket`s are not changed. Fixing this state requires manual intervention by the PCD Team.
-- For each `Pretix Ticket` that has been checked in by an event volunteer on-site, we sync the check-in to the corresponding `Position` in Pretix. In the case that the ticket was checked in both on the Pretix side and on the PCDpass side, and had its checkin deleted by an organizer on Pretix, the ticket will become un-checked-in on PCDpass as well, letting the attendee get checked in by an event volunteer via PCDpass. To summarize, each ticket's check-in status is synced between PCDpass and Pretix, such that the latest state is in sync between the two systems of record.
+- Each ticket's check-in status is synced between PCDpass and Pretix, such that the latest state is in sync between the two systems of record.
 
 ## PCDpass Ticket Issuance
 
