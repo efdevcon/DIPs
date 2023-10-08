@@ -135,7 +135,7 @@ PCDpass does not issue PCD-based tickets to attendees for `Event`s and `Product`
     - You can find instructions for how to get a token here: [https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth](https://docs.pretix.eu/en/latest/api/tokenauth.html#rest-tokenauth)
 - In order to sync properly, an event organizer (human) must inform us of the `Events` and `Products` that PCDpass should be aware of. For each event, we need to know:
     - its `event_id`
-    - its `Product`s that PCDpass should interpret to be tickets. Under the hood, a `Product` can also be referred to as an ‘Item’, and each `Product` has a unique `item_id`. Thus, in order for PCDpass to sync the correct tickets, for each event, we need to know the list of item ids (`active_item_ids`) - ids of `Product`s that should be interepreted as tickets.
+    - its `Product`s that PCDpass should interpret to be tickets. Under the hood, a `Product` can also be referred to as an ‘Item’, and each `Product` has a unique `item_id`. Thus, in order for PCDpass to sync the correct tickets, for each event, we need to know the list of item ids (`active_item_ids`) - ids of `Product`s that should be interpreted as tickets.
 - In order to allow users to be checked in, some PCDpass users need to be identified as `Superuser`s, which would grant them permission to check people in. At the time that an `Event` is being onboarded to the PCDpass product, we would ask the event host to provide a list of `Product`s that should be granted `Superuser` permissions. This means that all `Superuser`s have a ticket to the event on their PCDpass, and must be logged into the email address to which this `Superuser` ticket was issued in order to check in attendees to that event.
 
 ## PCDpass Pretix Two-Way Sync
