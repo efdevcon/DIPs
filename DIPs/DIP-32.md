@@ -41,7 +41,7 @@ The team behind Peanut Protocol can either own the entire process, which would r
 1. creating the Pretix Plugin and implementing the Peanut Proctocol SDK in that. 
 2. Testing said plugin on a fake test event.
 3. Maintain the repo.
-4. Helping the DevCon(nect) temas use the new technology.
+4. Helping the DevCon(nect) teams use the new technology.
 
 
 **Mechanism:**
@@ -59,7 +59,7 @@ The team behind Peanut Protocol can either own the entire process, which would r
 
 1. The Peanut Protocol team would not be collecting emails or anything as this would be a Pretix plugin run by Devcon.
 
-## **Implementation Details:**
+## Implementation Details
 
 We intend to build this functionality as a plugin on the Pretix platform. Pretix already supports merge mailing via Python scripts for attestations (see  https://github.com/efdevcon/pretix-attestation-placeholder-plugin), a similar mechanism can be used to dispatch unique links to participants. This system will allow us to send thousands of emails with individualized token claiming links efficiently.
 
@@ -75,7 +75,7 @@ The implementation will require:
 2. Setting up a system to generate unique links for token claims.
 3. Implementing the merge mailing script to dispatch these links in registration confirmation emails.
 
-## **Test Cases**
+## Test Cases
 
 Before final implementation, a smaller test run can be conducted:
 
@@ -83,12 +83,12 @@ Before final implementation, a smaller test run can be conducted:
 2. The pretix merge mailing system can be utilized to send out testnet token links.
 3. The links can be tested and other potential issues uncovered.
 
-## **References**
+## References
 
 - Ethberlin3 and the scratch card-based token distribution.
 - [Community discussion on forum.devcon.org](https://forum.devcon.org/t/rfc-dip-for-simplifying-testnet-token-distribution-for-workshops-at-devcon-nect/3233/4)
 - Pretix
-    - **[Pretix Documentation](https://docs.pretix.eu/en/latest/)**
+    - [Pretix Documentation](https://docs.pretix.eu/en/latest/)
     - https://github.com/efdevcon/pretix-attestation-placeholder-plugin
 - Peanut Protocol
     - [Peanut Protocol Documentation](https://docs.peanut.to/integrations/sdk-quick-start)
