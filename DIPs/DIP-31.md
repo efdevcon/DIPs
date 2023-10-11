@@ -160,8 +160,8 @@ The sync algorithm is as follows:
 ## Zupass Ticket Issuance
 
 - Once a user logs into Zupass using their email, their Zupass makes a web request to the Zupass server (which is responsible for syncing ticket information from Pretix, and issuing PCD-based tickets), to ask for the PCD-based tickets that they have purchased. The server responds with a list of `Ticket PCD`s that are then added to the user’s Zupass.
-- A `Ticket PCD` is represented by an `RSATicketPCD` - which is a PCD that contains the information in its corresponding `Pretix Ticket`, signed by the Zupass server’s RSA private key.
-    - For production, we will use a different signature algorithm than RSA: `eddsa-bjj-poseidon-pcd`, which I will refer to as `EDDSA` elsewhere in this document. The reason we want to use `EDDSA` is that it is a SNARK-friendly signature algorithm, which enables users to performantly compute zero-knowledge statements about their `Ticket PCD`s.
+- A `Ticket PCD` is represented by an `EdDSATicketPCD` - which is a PCD that contains the information in its corresponding `Pretix Ticket`, signed by the Zupass server’s RSA private key.
+    - The reason we use `EdDSA` is that it is a SNARK-friendly signature algorithm, which enables users to performantly compute zero-knowledge statements about their `Ticket PCD`s.
 - Each `Ticket PCD` contains the following information:
     - `email` - which corresponds to the answer to the ‘attendee email’ question entered by the attendee at purchase-time on the Pretix `Shop`.
     - `event_name` - corresponds to the name of the `Event` in Pretix.
