@@ -51,7 +51,7 @@ We are hoping that once folks get to experience private data ownership and makin
 
 ### Making Devconnect more fun, interactive, and collaborative
 
-We hope people will explore Devconnect and Istanbul more in an attempt to collect these Jubjubs and compete for their team. We also hope by placing everyone in random teams, attendees will be able to connect with fellow teammates over the game, especially thouse who otherwise would never meet at the conference.
+We hope people will explore Devconnect and Istanbul more in an attempt to collect these Jubjubs and compete for their team. We also hope by placing everyone in random teams, attendees will be able to connect with fellow teammates over the game, especially those who otherwise would never meet at the conference.
 
 In addition, Jubjubs provide a new way for event hosts to acknowledge and interact with attendees, including those who prioritize privacy and aren't interested in on-chain POAPs. From a UX perspective, distributing/collecting a Jubjub from an NFC card is an inherently intimate and personal experience, as it requires the card owner to personally tap the phone of an attendee or new friend.
 
