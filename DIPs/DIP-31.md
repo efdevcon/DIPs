@@ -110,17 +110,11 @@ The following configuration options must be set up for each `Event` and `Product
 - `Event` configuration options:
     - Under ‘General’, in ‘Customer and attendee data’ section, in the ‘Attendee Data (once per personalized ticket)’ subsection, the ‘Ask for email addresses per ticket’ option must be set to ‘Ask and require input’. This is very important!
         
-        ![Screenshot 2023-07-14 at 10.46.15 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.46.15_AM.png)
-        
     - Under ‘Tickets’, in the ‘Ticket Download’ section, in the ‘Download settings’ subsection, the ‘Allow users to download tickets’ checkbox must be **unchecked**. This is important, as in the case that it is unchecked, attendees would be able to have two different tickets - a Pretix-implemented ticket, and a PCDpass ticket, which would cause confusion for attendees.
-        
-        ![Screenshot 2023-07-14 at 10.49.55 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.49.55_AM.png)
-        
+
 - `Product` configuration options:
     - Under ‘General’, the ‘Personalization’ option must be set to ‘Personalized Ticket’. This is important because it enforces that each `Position` has a corresponding email address, which is how PCDpass distinguishes between tickets internally.
-        
-        ![Screenshot 2023-07-14 at 10.52.41 AM.png](%5B2023-09-08%5D%20Devconnect%20Ticketing%20Spec%20816e537506d341e09167ad23c69c0cbc/Screenshot_2023-07-14_at_10.52.41_AM.png)
-        
+
 
 If Pretix is not set up with the above configuration options, PCDpass will not sync ticket information, and not issue PCD-based tickets to attendees of those events.
 
