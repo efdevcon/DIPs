@@ -55,7 +55,7 @@ We hope people will explore Devconnect and Istanbul more in an attempt to collec
 
 In addition, Jubjubs provide a new way for event hosts to acknowledge and interact with attendees, including those who prioritize privacy and aren't interested in on-chain POAPs. From a UX perspective, distributing/collecting a Jubjub from an NFC card is an inherently intimate and personal experience, as it requires the card owner to personally tap the phone of an attendee or new friend.
 
-One deployment we're particularly excited about is giving a Jubjub card to local restaurants and businessses. This would incentivize game participants to support Istanbul businesses, as well as integrating the local community with cryptography and ZK. This will require coordination and buy-in, but we are hopeful that we can get a few mutually beneficial partnerships in place.
+One deployment we're particularly excited about is giving a Jubjub card to local restaurants and businesses. This would incentivize game participants to support Istanbul businesses, as well as integrating the local community with cryptography and ZK. This will require coordination and buy-in, but we are hopeful that we can get a few mutually beneficial partnerships in place.
 
 ## Implementation
 
