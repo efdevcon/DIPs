@@ -1,6 +1,6 @@
 ---
 DIP: 32
-Title: Jubjubs: Collect -> Prove -> Win!
+Title: Jubjubs, Collect → Prove → Win!
 Status: Draft
 Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
