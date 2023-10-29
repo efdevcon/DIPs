@@ -1,7 +1,7 @@
 ---
 DIP: 32
 Title: Jubjubs, Collect → Prove → Win!
-Status: Draft
+Status: Accepted
 Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
 Instances: Devconnect Istanbul
