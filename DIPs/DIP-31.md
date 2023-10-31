@@ -1,7 +1,7 @@
 ---
 DIP: 31
 Title: PCD-based ticketing for Co-working space and other events at Devconnect
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Social, Purchases & ID, Community Involvement,
 Tags: Event Production, Software
 Authors: ivan@0xparc.org
