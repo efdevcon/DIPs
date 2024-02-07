@@ -10,6 +10,7 @@ Resources Required: matching funds, publicity
 Discussion: https://forum.devcon.org/t/dip-33-ethlocal-supporting-our-diverse-infinite-garden-with-qf/3339/1
 Created: 2024-01-29
 ---
+
 ## Summary of Proposal
 
 
