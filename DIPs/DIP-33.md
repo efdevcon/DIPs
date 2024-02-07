@@ -25,7 +25,8 @@ Created: 2024-01-29
     - 50+ attendees for ETHPadThai's [christmas event](https://x.com/ethpadthai/status/1738633827881513084?s=20)
     - [up and coming](https://x.com/EFDevcon/status/1732722766196179318?s=20) local initiatives involving students, dev communities, and more
     - we love art with Ethereum Singapore [twitter space](https://x.com/ethereum_sg/status/1744531938356981955?s=20) had 400+ people listen in
-- perfect time to use [Minimal Anti-Collusion Infrastructure (MACI) ](https://maci.pse.dev/) to conduct a QF round as other sybil solutions are not as widespread in SEA
+- perfect time to use [Minimal Anti-Collusion Infrastructure (MACI)]
+(https://maci.pse.dev/) to conduct a QF round as other sybil solutions are not as widespread in SEA
 
 # Rationale
 - As part of the Ethereum philosophy of subtraction, we will want to eventually have local ethereum communities be self-sustaining and thriving
