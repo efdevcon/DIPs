@@ -4,7 +4,7 @@ Title: ETHLocal - supporting our diverse infinite garden with QF!
 Status: Draft
 Themes: Community Involvement, Public Goods
 Tags: Communications, Sponsorships
-Instances: DevconSEA
+Instances: Devcon7
 Authors: QZ (qz@clr.fund)
 Resources Required: matching funds, publicity
 Discussion: https://forum.devcon.org/t/dip-33-ethlocal-supporting-our-diverse-infinite-garden-with-qf/3339/1
