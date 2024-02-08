@@ -13,7 +13,6 @@ Created: 2024-01-29
 
 ## Summary of Proposal
 
-
 # Abstract
 > Ethereum is global, and bringing Devcon to Southeast Asia is in line with our goal of reaching more local Ethereum communities, as well as increasing diversity within the overall Ethereum community. The Ethereum community is in many ways still western-dominated, despite the fact that crypto is more practically used in Southeast Asia. To illustrate that, four countries within Southeast Asia rank in the top 20 of the Global Crypto Adoption Index, with Vietnam and the Philippines at #1 and #2.
 >quoted from [Announcing Devcon 7!](https://blog.ethereum.org/en/2023/02/28/devcon-7-update)
