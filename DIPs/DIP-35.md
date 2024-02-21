@@ -76,13 +76,12 @@ In addition, it could be integrated with the ticketing platform
 
 ## Links & Additional Information
 
-Swarm website https://www.ethswarm.org/ 
+Swarm website https://www.ethswarm.org/
 
-Swarm whitepaper
+Swarm whitepaper https://www.ethswarm.org/swarm-whitepaper.pdf
 
-Book of Swarm
+Book of Swarm https://papers.ethswarm.org/p/book-of-swarm/
 
-Bee Documentation
-
+Bee Documentation https://docs.ethswarm.org/
 
 
