@@ -66,11 +66,11 @@ This is a joint project between Swarm and Etherna.
 ## Links & Additional Information
 Swarm website https://www.ethswarm.org/ 
 
-Swarm whitepaper
+Swarm whitepaper https://www.ethswarm.org/swarm-whitepaper.pdf
 
-Book of Swarm
+Book of Swarm https://papers.ethswarm.org/p/book-of-swarm/
 
 Bee Documentation https://docs.ethswarm.org/
 
 Etherna whitepaper 
-(better if attached instead of linked, the link can change. Download from https://cms.etherna.io/etherna/assets/6xn4yynege4gc0sg, or link https://info.etherna.io/) 
+Download from https://cms.etherna.io/etherna/assets/6xn4yynege4gc0sg, or link https://info.etherna.io/ 
