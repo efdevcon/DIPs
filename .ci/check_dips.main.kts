@@ -1,7 +1,7 @@
 #!/usr/bin/env kotlin
 
 @file:Repository("https://jitpack.io")
-@file:DependsOn("com.github.efdevcon:DIP-checker:0.2")
+@file:DependsOn("com.github.efdevcon:DIP-checker:0.3")
 
 import org.devcon.dipchecker.checkFolder
 import java.io.File

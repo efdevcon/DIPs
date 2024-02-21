@@ -3,6 +3,7 @@ DIP: 10
 Title: Status as Devcon Communication Layer
 Status: DRAFT
 Themes: Social
+Instances: [Devcon6]
 Tags: Communication, Event Production, Sponsorship
 Authors: Jonathan Zerah <jonathan@status.im>
 Resources Required: from the Devcon team side - support and communication

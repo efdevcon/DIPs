@@ -3,6 +3,7 @@ DIP: 9
 Title: Devcon 5.1
 Status: Not Implemented
 Themes: Virtual Experience
+Instances: [Devcon6]
 Tags: Other
 Authors: Cristian Espinoza (@crisgarner)
 Discussion: https://forum.devcon.org/t/devcon-5-1-or-devcon-6-alpha/71
