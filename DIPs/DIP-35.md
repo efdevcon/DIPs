@@ -34,8 +34,6 @@ The website hosting on the Swarm Network will be web3 native, censorship resista
 
 Adding BrianKnowsAI will enhance the experience for attendees and virtual visitors aslike, as attendees will be able to ask questions on the agenda, i.e. “Brian, when is Vitalik speaking?” or “Brian, what’s account abstraction?”. It will also help attendees perform transactions helpful for purchses "Brian bridge 100DAI2 from Ethereum Mainnet to Polygon", "Brian, transfer 10DAI to vitalik.eth to pay them for dinner"
 
-
-
 ## Implementation
 
  Yes, implementing the Agenda on Swarm has already been implemented at Devcon 6. The implementation went smoothly, however it has been done the day before the event, so this year we would like to have more time in order to deliver it as soon as possible. 
