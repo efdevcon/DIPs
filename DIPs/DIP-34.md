@@ -32,9 +32,6 @@ Implementing this DIP would give users who want to watch DevCon videos more opti
 ## Implementation
 This DIP has already been implemented in 2022, for Devcon Video Archive. 
 
-
-
-
 **Operational Requirements & Ownership
 **__Please answer questions below:__
 1. What actions are required to implement the proposal at Devcon(nect)? 
