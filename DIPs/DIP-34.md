@@ -7,7 +7,7 @@ Tags: Software, Communications, Event Production, Event Operations
 Instances: Devcon 7 
 Authors: costanza@ethswarm.org
 Resources Required: Operations support
-Discussion: It was suggested in a comment for Devcon 2022, and we'd like to repropose it https://forum.devcon.org/t/hosting-the-agenda-and-the-documents-on-swarm/342/3?u=costgallo
+Discussion: https://forum.devcon.org/t/hosting-the-agenda-and-the-documents-on-swarm/342/3
 Created: 2024-02-21
 ---
 
