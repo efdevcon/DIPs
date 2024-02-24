@@ -36,7 +36,7 @@ Adding BrianKnowsAI will enhance the experience for attendees and virtual visito
 
 ## Implementation
 
- Yes, implementing the Agenda on Swarm has already been implemented at Devcon 6. The implementation went smoothly, however it has been done the day before the event, so this year we would like to have more time in order to deliver it as soon as possible. 
+Yes, implementing the Agenda on Swarm has already been implemented at Devcon 6. The implementation went smoothly, however it has been done the day before the event, so this year we would like to have more time in order to deliver it as soon as possible. 
 
 The 2022 project had two components, an Exporter plugin and a Decentralized Frontend. More details about it can be found in the DIP 18.
 
