@@ -52,8 +52,6 @@ Swarm
 Črt Ahlin will be the advisor
 Costanza Gallo will act as the bridge between the DevCon team, the Swarm Association and Etherna
 
-
-
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 
 This is a joint project between Swarm and Etherna. 
