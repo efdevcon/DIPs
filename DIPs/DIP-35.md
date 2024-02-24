@@ -12,7 +12,6 @@ Created: 2024-02-21
 ---
 
 ## Summary of Proposal
-__Simple Summary__
 Hosting the Devcon website with the Agenda of DevCon on Swarm/FairData Society and integrating BrianKnowsAI. 
 This would make Devcon’ website decentralized, censorship resistant and privacy preserving, and would make Devcon’s digital efforts aligned with its values, while offering an web3 AI assistant to help attendees have an amazing experience__
 
