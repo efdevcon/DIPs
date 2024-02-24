@@ -8,6 +8,7 @@ Instances: Devcon 7
 Authors: costanza@ethswarm.org
 Resources Required: Operations support
 Discussion: https://forum.devcon.org/t/devcon-2024-agenda-on-swarm-with-fair-data-society-and-brianknowsai/3357
+Created: 2024-02-21
 ---
 
 ## Summary of Proposal
