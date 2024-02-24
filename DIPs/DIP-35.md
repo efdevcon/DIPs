@@ -60,7 +60,6 @@ Attached File: Hacker Manual - Bounties
 
 
 ## Operational Requirements & Ownership
-__Please answer questions below:__
 1. What actions are required to implement the proposal at Devcon(nect)? 
 If this DIP is approved, we need the design specifications to develop the Website and the Agenda. Ideally, we should have a couple of calls in order to prepare a plan for the implementation. 
 
