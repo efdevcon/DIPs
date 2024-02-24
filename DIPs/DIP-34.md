@@ -2,7 +2,7 @@
 DIP: 34
 Title: Host DevCon Videos on Swarm & Etherna
 Status: Draft
-Themes: Virtual experience, Freeform, 
+Themes: Virtual experience, Freeform
 Tags: Software, Communications, Event Production, Event Operations
 Instances: Devcon 7 
 Authors: costanza@ethswarm.org
