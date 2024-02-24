@@ -15,7 +15,7 @@ Created: 2024-02-21
 Hosting the Devcon website with the Agenda of DevCon on Swarm/FairData Society and integrating BrianKnowsAI. 
 This would make Devcon’ website decentralized, censorship resistant and privacy preserving, and would make Devcon’s digital efforts aligned with its values, while offering an web3 AI assistant to help attendees have an amazing experience__
 
-##Abstract
+## Abstract
 Swarm is a decentralized storage and communication system that was initially incubated by the Ethereum Foundation.
 
 Fair Data Society is an initiative for decentralized self-sovereign data commons.
