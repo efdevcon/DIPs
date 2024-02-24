@@ -76,5 +76,3 @@ Swarm whitepaper https://www.ethswarm.org/swarm-whitepaper.pdf
 Book of Swarm https://papers.ethswarm.org/p/book-of-swarm/
 
 Bee Documentation https://docs.ethswarm.org/
-
-
