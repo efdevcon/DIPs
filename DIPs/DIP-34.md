@@ -30,7 +30,6 @@ Implementing this DIP would give users who want to watch DevCon videos more opti
 
 
 ## Implementation
-__Below are some useful prompts__
 This DIP has already been implemented in 2022, for Devcon Video Archive. 
 
 
