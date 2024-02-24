@@ -33,7 +33,6 @@ Implementing this DIP would give users who want to watch DevCon videos more opti
 This DIP has already been implemented in 2022, for Devcon Video Archive. 
 
 **Operational Requirements & Ownership
-**__Please answer questions below:__
 1. What actions are required to implement the proposal at Devcon(nect)? 
 Etherna can operate all the publishing actions, or will provide all tools to Devcon's team to operate autonomously.
 Source videos need to be encoded and uploaded to Swarm through Etherna. So, Devcon Archive's git repository needs to be updated with references to uploaded contents, and all this can be automatized with the Video Importer tool: https://github.com/Etherna/etherna-video-importer.
