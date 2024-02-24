@@ -27,8 +27,6 @@ To add DevCon Archive Video hosted on Swarm / Etherna like for Devcon Video Arch
 
 Implementing this DIP would give users who want to watch DevCon videos more options to choose from. Moreover, it would grow the ecosystem of dApps.
 
-
-
 ## Implementation
 This DIP has already been implemented in 2022, for Devcon Video Archive. 
 
