@@ -32,7 +32,7 @@ Implementing this DIP would make Devcon’s digital efforts aligned with its pri
 
 The website hosting on the Swarm Network will be web3 native, censorship resistant and privacy preserving. The website will be in control of the Devcon team and not of a centralized provider. 
 
-Adding BrianKnowsAI will enhance the experience for attendees and virtual visitors aslike, as attendees will be able to ask questions on the agenda, i.e. “Brian, when is Vitalik speaking?” or “Brian, what’s account abstraction?”. It will also help attendees perform transactions helpful for purchases "Brian bridge 100DAI2 from Ethereum Mainnet to Polygon", "Brian, transfer 10DAI to vitalik.eth to pay them for dinner"
+Adding BrianKnowsAI will enhance the experience for attendees and virtual visitors alike, as attendees will be able to ask questions on the agenda, i.e. “Brian, when is Vitalik speaking?” or “Brian, what’s account abstraction?”. It will also help attendees perform transactions helpful for purchases "Brian bridge 100DAI from Ethereum Mainnet to Polygon", "Brian, transfer 10DAI to vitalik.eth to pay them for dinner"
 
 ## Implementation
 
