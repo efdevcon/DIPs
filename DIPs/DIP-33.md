@@ -1,7 +1,7 @@
 ---
 DIP: 33
 Title: ETHLocal - supporting our diverse infinite garden with QF!
-Status: Draft
+Status: Accepted
 Themes: Community Involvement, Public Goods
 Tags: Communications, Sponsorships
 Instances: Devcon7
