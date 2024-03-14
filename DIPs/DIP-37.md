@@ -1,7 +1,7 @@
 ---
 DIP: 37
 Title: Proposal for a new ticket payment plugin for Devcon 7
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Payments
 Tags: Software, Payments
 Instances: Devcon 7
