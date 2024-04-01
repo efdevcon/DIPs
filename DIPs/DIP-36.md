@@ -46,8 +46,5 @@ From Devcon and the devcon team, we need:
 * Partial funding for the team. We do these games for their own sake, but BKK is quite a commitment in time/space/effort. We ask for more than nothing, but far less than the value ultimately delivered to players. 
 
 # Discussion
-[put link here]
-
-
 ## Links
 (for concrete (albeit outdated) implementation examples see [THC](https://github.com/social-dist0rtion-protocol/thc) by the Social Dist0rtion protocol, or [The burner wallet escape room edition] https://dmihal.medium.com/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962)
