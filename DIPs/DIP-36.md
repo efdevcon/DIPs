@@ -42,7 +42,7 @@ From Devcon and the devcon team, we need:
 * NPC volunteers. We will need to employ a handful of people to act as non-player characters in the game -- we would like to hook into the devcon volunteer pipeline for NPC roles within the game, and work with the volunteer coordinator on how best to organize this aspect. 
 * Access and trust for players of the game to 'unlock' special places in the venue. Just as in previous years, we will mark off these special 'in-game' doors, objects, and non-player characters with an established symbol of trust. 
 * A list or description of all other planned activities and points of contact for places of interest within the venue. Help us help you highlight the best aspects of the devcon experience, like the chill spot, meeting rooms, and any other programming. 
-* The core team needs elevated access permissions to the devcon teams operations (discord) so that we can set up features of the game, and more importantly so that we can prepare and prime venue staff/security about these specific locations and expected (weird) behaviors that might be mis-interpreted to be threatening without prior warning.  
+* The core team needs elevated access permissions to the devcon teams operations (discord) so that we can set up features of the game, and more importantly so that we can prepare and prime venue staff/security about these specific locations and expected (weird) behaviors that might be misinterpreted to be threatening without prior warning.  
 * Partial funding for the team. We do these games for their own sake, but BKK is quite a commitment in time/space/effort. We ask for more than nothing, but far less than the value ultimately delivered to players. 
 
 # Discussion
