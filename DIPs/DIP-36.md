@@ -1,7 +1,7 @@
 ---
 DIP: 36
 Title: Games of Capture and Escape
-Status: Proposed
+Status: Accepted
 Themes: Freeform
 Instances: [Devcon7]
 Tags: Event Production, Other
