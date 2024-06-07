@@ -7,7 +7,7 @@ Tags: Collaboration
 Instances: Devcon 7
 Authors: vijay@fileverse.io, andreas@fileverse.io
 Resources Required: Communication support
-Discussion: 
+Discussion: TBA
 Created: 2024-06-06
 ---
 
