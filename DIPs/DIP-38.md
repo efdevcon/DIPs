@@ -8,7 +8,7 @@ Instances: Devcon 7
 Authors: vijay@fileverse.io, andreas@fileverse.io
 Resources Required: Communication support
 Discussion: TBA
-Created: 2024-06-06
+Created: 2024-6-06
 ---
 
 ## Summary of Proposal:
