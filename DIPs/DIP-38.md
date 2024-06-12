@@ -11,15 +11,15 @@ Discussion: TBA
 Created: 2024-6-06
 ---
 
-## Summary of Proposal:
+## Summary of Proposal
 
 A sufficiently decentralized collaboration stack for Devcon 7 that makes community coordination & collaboration free from centralized intermediaries and their arbitrary rules that threaten people’s data sovereignty.
 
-## Abstract:
+## Abstract
 
 We propose to use the Fileverse infrastructure and collaboration plugins to build a Devcon interface designed to be decentralized (smart contract + p2p networks), privacy-preserving (E2EE), compatible with crypto-native identities (eg. ENS) & communication channels (Farcaster/Lens), and simple to use.
 
-## Motivation and rationale:
+## Motivation and rationale
 
 Devcon is a communal event. It encourages local and global coordination in the Ethereum community through IRL meetups but also digital tools where people find others, share inormation, and co-produce knowledge / code.
 
@@ -29,7 +29,7 @@ Fileverse is built to make this community coordination & collaboration free from
 
 ## Implementation
 
-### Operational considerations:
+### Operational considerations
 
 We propose the gradual piloting of the Fileverse stack as a way to fulfil the needs of Devcon participants without compromising on values or user experience. It would provide easy access to:
 * Note-taking and file sharing
@@ -45,7 +45,7 @@ We propose the gradual piloting of the Fileverse stack as a way to fulfil the ne
     * Translations bots
     * Onchain content AI agents	on Fileverse auditable infra 
 
-### Technical considerations and stack:
+### Technical considerations and stack
 
 * Fileverse SDK for storage + editors (i.e., dPage, dDocs, whiteboard) 
 * Smart contract as register for content hashes and access permission (audited by Nethermind)
@@ -62,7 +62,7 @@ We propose the gradual piloting of the Fileverse stack as a way to fulfil the ne
 * E2ee for private notes
 * Auto Tagging of content
 
-## Example flow for the app:
+## Example flow for the app
 
 Devcon 7 conference attendees/participants will have a community-owned, collaborative stack available to them this year via a website and onchain (e.g., devcon.dnotes.org or devcon.ddocs.org). 
 
@@ -101,5 +101,3 @@ Finally, we will be submitting another DIP to introduce an onchain AI agents / b
 Github: https://github.com/fileverse 
 
 ZuPassCollab: https://github.com/vijaykrishnavanshi/ethberlin04
-
-
