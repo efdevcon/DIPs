@@ -1,6 +1,6 @@
 ---
-DIP: 38
-Title: Integration of zkPassport for Thai Citizen Discount Verification
+DIP: 39
+Title: Integration of zkPassport for SEA builder discounts
 Status: Draft
 Themes: Ticketing, Purchases & ID
 Instances: [Devcon7]
@@ -10,13 +10,13 @@ Created: 2024-06-08
 ---
 
 ## Summary of Proposal
-This proposal introduces an zkPassport integration for Devcon in Bangkok, allowing Thai citizens to prove their nationality using zero-knowledge proofs, ensuring privacy and security while accessing ticket discounts.
+This proposal introduces an zkPassport integration for Devcon in Bangkok, allowing SEA citizens to prove their nationality using zero-knowledge proofs, ensuring privacy and security while accessing ticket discounts.
 
 ## Abstract
-The integration enables Thai citizens to use zkPassport to generate a zero-knowledge proof of their nationality without revealing additional personal information, facilitating a secure and private way to obtain discounted tickets.
+The integration enables citizens of SEA to use zkPassport to generate a zero-knowledge proof of their nationality without revealing additional personal information, facilitating a secure and private way to obtain discounted tickets.
 
 ## Motivation & Rationale
-To provide a privacy-preserving method for Thai citizens to claim Devcon ticket discounts, avoiding the need for sharing sensitive identity documents. This method ensures only Thai citizens can access the discount, using zero-knowledge proofs to protect personal information.
+To provide a privacy-preserving method for citizens of SEA to claim Devcon ticket discounts, avoiding the need for sharing sensitive identity documents. This method ensures only citizens of SEA can access the discount, using zero-knowledge proofs to protect personal information.
 
 ## Implementation
 **High Level User Flow**:
@@ -27,7 +27,7 @@ To provide a privacy-preserving method for Thai citizens to claim Devcon ticket 
 5. Backend verifies the proof, checks the `discount_codes` table, and returns a discount code if valid.
 
 **Circuit Public Inputs**:
-- Nationality (expected to be THA)
+- Nationality (expected to be in the set of SEA countries)
 - Merkle Root (of valid DSC public keys Merkle tree)
 - Nullifier Scope (expected to be a hash of devcon.org)
 
