@@ -10,7 +10,7 @@ Created: 2024-06-08
 ---
 
 ## Summary of Proposal
-This proposal introduces an zkPassport integration for Devcon in Bangkok, allowing SEA citizens to prove their nationality using zero-knowledge proofs, ensuring privacy and security while accessing ticket discounts.
+This proposal introduces a zkPassport integration for Devcon in Bangkok, enabling SEA citizens to prove their nationality using zero-knowledge proofs and access ticket discounts in a privacy-preserving way. This improves the user experience and eliminates the need to share sensitive identity documents.
 
 ## Abstract
 The integration enables citizens of SEA to use zkPassport to generate a zero-knowledge proof of their nationality without revealing additional personal information, facilitating a secure and private way to obtain discounted tickets.
