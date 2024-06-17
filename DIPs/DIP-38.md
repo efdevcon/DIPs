@@ -7,7 +7,7 @@ Tags: Collaboration
 Instances: Devcon 7
 Authors: vijay@fileverse.io, andreas@fileverse.io
 Resources Required: Communication support
-Discussion: TBA
+Discussion: https://forum.devcon.org/t/dip-38-a-sufficiently-decentralized-collaboration-stack-for-devcon-7/3612
 Created: 2024-6-06
 ---
 
