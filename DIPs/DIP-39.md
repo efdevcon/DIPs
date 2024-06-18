@@ -6,6 +6,7 @@ Themes: Ticketing, Purchases & ID
 Instances: [Devcon7]
 Tags: Software
 Authors: Michael Elliot (@michaelelliot), Théo Madzou (@madztheo)
+Discussion: https://forum.devcon.org/t/dip-39-integration-of-zkpassport-for-sea-builder-discounts/3621
 Created: 2024-06-08
 ---
 
