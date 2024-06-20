@@ -1,12 +1,12 @@
 ---
-DIP: 38
+DIP: 40
 Title: Integration of Anon Aadhaar for Indian builder discounts
 Status: Draft
 Themes: Ticketing, Purchases & ID
 Instances: [Devcon7]
 Tags: Software
 Authors: Yanis Meziane (PSE - Anon Aadhaar)
-Discussion:
+Discussion: https://forum.devcon.org/t/dip-40-integration-of-anon-aadhaar-for-ticket-discounts-targeting-indian-citizens/3632
 Created: 2024-06-19
 ---
 
@@ -26,10 +26,10 @@ To provide a privacy-preserving method for citizens of India to claim Devcon tic
 
 **High Level User Flow**:
 
-1. On the Devcon ticket ordering site, users click a button that redirect them to an Anon Aadhaar frontend.
-2. Users are redirected to an web app, that prompts the user to prove the requested credentials (their nationality, optionally: age > 18, gender).
+1. On the Devcon ticket ordering site, users click a button redirecting them to an Anon Aadhaar frontend.
+2. Users are redirected to a web app, that prompts the user to prove the requested credentials (their nationality, optionally: age > 18, gender).
 3. Users upload their Aadhaar Secure QR Code, downloaded on the mAadhaar app.
-4. The user accepts to generate the proof, and the proof is generated locally on their browser, and submitted to the callback URL.
+4. The user accepts to generate the proof, which is generated locally on their browser, and submitted to the callback URL.
 5. Backend verifies the proof, checks the `discount_codes` table, and returns a discount code if valid.
 
 **Circuit Public Inputs**:
