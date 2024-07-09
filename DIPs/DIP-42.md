@@ -1,18 +1,17 @@
 ---
-
-**DIP**: 42
-**Title**: Backpocket, MPC for human connection using NFC social graphs
-**Status**: Draft
-**Themes**: Social, Purchases & ID, Art & Beauty
-**Tags**: Event Production, Software
-**Instances**: Devcon 7 in SEA
-**Authors**: vivek@cursive.team, andrew@cursive.team, rachel@cursive.team
-**Resources Required**: Communication support, Operational support
-**Created**: July 9th, 2024
-
+DIP: 42
+Title: Backpocket, MPC for human connection using NFC social graphs
+Status: Draft
+Themes: Social, Purchases & ID, Art & Beauty
+Tags: Event Production, Software
+Authors: vivek@cursive.team, andrew@cursive.team, rachel@cursive.team
+Instances: Devcon 7 in SEA
+Resources Required: Communication support, Operational support
+Discussion: https://forum.devcon.org/t/dip-42-backpocket-mpc-for-human-connection-with-nfc-social-graphs/3667
+Created: 2024-07-09
 ---
 
-# Summary of Proposal
+## Summary of Proposal
 
 Cursive, a PSE funded R&D lab, would like to give all Devcon attendees NFC wristbands to connect with each other and check into events by tapping. The social graph created will be ported into Backpocket, an app using MPC (multi-party computation) for human connection. This includes discovering common interests, querying your connections, and visualizing communities formed through the Devcon PWA.
 
@@ -20,7 +19,7 @@ Cursive, a PSE funded R&D lab, would like to give all Devcon attendees NFC wrist
 <img src="https://forum.devcon.org/uploads/default/optimized/2X/1/11ded8a2e04f941bd3370705cb19cbcd1079a756_2_600x600.png" alt="Social Graph Illustration" width="300" height="300">
 </div>
 
-# Abstract
+## Abstract
 
 This proposal has two components: giving every Devcon attendee an **NFC wristband**, alongside an open-source **MPC app for human connection** called Backpocket.
 
@@ -30,7 +29,7 @@ MPC apps that enable more intimate yet privacy preserving forms of human connect
 
 We would also like to work with the Devcon team, PSE, 0xPARC, and other interested orgs to incorporate more experimental MPC features into Backpocket. Some ideas include: importing more useful personal data using PSE funded projects like [zk-email](https://prove.email/) and [TLSNotary](https://tlsnotary.org/), [settling debts](https://hackmd.io/@gridlock/H10J04ySC) in a community with full privacy, MPC-ML group recommendations, and more.
 
-# Motivation & Rationale
+## Motivation & Rationale
 
 We hope combining NFC & MPC technologies will enable **Devcon to be the source of more fulfilling relationships and communities**. This includes better connection during the event (easily sharing socials, documenting your event experience, learning about overlapping interests) as well as post-event (seeing when people will be at future conferences, finding connections looking for jobs, finding housing/sublets while traveling).
 
@@ -38,7 +37,7 @@ The cryptography involved ensures the social data is private to the attendees + 
 
 Finally, we hope to expose more developers and enthusiasts to the cutting edge of NFC and MPC technology to inspire builders and generate new app ideas. Past deployments have been an immediate hit, as many folks didn’t know NFC was so smooth, or that it was possible to run advanced techniques like MPC and FHE on mobile phones!
 
-# Past work
+## Past work
 
 ### NFC activations
 
@@ -46,33 +45,41 @@ We have done 5 major NFC activations incorporating signed data and ZK: [ZuStamps
 
 The largest activation was at ETHDenver, where we gave out 12,000 NFC chips to attendees who produced 50,000 taps and 3,000 ZKP quests completed! So we’ve built experience with large operational + technical deployments and feel confident in handling the scale of Devcon. We also increased engagement with a leaderboard + prize store gated by ZKPs, which we could replicate if there’s interest from the Devcon team:
 
+<div align="center">
 |                                                                                 Social tab                                                                                 |                                                                                 Quest tab                                                                                  |                                                                                 Store tab                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/optimized/2X/1/15c4c55126695bf3b0d32f6a750340235fd38dd8_2_460x1000.jpeg" alt="Denver Image 1" width="230" height="500"> | <img src="https://forum.devcon.org/uploads/default/optimized/2X/4/4035e7dc8357583eba2d4ca2fc6f791f3f411778_2_460x1000.jpeg" alt="Denver Image 2" width="230" height="500"> | <img src="https://forum.devcon.org/uploads/default/optimized/2X/1/1d8f4b3f9c81fe30272e31c4ea52d3b72ec663f0_2_460x1000.jpeg" alt="Denver Image 3" width="230" height="500"> |
+</div>
 
 The most technically advanced activation was ZK11-NFC, where we deployed an icebreaker that revealed common contacts/talks with MPC (further described below), ZK proofs of event engagement for Twitter bragging, and a Spotify Wrapped-like summary of your event experience using Nova folding proofs:
 
+<div align="center">
 |                                                                        Profile, with overlap                                                                         |                                                                      Twitter proof                                                                       |                                                                      Folded summary                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/optimized/2X/5/51ca371fdd6a903fc2fbcd2f3bb0425077eee690_2_562x1000.png" alt="ZKSummit1" width="281" height="500"> | <img src="https://forum.devcon.org/uploads/default/original/2X/e/ebaca79709539295f721fc95493978a1d83d8ebd.png" alt="ZKSummit2" width="293" height="500"> | <img src="https://forum.devcon.org/uploads/default/original/2X/8/8afb254eade812abf738a3162462d482bf94d847.png" alt="ZKSummit3" width="304" height="500"> |
+</div>
 
 Each of our activations has included a generative art representation of your taps, as a commemorative art piece for attendees to mint as an NFT. We can also include this if there’s interest from the Devcon team:
 
+<div align="center">
 |                              Generative stamp collection by [Stefano Contiero](https://stefanocontiero.com/)                               |                                                   Generative art flower garden by Vivek                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/original/2X/f/f8be71a706ef4390c7b49bf93f058a4f8cedc66c.jpeg" width="231" height="500"/> | <img src="https://forum.devcon.org/uploads/default/original/2X/0/0467573be89c651f46beedac258d9eff1478e996.jpeg" width="231" height="500"/> |
+</div>
 
 ### MPC research
 
 We have been doing MPC work since September 2023, working with Janmajaya of Gauss Labs and Enrico of PSE to build out a production private set intersection using MP-FHE (multi party fully homomorphic encryption).
 
+<div align="center">
  <img src="https://forum.devcon.org/uploads/default/original/2X/9/9ea90316e90ec5ef5f7b09483f8ef95a5fbac2fe.png" width="690" height="388"/>
+</div>
 
 We deployed this tech to 500 users at ZK11, to enable conference attendees to connect over mutual contacts and talks. It worked very smoothly on poor internet and a range of different mobile devices, and was an instant hit with technical folks who didn’t know MPC/FHE could be so efficient on a mobile device.
 
 We extended this technique to do a larger range of comparisons at the [Signature Singularity Residency](https://www.notion.so/Cursive-DIP-v2-d7c61d76006a4207b98dbb6395475c08?pvs=21) in a Backpocket MVP. This included comparing over self-attested interests/travel plans + verified past events from your email; you can find a demo [here](https://cursive.team/bp-demo). We’ve been exploring more advanced MPC techniques over the past few months using toolkits like MP-SPDZ, aiming to ship some PoCs in time for a presentation at EDCON.
 
-# Devcon implementation
+## Devcon implementation
 
 ### Core NFC work
 
@@ -121,7 +128,7 @@ Outside of the core offerings, we would like Backpocket to be a testing ground f
    - Based on group interests, recommend discussion topics or restaurants for a group to use
    - PoC of “local algorithms” instead of “Big Algorithms” governed by big tech companies
 
-# Operational Requirements & Ownership
+## Operational Requirements & Ownership
 
 1. What actions are required to implement the proposal at Devcon(nect)?
    - Order NFC wristbands for all attendees and set up wristbands to issue signatures in POD format
@@ -136,7 +143,7 @@ Outside of the core offerings, we would like Backpocket to be a testing ground f
    - [zk-email](https://www.notion.so/Public-documents-d62d0a00e795408eaab3d702d544d340?pvs=21) — NFC wristbands can be used for payments, where an attendee could purchase food by simply tapping their wristband. Here, zk-email combined with account abstraction wallets would ensure that all purchases above $10 would require 2FA email approval. In addition, zk-email could also be used to mint NFTs proving one had attended Devcon, or even a specific talk.
    - [TLSNotary](http://tlsnotary.org) — Can be used to verifiably export valuable personal data from existing silos in a privacy preserving manner. This would enable richer social matches to be formed based on say, two attendees proving to each other they are fans of the same musical artist.
 
-# Links & Additional Information
+## Links & Additional Information
 
 - Cursive blog: [https://cursive.team/blog](https://cursive.team/blog)
 - Cursive GitHub, all work is open-source: [https://github.com/cursive-team](https://github.com/cursive-team)
