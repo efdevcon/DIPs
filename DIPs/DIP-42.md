@@ -45,27 +45,21 @@ We have done 5 major NFC activations incorporating signed data and ZK: [ZuStamps
 
 The largest activation was at ETHDenver, where we gave out 12,000 NFC chips to attendees who produced 50,000 taps and 3,000 ZKP quests completed! So we’ve built experience with large operational + technical deployments and feel confident in handling the scale of Devcon. We also increased engagement with a leaderboard + prize store gated by ZKPs, which we could replicate if there’s interest from the Devcon team:
 
-<div align="center">
 |                                                                                 Social tab                                                                                 |                                                                                 Quest tab                                                                                  |                                                                                 Store tab                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/optimized/2X/1/15c4c55126695bf3b0d32f6a750340235fd38dd8_2_460x1000.jpeg" alt="Denver Image 1" width="230" height="500"> | <img src="https://forum.devcon.org/uploads/default/optimized/2X/4/4035e7dc8357583eba2d4ca2fc6f791f3f411778_2_460x1000.jpeg" alt="Denver Image 2" width="230" height="500"> | <img src="https://forum.devcon.org/uploads/default/optimized/2X/1/1d8f4b3f9c81fe30272e31c4ea52d3b72ec663f0_2_460x1000.jpeg" alt="Denver Image 3" width="230" height="500"> |
-</div>
 
 The most technically advanced activation was ZK11-NFC, where we deployed an icebreaker that revealed common contacts/talks with MPC (further described below), ZK proofs of event engagement for Twitter bragging, and a Spotify Wrapped-like summary of your event experience using Nova folding proofs:
 
-<div align="center">
 |                                                                        Profile, with overlap                                                                         |                                                                      Twitter proof                                                                       |                                                                      Folded summary                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/optimized/2X/5/51ca371fdd6a903fc2fbcd2f3bb0425077eee690_2_562x1000.png" alt="ZKSummit1" width="281" height="500"> | <img src="https://forum.devcon.org/uploads/default/original/2X/e/ebaca79709539295f721fc95493978a1d83d8ebd.png" alt="ZKSummit2" width="293" height="500"> | <img src="https://forum.devcon.org/uploads/default/original/2X/8/8afb254eade812abf738a3162462d482bf94d847.png" alt="ZKSummit3" width="304" height="500"> |
-</div>
 
 Each of our activations has included a generative art representation of your taps, as a commemorative art piece for attendees to mint as an NFT. We can also include this if there’s interest from the Devcon team:
 
-<div align="center">
 |                              Generative stamp collection by [Stefano Contiero](https://stefanocontiero.com/)                               |                                                   Generative art flower garden by Vivek                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://forum.devcon.org/uploads/default/original/2X/f/f8be71a706ef4390c7b49bf93f058a4f8cedc66c.jpeg" width="231" height="500"/> | <img src="https://forum.devcon.org/uploads/default/original/2X/0/0467573be89c651f46beedac258d9eff1478e996.jpeg" width="231" height="500"/> |
-</div>
 
 ### MPC research
 
