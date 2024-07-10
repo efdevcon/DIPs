@@ -10,7 +10,6 @@ Resources Required: Physical space at venue, Operations Support, Communication S
 Discussion: https://forum.devcon.org/t/neon-temple-a-place-for-arts-communications-fun-mementos/3588/1
 Created: 2024-07-09
 ---
-
 ## Summary of Proposal
 NEON TEMPLE : A place for arts, communications, fun, and mementos
 
@@ -22,7 +21,6 @@ While Ethereum ecosystem is all inclusive, there are still very little events wh
 To implement the idea, traditional SEA temple can be a suitable metaphorical representation. In SEA temple is not only a place for enlightenment, but also a place for community, education, and arts. In Devcon context, the SEA temple could be the place for community enhanced with a solar punk / neon visual aesthetics where attendees come together to express themselves freely by decorating outfits and/or writing on walls with glowing neon paints under black light while enjoying artworks under the theme “Infinite Garden Flowers” displayed in the area. The flower artworks can be submitted by anyone. Every time someone submit their flowers, the infinite garden grows richer and more abundant.
 
 ## Motivation & Rationale
-
 Ever since the development of smart contract, digital arts have found it's strong voice for the first time in the art history. The so-called "digital renaissance" art movement as well as art communities have been gradually developed alongside the growth of Ethereum ecosystem. Technology itself can become an artwork, while artworks can be a powerful tools to communicate technological ideas and philosophies to wide range of people. Theoretically the border lines between people and professions are getting blurred by development of technology, but practically Art and Tech communities are separated by numbers of factors such as social media algorithm and/or lack of common grounds for everyone to learn more about different fields of expertises. Having a place for Art in Devcon is not only creating an impact on being the leading Ethereum event which acts as a common ground for Art and Tech to freely co-exist in the ecosystem, but also initiating collaboration and understanding among people with different backgrounds.
 
 Just like how we understand music by listening to and/or playing music. The way to appreciate arts is by perceiving, immersing oneself into the experience, as well as getting involved in the creative process and producing art.
