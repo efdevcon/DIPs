@@ -11,7 +11,6 @@ Discussion: https://forum.devcon.org/t/neon-temple-a-place-for-arts-communicatio
 Created: 2024-07-09
 ---
 
-
 ## Summary of Proposal
 NEON TEMPLE : A place for arts, communications, fun, and mementos
 
@@ -23,6 +22,7 @@ While Ethereum ecosystem is all inclusive, there are still very little events wh
 To implement the idea, traditional SEA temple can be a suitable metaphorical representation. In SEA temple is not only a place for enlightenment, but also a place for community, education, and arts. In Devcon context, the SEA temple could be the place for community enhanced with a solar punk / neon visual aesthetics where attendees come together to express themselves freely by decorating outfits and/or writing on walls with glowing neon paints under black light while enjoying artworks under the theme “Infinite Garden Flowers” displayed in the area. The flower artworks can be submitted by anyone. Every time someone submit their flowers, the infinite garden grows richer and more abundant.
 
 ## Motivation & Rationale
+
 Ever since the development of smart contract, digital arts have found it's strong voice for the first time in the art history. The so-called "digital renaissance" art movement as well as art communities have been gradually developed alongside the growth of Ethereum ecosystem. Technology itself can become an artwork, while artworks can be a powerful tools to communicate technological ideas and philosophies to wide range of people. Theoretically the border lines between people and professions are getting blurred by development of technology, but practically Art and Tech communities are separated by numbers of factors such as social media algorithm and/or lack of common grounds for everyone to learn more about different fields of expertises. Having a place for Art in Devcon is not only creating an impact on being the leading Ethereum event which acts as a common ground for Art and Tech to freely co-exist in the ecosystem, but also initiating collaboration and understanding among people with different backgrounds.
 
 Just like how we understand music by listening to and/or playing music. The way to appreciate arts is by perceiving, immersing oneself into the experience, as well as getting involved in the creative process and producing art.
@@ -94,5 +94,5 @@ To answer questions raised during the meeting with Devcon team.
 - Interactive Walls Area = 10 square meters (2 x 10 m wall + 0.5 m buffer in front of each wall)
 - Space for Visitors & staff = 40 square meters (30 - 40 people at a time including staff)
 - Space for Tables = 12 square meters
-- Wall space 2 of 10 x 2.5 m wall can afford roughly 550 people (30 x 30 cm writing space each). But practically writing space will be varied. Incase of insufficient wall space, blank papers can be provided. 
+- Wall space 2 of 10 x 2.5 m wall can afford roughly 550 people (30 x 30 cm writing space each). But practically writing space will be varied. In case of insufficient wall space, blank papers can be provided. 
 - Sizes of space and walls can be adjusted.
