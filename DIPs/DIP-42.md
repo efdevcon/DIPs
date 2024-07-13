@@ -5,7 +5,7 @@ Status: Draft
 Themes: Social, Purchases & ID, Art & Beauty
 Tags: Event Production, Software
 Authors: vivek@cursive.team, andrew@cursive.team, rachel@cursive.team
-Instances: Devcon 7 in SEA
+Instances: [Devcon7]
 Resources Required: Communication support, Operational support
 Discussion: https://forum.devcon.org/t/dip-42-backpocket-mpc-for-human-connection-with-nfc-social-graphs/3667
 Created: 2024-07-09
