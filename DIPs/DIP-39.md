@@ -1,7 +1,7 @@
 ---
 DIP: 39
 Title: Integration of zkPassport for SEA builder discounts
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Purchases & ID
 Instances: [Devcon7]
 Tags: Software
