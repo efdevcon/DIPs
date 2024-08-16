@@ -10,15 +10,15 @@ Discussion: https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850
 
 ---
 
-# Summary of Proposal
+## Summary of Proposal
 
 We propose to issue Devcon 7 tickets as PODs, enabling attendees to plug into a network of applications and cryptographic gadgets. If tickets are issued as provable object data, Devcon community members can generate ZKPs about their activity that are portable across other platforms—event host websites, Devcon-native applications, and more.
 
-# Abstract
+## Abstract
 
 Devcon tickets are sold, distributed, and checked at the door using Pretix. Similar to Devconnect last year (DIP-31), we propose modifying the ticket distribution and checkin part of the process to make use of Zupass rather than Pretix. Zupass is a flexible, open-source, E2E encrypted storage mechanism for ZK-friendly data (PODs)—data that you can make cryptographic proofs about. After purchasing a Devcon ticket via Pretix, an attendee would be able to access their cryptographic POD via Zupass, and event staff would be able to check attendees in at the door via a scanning app like PretixSCAN. By issuing tickets as PODs, event attendees would be empowered to use their tickets later on to access additional services, and builders at events would be able to build applications or community infrastructure interacting with event attendee data.
 
-# Motivation & Rationale
+## Motivation & Rationale
 
 Zupass is a cryptographic data manager that lets users store, generate, verify, and share [PODs](https://pod.org) (formerly, we focused on the term PCD), currently implemented as a web application hosted on zupass.org.
 
@@ -34,7 +34,7 @@ PODs in Zupass are able to be permissionlessly [verified on Ethereum](https://gi
 
 Zupass aims to uphold values within Ethereum and in the broader blockchain ethos by being an open-source project that gives people ownership over their data so that they can use the data in precisely the ways they want. Further, the team is developing not just Zupass and other software abstractions, but also an ecosystem of developers who build applications that plug into the POD abstraction. These applications, by virtue of being developed on top of the POD abstraction, further propagate these values by empowering users in a way that respects their sovereignty and privacy.
 
-# Implementation
+## Implementation
 
 Our first use-case for Zupass was a community event called [Zuzalu](https://zuzalu.city/about), which was a “first-of-its-kind pop-up city community” that took place in Montenegro between March and May 25, 2023. You can think of Zuzalu as a long conference for members of the extended Ethereum community.
 
@@ -65,9 +65,9 @@ In 2024, Zupass and the ZK data ecosystem have powered various Zuzalu ecosystem 
 - [ETH LATAM Zupass Faucet](https://github.com/crisgarner/zupass-faucet): MACI gatekeeper using ZK verification of ticket
 - [BattleFrogz](https://github.com/omurovec/battlefrogz): MPC CLI-based Frog battler
 
-# Operational Requirements & Ownership
+## Operational Requirements & Ownership
 
-## Actions needed for Devcon
+### Actions needed for Devcon
 
 - Deploy an on-premise version of PODBox so that tickets purchased on Pretix can be issued as PODs via Zupass.
 - Develop a ticket checkin flow so that event staff can check people in on-site.
@@ -75,7 +75,7 @@ In 2024, Zupass and the ZK data ecosystem have powered various Zuzalu ecosystem 
 
 The Zupass core team at 0xPARC is responsible for developing, testing, and deploying this project and helping Devcon tech team to set up their self-hosted PODBox instance. The Devcon organizing team is responsible for implementing the operational changes both at event-sale time and on-site at the event to make use of Zupass.
 
-## Hacking on Zupass and PODs
+### Hacking on Zupass and PODs
 
 We are excited for teams this year that are already beginning the process of integrating with PODs using the Zupass client:
 
@@ -86,13 +86,13 @@ We are excited for teams this year that are already beginning the process of int
 
 If you'd like to start integrating as an app developer, you can get started at the [ZApp template repo](https://github.com/proofcarryingdata/zapp-template). Please also reach out to us at passport@0xparc.org for any questions!
 
-# Links & Additional Information
+## Links & Additional Information
 
-## Technology Upgrades
+### Technology Upgrades
 
 Since Devcon, 0xPARC and various Ethereum community members have continued to build out and iterate on the data models, protocols, and user experience of these tools.
 
-### POD Standard
+#### POD Standard
 
 POD (Portable Object Datatype) is the next iteration of the concept formerly known as [PCD](https://github.com/efdevcon/DIPs/blob/267a3538e8e593b4755a53a49f3e92aeeda9a02a/DIPs/DIP-31.md). It is designed to make cryptographic operations on their content cheap and efficient — even on resource constrained devices like mobile phones & embedded systems. They can be redacted, transformed, and aggregated in a provable way, enabling data to cross trust boundaries.
 
@@ -100,7 +100,7 @@ POD significantly shortens the time of development and provability compared to t
 
 You can find more information about the POD standard at [pod.org](http://pod.org) and more detailed documentation on the technical specifics [here](https://zupass.org/pod).
 
-### Zupass Core
+#### Zupass Core
 
 Beyond the POD standard, the core team has pushed forward the following technology upgrades (all are completed or nearing completion):
 
