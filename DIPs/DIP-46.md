@@ -7,6 +7,7 @@ Instances: Devcon7
 Authors: Richard Liu (richard@0xparc.org)
 Resources Required: Operations Support
 Discussion: https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850
+Created: 2024-8-16
 
 ---
 
