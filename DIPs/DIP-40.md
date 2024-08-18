@@ -1,7 +1,7 @@
 ---
 DIP: 40
 Title: Integration of Anon Aadhaar for Indian builder discounts
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Purchases & ID
 Instances: [Devcon7]
 Tags: Software
