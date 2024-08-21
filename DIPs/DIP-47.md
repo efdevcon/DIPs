@@ -1,23 +1,3 @@
-DIP: 47
-
-Title: FROGCRYPTO 2
-
-Status: Draft
-
-Themes: Social, Art, Freeform
-
-Tags: Event Production
-
-Instances: Devcon7
-
-Authors: Small Brain (smallbraindev@gmail.com)
-
-Resources Required: Physical space at venue, furniture, electricity
-
-Discussion: [https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850](https://forum.devcon.org/t/dip-47-frogcrypto-2/3866)
-
----
-
 # Summary of Proposal
 
 Frogcrypto introduces Devcon attendees to programmable cryptography through cute cryptographic frogs.
@@ -76,21 +56,23 @@ A nice bonus is that this encourages attendees to interact with various cryptogr
 
 There would be both digital and physical touchpoints for FROGCRYPTO2 across the venue.
 
-Part #1: Frog Booth: attendees acquire the tool for scavenger hunt
-	- a visible booth the attendees walk up to after the registration and acquire 
+**Part #1: Frog Booth: attendees acquire the tool for scavenger hunt**
+- a visible booth the attendees walk up to after the registration and acquire 
 	the tools needed for the scavenger hunt (i.e. instructions and physical items)
-	- staffed from our side throughout the entire duration of the event
-Part #2: Scavenger hunt throughout the venue 
-	- digital and physical scavenger hunt in different areas of the venue 
-	- physical component includes CYBERFROGs posted up around the venue
-	- digital component includes a website or Zupass-integrated application that users can use to collect frogs. we will work with the Zupass team to ensure a smooth integration, like FROGCRYPTO last year
-Part #3: Frog community hub: FHE playground and giveaway store
-	- visible community hub, preferably located in a high-traffic area (i.e. around a central artpiece or landmark)
-	- attendees observe and engage in games that demonstrate state of the art FHE 
+- staffed from our side throughout the entire duration of the event
+
+**Part #2: Scavenger hunt throughout the venue**
+- digital and physical scavenger hunt in different areas of the venue 
+- physical component includes CYBERFROGs posted up around the venue
+-  digital component includes a website or Zupass-integrated application that users can use to collect frogs. we will work with the Zupass team to ensure a smooth integration, like FROGCRYPTO last year
+
+**Part #3: Frog community hub: FHE playground and giveaway store**
+- visible community hub, preferably located in a high-traffic area (i.e. around a central artpiece or landmark)
+- attendees observe and engage in games that demonstrate state of the art FHE 
 	mechanics - for example, an FHE "frog arena" game that you can play at the hub on machines provided by us
-	- store for receiving themed rewards for collecting frogs: attendees present their scavenger hunt score and receive fun swag in return. this is similar in spirit to the iconic Frog Bucket Hats from Devconnect last year, that drove substantial excitement and attention
-	- hub staffed from our side throughout the entire duration of the event
-	- 
+- store for receiving themed rewards for collecting frogs: attendees present their scavenger hunt score and receive fun swag in return. this is similar in spirit to the iconic Frog Bucket Hats from Devconnect last year, that drove substantial excitement and attention
+- hub staffed from our side throughout the entire duration of the event
+	
 # Operational Requirements & Ownership
 
 1. What actions are required to implement the proposal at Devcon?
@@ -104,10 +86,10 @@ smallbraindev, izabela
 
 # Links & Additional Information
 
-Links relating to last year's FROGCRYPTO activation:
+- Links relating to last year's FROGCRYPTO activation:
 
-- FROGCRYPTO testimonials from journalists and writers who visited Devconnect last year:
-		- [Project Glitch](https://www.projectglitch.xyz/p/exploring-the-crypto-swamp-istanbul) writeup
+  - FROGCRYPTO testimonials from journalists and writers who visited Devconnect last year:
+  -  [Project Glitch](https://www.projectglitch.xyz/p/exploring-the-crypto-swamp-istanbul) writeup
 		- Footnote from [Venkatesh Rao](https://studio.ribbonfarm.com/p/towards-a-metaphysics-of-worlds): "if you meet someone technical who went to DevConnect last year, ask them to show you Zupass, in particular the Frogcrypto trading card game. It gives you a hint of what sorts of things are possible with the technology. Initially I dismissed it as an annoying gimmicky thing, but once I got what was going on under the hood, all sorts of fascinating possibilities and use-cases began to suggest themselves."
 - Just over the course of a single week, developers built multiple projects on top of frogs, including
     - [BattleFrogz](https://github.com/omurovec/battlefrogz)
@@ -116,15 +98,15 @@ Links relating to last year's FROGCRYPTO activation:
 	   - [ZKPs for FROGCRYPTO in Noir](https://x.com/TomFrench_eth/status/1725610669876076734)
 	   
 - Community feedback and engagement with last year's FROGCRYPTO activation:
-		- [No signs of stopping](https://x.com/eth_call/status/1726958709237260457)
-		- [Volunteer frogs](https://x.com/kvbik/status/1725811138326081621)
-		- [Vitalik With Hat](https://x.com/yAuditDAO/status/1725632324165923121)
-		- [Easter egg!](https://x.com/morganjweaver/status/1725800663668470183)
-		- [Noir Frogs](https://x.com/Zac_Aztec/status/1725872925088108872)
-		- [What's happening at Devconnect?](https://x.com/sunbh_eth/status/1725571587057795079)
-		- [Barry Greenhat](https://x.com/VeljkoVranic/status/1725479350672236929)
-		- [Spotted in the wild](https://x.com/0xMilica/status/1725161754206908801)
-		- [frogcrypto is the future](https://x.com/0xz80/status/1725167905166287026)
-		- [frog proofs, not fraud proofs](https://x.com/austingriffith/status/1725201077161902458)
+   - [No signs of stopping](https://x.com/eth_call/status/1726958709237260457)
+   - [Volunteer frogs](https://x.com/kvbik/status/1725811138326081621)
+   - [Vitalik With Hat](https://x.com/yAuditDAO/status/1725632324165923121)
+   - [Easter egg!](https://x.com/morganjweaver/status/1725800663668470183)
+   - [Noir Frogs](https://x.com/Zac_Aztec/status/1725872925088108872)
+   - [What's happening at Devconnect?](https://x.com/sunbh_eth/status/1725571587057795079)
+   - [Barry Greenhat](https://x.com/VeljkoVranic/status/1725479350672236929) 
+   - [Spotted in the wild](https://x.com/0xMilica/status/1725161754206908801)
+   - [frogcrypto is the future](https://x.com/0xz80/status/1725167905166287026)
+   - [frog proofs, not fraud proofs](https://x.com/austingriffith/status/1725201077161902458)
 	   
 FROGCRYPTO 2.0 will be built on the POD ZK data standard that is also referenced in a [DIP submitted by the Zupass team](https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850). We will work closely with the Zupass team to ensure a smooth end-to-end integration.
