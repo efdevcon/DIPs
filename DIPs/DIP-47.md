@@ -1,3 +1,15 @@
+DIP: 47
+Title: FROGCRYPTO 2
+Status: Draft
+Themes: Social, Art, Freeform
+Tags: Event Production
+Instances: Devcon7
+Authors: Small Brain (smallbraindev@gmail.com)
+Resources Required: Physical space at venue, furniture, electricity
+Discussion: [https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850](https://forum.devcon.org/t/dip-47-frogcrypto-2/3866)
+
+---
+
 # Summary of Proposal
 
 Frogcrypto introduces Devcon attendees to programmable cryptography through cute cryptographic frogs.
