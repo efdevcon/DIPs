@@ -96,6 +96,37 @@ We discussed and collaborated with several individuals developing ZuPass and ass
 
 Finally, we will be submitting another DIP to introduce an onchain AI agents / bot architecture which we designed to facilitate the automated creation, management, and processing of offchain and onchain community content. We hope this can help people make the most out of public knowledge and ensure its accessibility.
 
+-------
+
+**Update:** we’re adding to the DIP some of the specific requests & assistance we need from the Devcon team. We’ve divided the asks into two categories, “Tech & Product” and “Comms & Marketing”.
+
+### Tech/product
+
+Key requests are to receive feedback about mocks/app, understand the Devcon team‘s bandwidth for this DIP, and schedule the calls accordingly.
+* **Scheduled calls devcon<>fileverse:**
+    * August: 1 call; 
+    * Septembre: 1; 
+    * October: 1;
+
+* Calls are about the below requests, product feedback, and general sync. E.g.:
+    1. **august:** MVP zupass/collab <> ddocs & share feedback + 1st round of feedback Functional Mocks of the full collaboration interface for Devcon
+    2. **1st week of sept:** full collab interface MVP, 1st round of feedback + Moderation system
+    3. **1st week of oct:** full collab interface PROD ready, last round of feedback + bot/agent #1 testing (Information automation via info fetching, translations, etc.)
+
+* **Clarification/chat - domain configuration:** button/cta on the Devcon website that redirects to a custom URL (e.g. devcon.fileverse.io, devcon.new). Note that for security considerations and to avoid putting the burden on the Devcon team, we suggest a cta/button that redirects to another URL and not an in-built/subpage on Devcon website.
+* **Question/chat - infra discussion:** does the Devcon team want to run some of its own infra of the collab dApp (ie community collab/playground)? E.g. Devcon could run its own gunDB node (for gun replication instants); pinning data (Devcon could pay for data/IPFS pinning), etc. This needs to be decided in August.
+
+### “Comms & Marketing”
+The main ask is to understand the capacity of the Devcon marketing team to give a voice to this DIP to make sure that all attendees know that in this year’s Devcon there will be a sufficiently decentralized collaboration stack & dApp
+* **1 call mid-August:** We’ll need a first call in August to sync with the peers leading this part of Devcon. Skeleton agenda of the call: sync and share some ideas on what Fileverse has planned, who we want to ask for help, and what we can ask the Devcon team to help with.
+    * **Initial asks** to prepare for the August call: 
+        1. native distribution via Devcon (banner on the official website, email, twitter, etc.);
+        2. preparatory email to Devcon attendees about the Devcon community playground app highlighting when it’ll be ready to use, what they can do with it, etc. 
+        3. sync on timeline and content calendar 
+        4. sync on what materials Devcon will need from Fileverse team.
+    * Note: For this dApp to be useful, attendees will need to know about it and try it themselves before Devcon starts. Fileverse will make sure to be there to respond to all questions and suggestions.
+* **Other:** IRL Devcon Community Collab/Playground touchpoints that allow attendees to connect with the decentralised app - for a connection between onchain and IRL.
+
 ## Links & Additional Information
 
 Github: https://github.com/fileverse 
