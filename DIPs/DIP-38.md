@@ -96,10 +96,6 @@ We discussed and collaborated with several individuals developing ZuPass and ass
 
 Finally, we will be submitting another DIP to introduce an onchain AI agents / bot architecture which we designed to facilitate the automated creation, management, and processing of offchain and onchain community content. We hope this can help people make the most out of public knowledge and ensure its accessibility.
 
--------
-
-**Update:** we’re adding to the DIP some of the specific requests & assistance we need from the Devcon team. We’ve divided the asks into two categories, “Tech & Product” and “Comms & Marketing”.
-
 ### Tech/product
 
 Key requests are to receive feedback about mocks/app, understand the Devcon team‘s bandwidth for this DIP, and schedule the calls accordingly.
