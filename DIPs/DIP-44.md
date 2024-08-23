@@ -89,5 +89,5 @@ it.
 
 ## Links & Additional Information
 
-* Learn more about th Solar Punk team at: https://solarpunk.buzz
+* Learn more about the Solar Punk team at: https://solarpunk.buzz
 * See how Swarm works to make decentralization possible: https://www.ethswarm.org/build
