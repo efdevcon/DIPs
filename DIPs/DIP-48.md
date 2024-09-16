@@ -1,5 +1,5 @@
 ---
-DIP: 4120
+DIP: 48
 Title: Tabletop Gaming Level Up At Devcon!
 Status: Draft
 Themes: Community & Ethereum Culture, Social Experience
