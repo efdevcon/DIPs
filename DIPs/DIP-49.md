@@ -3,7 +3,7 @@ DIP: 49
 Title: SEA Community Hub: The Onchain Creator Hub ✧
 Status: Draft
 Themes: Social, Community Involvement
-Tags: Event Productioon
+Tags: Community Hub
 Instances: Devcon7
 Authors: isaac@zora.com
 Resources Required: Physical Community Hub space (more details in proposal)
