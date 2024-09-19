@@ -31,9 +31,9 @@ Picture this: amidst the buzz of blockchain brilliance, Devcon attendees gather 
 ## Operational Requirements & Ownership
 1. Quest objectives:
     - Secure a cozy Devcon location (2-3 tables with chairs) for our gaming guilds
-    - Inscribe our events in the sacred Devcon schedule
+    - Try to inscribe our events in the sacred Devcon schedule
     - Summon Game Masters to oversee our daily adventures (that’s us!)
-    - Craft legendary loot for our champions and lucky raiders
+    - AceTCG and /tabletop will offer legendary loot (prizes like cards and merch) for our champions and lucky raiders
 2. Party members:
     - The /tabletop channel: A band of merry gamers on a quest to unite 1000 humans through the power of board games. They're not just players – they're devs crafting tools to connect tabletop enthusiasts and community builders creating a pipeline for game distribution on Farcaster.
     - AceTCG team: The wizards behind a trading card game that brings crypto lore to life. Born from a Gitcoin-funded educational public goods project, we’re on a mission to make blockchain concepts as gripping as the latest fantasy novel.
@@ -43,7 +43,6 @@ Picture this: amidst the buzz of blockchain brilliance, Devcon attendees gather 
     - Transform networking events into unforgettable co-op campaigns
 
 ## Links & Additional Information
-- Accommodation Support: Our brave adventurers from /tabletop and AceTCG are bootstrapping this quest on a shoestring budget. A boost of 1000 gold pieces (or dollars) for each team would be the difference between sleeping in cozy inns or camping outside the city walls. Without this support, our mission to bring gaming glory to Devcon hangs by a thread!
 - Join the /tabletop guild: https://warpcast.com/~/channel/tabletop
 - More intel on our crypto card wizardry: https://acetcg.xyz/
 
