@@ -60,7 +60,7 @@ Governance operators are often connected to every type of stakeholder in a proje
 
 **The core Hub coordinators and points of contact will be:**
 - Anna Alexa - Governance and Community at Celo Foundation, formerly community at MakerDAO and part of Meta Gamma Delta grants DAO
-- Shelby Steidl - Governance Operations Lead at ZKsync Association, formerly Governance Facilitator at Radworks
+- Shelby Steidl - Governance Experience Lead at ZKsync Association, formerly Governance Facilitator at Radworks
 
 **Addition Contributors:**
 - Trach - Chief Gov Officer at Eigen Foundation, formerly cofounder at Coordinape, contributor to Yearn
