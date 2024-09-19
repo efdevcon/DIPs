@@ -23,33 +23,33 @@ The Devcon(nect) Team intends DIPs to provide a mechanism for collecting collabo
 ## Themes
 There are two general types of DIPs you can create:
 1. A response to one of our [Request for Proposals (RFPs)](https://forum.devcon.org/c/devcon-rfps/5) which are ideas that we would like to see happen at Devcon(nect)!
-2. _Any_ idea! We welcome any ideas you have to improve Devcon(nect)!
+2. Any idea! We welcome any ideas you have to improve Devcon(nect)!
 
 Here is a list of themes to inspire you:
 
- * **Ticketing** - Anything useful concerning ticketing (e.g. usage of NFTs)
- * **Social** - How to make people connect, prior, during and after Devcon(nect)?
- * **Environmental Sustainability** - Any idea that helps us make Devcon(nect) more environmentally sustainable
- * **Virtual Experience** - Live streaming, and other ways of interacting with people unable to be physically present at Devcon(nect)
- * **Purchases & ID** - Let’s do more to use crypto at Devcon(nect)! Onsite and Offsite purchases, bookings,...
- * **Community Involvement** - How can we integrate more community input into Devcon(nect)?
- * **Art & Beauty** - A cool design for swag items, an art piece, ...
- * **Freeform** - Any great ideas you have! From tutu-Tuesday to Bring your own T-rex for closing ceremony
- * **Meta** - Any improvement to the DIP process itself. This process is new, and it could benefit from anything that you’ve got in mind. We’d love to hear your thoughts.
+ * *Ticketing* - Anything useful concerning ticketing (e.g. usage of NFTs)
+ * *Social* - How to make people connect, prior, during and after Devcon(nect)?
+ * *Environmental Sustainability* - Any idea that helps us make Devcon(nect) more environmentally sustainable
+ * *Virtual Experience* - Live streaming, and other ways of interacting with people unable to be physically present at Devcon(nect)
+ * *Purchases & ID* - Let’s do more to use crypto at Devcon(nect)! Onsite and Offsite purchases, bookings,...
+ * *Community Involvement* - How can we integrate more community input into Devcon(nect)?
+ * *Art & Beauty* - A cool design for swag items, an art piece, ...
+ * *Freeform* - Any great ideas you have! From tutu-Tuesday to Bring your own T-rex for closing ceremony
+ * *Meta* - Any improvement to the DIP process itself. This process is new, and it could benefit from anything that you’ve got in mind. We’d love to hear your thoughts.
 
 ## Instances
 
-Which events should this DIP target? Can be `*` for all events or a list of specific events - e.g. `Devcon7`.
+Which events should this DIP target? Can be * for all events or a list of specific events - e.g. Devcon7.
 
 ## Tags
 Devcon(nect) has several aspects to its organisation. To help us better guide you, select the area of focus that concern your DIP:
 
-* **Event Operations** - Anything related to the general organisation of Devcon(nect)
-* **Event Production** - Anything to do with the on-site attendee experience
-* **Software** - Anything to do with software needs, devcon.org, subdomains, ...
-* **Communications** -Anything to do with Devcon(nect)-related communication, media, blog posts, ...
-* **Sponsorships** - Anything to do with sponsorships, benefits and more.
-* **Other** - Anything else
+* *Event Operations* - Anything related to the general organisation of Devcon(nect)
+* *Event Production* - Anything to do with the on-site attendee experience
+* *Software* - Anything to do with software needs, devcon.org, subdomains, ...
+* *Communications* -Anything to do with Devcon(nect)-related communication, media, blog posts, ...
+* *Sponsorships* - Anything to do with sponsorships, benefits and more.
+* *Other* - Anything else
 
 ## Resources
 Your DIP may require resources from the Devcon(nect) team, so make sure to add them to your draft. This will save us both precious time when evaluating the feasibility of a DIP.
@@ -83,16 +83,16 @@ Before writing a formal DIP Draft in Github, take the time to vet your idea. Ope
 
 #### 3. Process
 
- 1. **Draft DIP** - Choose your prettiest digital pen and write your DIP! Follow the yellow brick road: [DIP format](https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-0.md#dip-format)
- 2. **Submit DIP** - Click on the scary button and submit your DIP. Ensure you include all information required in the template under DIP Format below.
- 3. **Editor Review** - Your DIP is now in the hands of the DIP editors team for review.
+ 1. *Draft DIP* - Choose your prettiest digital pen and write your DIP! Follow the yellow brick road: [DIP format](https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-0.md#dip-format)
+ 2. *Submit DIP* - Click on the scary button and submit your DIP. Ensure you include all information required in the template under DIP Format below.
+ 3. *Editor Review* - Your DIP is now in the hands of the DIP editors team for review.
 Editors might request more information and ask to resubmit the DIP.  
- 4. **Devcon(nect) team Review**
-     * **Draft** - Your DIP that is undergoing rapid iteration and changes
-     * **Accepted** - Your DIP idea is approved! Now it's time to work on the implementation!
-     * **Postponed** - Your DIP won’t be possible the upcoming Devcon(nect) - but we love the idea.
-     * **Not Implemented** - Oh no, the mean Devcon(nect) team, reach out to them and ask for more context to understand their reasoning
-     * **Changes Requested** - The DIP needs modifications conditional to its validation.
+ 4. *Devcon(nect) team Review*
+     * *Draft* - Your DIP that is undergoing rapid iteration and changes
+     * *Accepted* - Your DIP idea is approved! Now it's time to work on the implementation!
+     * *Postponed* - Your DIP won’t be possible the upcoming Devcon(nect) - but we love the idea.
+     * *Not Implemented* - Oh no, the mean Devcon(nect) team, reach out to them and ask for more context to understand their reasoning
+     * *Changes Requested* - The DIP needs modifications conditional to its validation.
 
 #### 4. Implementation
 
@@ -115,7 +115,7 @@ After submitting editors will go through [this checklist](../checklist.md) - it 
 
 All DIPs should be written in markdown format. Please use the template below:
 
-```
+
 ---
 DIP: (Number of DIP)
 Title: (Think of a catchy, descriptive, short title)
@@ -154,4 +154,3 @@ __Please answer questions below:__
 
 -----Links & Additional Information-----
 __Any additional information__
-```
