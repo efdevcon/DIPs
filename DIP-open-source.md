@@ -3,7 +3,7 @@ DIP: "00"
 Title: "Sustaining Open-Source Development Community Hub"
 Status: "Draft"
 Themes: "Open Source"
-Tags: "Event Production"
+Tags: "Community Hub"
 Instances: "Devcon7"
 Authors: "Kilgore"
 Resources Required:
