@@ -1,18 +1,17 @@
 ---
 DIP: 00
-Title: Devcon Agora application
+Title: Sustaining Open-Source Development Community Hub 
 Status: Draft
 Themes: Community Involvement
 Tags: Event Production
 Instances: Devcon7
-Authors: Sandor A. Nagy, Andras Aranyi
-Resources Required: Online Software Solution, Operations Support, Communication Support, Tech Support
-Discussion: https://forum.devcon.org/t/ignite-the-conversation/3724
-Created: 2024-07-29
+Authors: Kilgore
+Resources Required: Operations Support, Communication Support, Tech Support
+Discussion: [https://forum.devcon.org/t/ignite-the-conversation/3724](https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-open-source-development/3982)
+Created: 2024-08-30
 ---
 
 ## Summary of Proposal
-## Summary:
 
 The Sustaining Open-Source Development Community Hub will explore how open-source teams are currently dealing with attracting users, engaging developers and raising capital for their projects.
 
