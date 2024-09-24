@@ -1,5 +1,5 @@
 ---
-DIP: "53"
+DIP: 53
 Title: "Sustaining Open-Source Development Community Hub"
 Status: "Draft"
 Themes: Open Source
