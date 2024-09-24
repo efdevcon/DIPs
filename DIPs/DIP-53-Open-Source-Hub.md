@@ -1,7 +1,7 @@
 ---
 DIP: 53
 Title: Sustaining Open-Source Development Community Hub
-Status: "Draft"
+Status: Draft
 Themes: Open Source
 Tags: Community Hub
 Instances: ["Devcon7"]
