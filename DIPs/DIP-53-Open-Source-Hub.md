@@ -5,7 +5,7 @@ Status: Draft
 Themes: Open Source
 Tags: Community Hub
 Instances: ["Devcon7"]
-Authors: Kilgore
+Authors: Kilgore, Hong Phuc, QZ
 Resources Required: Operations Support, Communication Support, Tech Support
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-open-source-development/3982
 Created: 2024-08-30
