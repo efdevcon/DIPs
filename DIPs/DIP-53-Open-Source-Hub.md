@@ -3,7 +3,7 @@ DIP: "53"
 Title: "Sustaining Open-Source Development Community Hub"
 Status: "Draft"
 Themes: Open Source
-Tags: "Community Hub"
+Tags: Community Hub
 Instances: ["Devcon7"]
 Authors: "Kilgore"
 Resources Required: Operations Support, Communication Support, Tech Support
