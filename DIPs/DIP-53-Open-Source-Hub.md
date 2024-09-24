@@ -8,7 +8,7 @@ Instances: ["Devcon7"]
 Authors: "Kilgore"
 Resources Required: Operations Support, Communication Support, Tech Support
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-open-source-development/3982
-Created: "2024-08-30"
+Created: 2024-08-30
 ---
 
 
