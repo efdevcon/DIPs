@@ -11,7 +11,6 @@ Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-ope
 Created: 2024-08-30
 ---
 
-
 ## Summary of Proposal
 
 The Sustaining Open-Source Development Community Hub will explore how open-source teams are currently dealing with attracting users, engaging developers and raising capital for their projects.
