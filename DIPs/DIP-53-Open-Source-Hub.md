@@ -7,7 +7,7 @@ Tags: "Community Hub"
 Instances: ["Devcon7"]
 Authors: "Kilgore"
 Resources Required: Operations Support, Communication Support, Tech Support
-Discussion: "[https://forum.devcon.org/t/ignite-the-conversation/3724](https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-open-source-development/3982)"
+Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-sustaining-open-source-development/3982
 Created: "2024-08-30"
 ---
 
