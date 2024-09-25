@@ -23,7 +23,7 @@ There’s a huge community of home stakers, companies that provide resources and
 -----Implementation-----
 Workshops have been available at most Ethereum conferences but this gives a central hub for it to happen and offers a way for potentially interested stakers to go to a neutral location and determine the best way to stake from home for their specific situation
 
------Operational Requirements & Ownership-----
+## Operational Requirements & Ownership
 1. What actions are required to implement the proposal at Devcon(nect)?
 "Resources required" section should cover our needs. EthStaker, DAppNode, & Ethereum on ARM will staff the area and provide the people power to pull it off
 2. Who will be responsible for the proposal to be implemented effectively? (i.e. working on Day 0)
