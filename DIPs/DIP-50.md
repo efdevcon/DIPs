@@ -8,6 +8,7 @@ Instances: Devcon7
 Authors: nixo (devconhub@nixo.anonaddy.me)
 Resources Required: Power, 3 x tables and chairs for 2-3 people to cowork together simultaneously (for one-on-one support), 2 x TV / screen for mini node operator workshops with tables for audience size ~10 people, Space for “roundtables” - beanbags, couches, chairs, whatever
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-home-operator-hub/3788
+Created: 2024-09-19
 ---
 
 -----Summary of Proposal-----
