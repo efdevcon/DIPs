@@ -14,7 +14,7 @@ Created: 2024-09-19
 -----Summary of Proposal-----
 The home operator hub will feature education, resources, and one-on-one support for running a node or validator at home. It will be managed by Dappnode, EthStaker, & Ethereum On ARM, and will also feature roundtables, discussion and resources on any protocol that enables a sub-32 ETH validator to participate in staking from home
 
------Abstract-----
+## Abstract
 This event will be community-led, and invitations to projects to participate in the roundtables will be extended only in their capacity to increase node and validator decentralization and serve the community with tools that increase the economic accessibility of running a validator. A moderator will be present in such roundtables with a big “shill button” that will sound an alarm if the speaker switches to “shill mode”. Individual validator troubleshooting will be available all day long, all week long
 
 -----Motivation & Rationale-----
