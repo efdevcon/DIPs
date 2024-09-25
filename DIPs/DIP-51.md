@@ -72,6 +72,7 @@ Governance operators are often connected to every type of stakeholder in a proje
 - Theo Beutal - Former Governance Lead at Safe
 - Maria Gomez - Governance at Interchain Foundation
 - Ivan - DeFi Ops & Stategy at karpatkey, Advisor at Aragon, Investor at Hydra Ventures
+- Amy - Head of Governance Operations, Eigen Foundation
 
 
 ## Links & Additional Information
