@@ -30,7 +30,7 @@ Members of the EthStaker, DAppNode, & Ethereum on ARM teams
 3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))
 Any project or protocol that facilitates people running validators from home and contributing to the decentralization of Ethereum!
 
------Links & Additional Information-----
+## Links & Additional Information
 https://ethstaker.cc/
 https://dappnode.com/
 https://ethereum-on-arm-documentation.readthedocs.io/en/latest/
