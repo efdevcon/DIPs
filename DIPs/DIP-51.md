@@ -1,5 +1,5 @@
 ---
-DIP: (DIP #)
+DIP: 51
 Title: Collective Intelligence Governance Hub
 Status: Draft
 Themes: Governance, Social
