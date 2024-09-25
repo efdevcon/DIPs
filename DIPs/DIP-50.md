@@ -20,7 +20,7 @@ This event will be community-led, and invitations to projects to participate in 
 -----Motivation & Rationale-----
 There’s a huge community of home stakers, companies that provide resources and tooling for these stakers, and protocols looking to onboard more home stakers who will all be looking to connect with each other at Devcon. This usually results in a wealth of different events hosted by all these parties looking to bring this cohort of people together. There’s an enormous amount of interest in staking and we’d love for people to know where to go to learn more, learn how to evaluate their options, or get support if they’re an existing staker!
 
------Implementation-----
+## Implementation
 Workshops have been available at most Ethereum conferences but this gives a central hub for it to happen and offers a way for potentially interested stakers to go to a neutral location and determine the best way to stake from home for their specific situation
 
 ## Operational Requirements & Ownership
