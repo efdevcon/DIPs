@@ -17,7 +17,8 @@ The home operator hub will feature education, resources, and one-on-one support 
 ## Abstract
 This event will be community-led, and invitations to projects to participate in the roundtables will be extended only in their capacity to increase node and validator decentralization and serve the community with tools that increase the economic accessibility of running a validator. A moderator will be present in such roundtables with a big “shill button” that will sound an alarm if the speaker switches to “shill mode”. Individual validator troubleshooting will be available all day long, all week long
 
------Motivation & Rationale-----
+## Motivation & Rationale
+
 There’s a huge community of home stakers, companies that provide resources and tooling for these stakers, and protocols looking to onboard more home stakers who will all be looking to connect with each other at Devcon. This usually results in a wealth of different events hosted by all these parties looking to bring this cohort of people together. There’s an enormous amount of interest in staking and we’d love for people to know where to go to learn more, learn how to evaluate their options, or get support if they’re an existing staker!
 
 ## Implementation
