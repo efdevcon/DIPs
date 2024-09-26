@@ -70,13 +70,13 @@ While there is a robust open-source community within Ethereum, there is much to 
 
 ## Team
 
-The hub will be primarily organized by the team at [Powerhouse 2](https://www.powerhouse.inc/) (part of Sky/MakerDAO). The Powerhouse team will be led by [Wouter Kampman](https://x.com/wkampmann) (former head of engineering at MakerDAO), [Kilgore](https://x.com/0xKilgore) and Lumen. We also have the support of other prominent open source voices in Ethereum, including:
+The hub will be primarily organized by the team at [Powerhouse](https://www.powerhouse.inc/) (part of Sky/MakerDAO). The Powerhouse team will be led by [Wouter Kampman](https://x.com/wkampmann) (former head of engineering at MakerDAO), [Kilgore](https://x.com/0xKilgore) and Lumen. We also have the support of other prominent open source voices in Ethereum, including:
 
 
 
 * [Lefteris Karapetsas ](https://x.com/LefterisJP) - founder of[ Rotki 1](https://rotki.com/)
-* [Igor Barinov 4](https://x.com/barinov) - Manager at[ Blockscout 1](https://www.blockscout.com/), previously at xDai
-* [Scott Moore 1](https://x.com/notscottmoore) - Open source Enthusiast at[ Publicworks.fm](http://publicworks.fm/), previously Gitcoin co-founder
+* [Igor Barinov](https://x.com/barinov) - Manager at[ Blockscout 1](https://www.blockscout.com/), previously at xDai
+* [Scott Moore](https://x.com/notscottmoore) - Open source Enthusiast at[ Publicworks.fm](http://publicworks.fm/), previously Gitcoin co-founder
 * [QZ ](https://x.com/not_qz)from [Ethereum Singapore ](https://ethereumsingapore.com/)
 *  [Hong Phuc](https://x.com/hpdang) - cofounder FOSSASIA
 
