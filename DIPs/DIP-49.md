@@ -25,7 +25,6 @@ Consumer crypto is one of the most prominent ways to onboard the next millions a
 
 While the main programme at Devcon is likely to focus on technical aspects and broader Ethereum developments, this community hub offers a deep-dive into the creative side of the Ethereum ecosystem by providing a bridge between technical discussions and real-world applications. It will also demonstrate the tangible impact of Ethereum on creative and cultural applications. Attendees will get to connect with teams that are actively building within the Onchain Creator space e.g. Zora, Ethereum Story, Base, Uniswap, Archetype, Optimism, Mint, 2077, Cyber, Superchain.eco.
 
-#### Why is this topic significant, and why is a community hub the best format to address it instead of a talk or workshop at the main conference?
 
 The majority of creators today live on platforms like Instagram; most likely have not learnt about the positive impact of creating onchain.
 
