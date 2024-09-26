@@ -22,7 +22,6 @@ Through demos, workshops and panel discussions, attendees will walk away with ne
 
 Consumer crypto is one of the most prominent ways to onboard the next millions and billions of users - and one of the core drivers is onchain creation. This hub will be a dedicated space for creators, developers, and enthusiasts to connect and collaborate on the future of onchain creativity through hands-on demonstrations of onchain creation tools, platforms and protocols, networking opportunities with like-minded individuals building within the onchain creator space. 
 
-#### How would this compliment the main programme that is happening at Devcon?
 
 While the main programme at Devcon is likely to focus on technical aspects and broader Ethereum developments, this community hub offers a deep-dive into the creative side of the Ethereum ecosystem by providing a bridge between technical discussions and real-world applications. It will also demonstrate the tangible impact of Ethereum on creative and cultural applications. Attendees will get to connect with teams that are actively building within the Onchain Creator space e.g. Zora, Ethereum Story, Base, Uniswap, Archetype, Optimism, Mint, 2077, Cyber, Superchain.eco.
 
