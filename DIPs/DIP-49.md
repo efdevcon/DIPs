@@ -10,7 +10,7 @@ Resources Required: Physical Community Hub space (more details in proposal)
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-the-onchain-creator-hub/4211
 Created: 2024-09-18
 
------Summary of Proposal-----
+## Summary of Proposal
 Last week’s news of Meta Spark winding down devastated many creators around the globe. This news alongside many others we’ve read over the years act as a strong reminder that what we create on the internet today does not belong to us – the patrons of the internet.
 
 This hub aims to help attendees understand the future of onchain creativity and its potential to drive mainstream Ethereum adoption, brought to you by a group of builders with technical expertise and industry knowledge on the multifaceted challenges and opportunities within the onchain creator space. By understanding the Onchain Creator Economy, you will also learn about how onchain creators are collectively earning millions of dollars in rewards through applications built on Ethereum.
