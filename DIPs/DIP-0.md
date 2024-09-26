@@ -39,7 +39,7 @@ Here is a list of themes to inspire you:
 
 ## Instances
 
-Which events should this DIP target? Can be `*` for all events or a list of specific events - e.g. `Devcon7`.
+Which events should this DIP target? MUST be a list of specific events. e.g. ["Devcon7"].
 
 ## Tags
 Devcon(nect) has several aspects to its organisation. To help us better guide you, select the area of focus that concern your DIP:
