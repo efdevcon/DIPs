@@ -11,7 +11,7 @@ Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-home-operator-
 Created: 2024-09-19
 ---
 
------Summary of Proposal-----
+## Summary of Proposal
 The home operator hub will feature education, resources, and one-on-one support for running a node or validator at home. It will be managed by Dappnode, EthStaker, & Ethereum On ARM, and will also feature roundtables, discussion and resources on any protocol that enables a sub-32 ETH validator to participate in staking from home
 
 ## Abstract
