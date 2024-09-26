@@ -111,5 +111,4 @@ Cyber
 Superchain.eco
 [Luuk Weber](https://x.com/LuukDAO)
 
-**Why are we best suited to drive this community hub? What expertise do we offer in this topic?**
 Our collective is made up of individuals well-suited to drive this hub for our diverse and complementary understanding of Onchain Creators. Our experience spans across creating industry-leading infrastructures (Base, OP, Cyber, Mint), driving adoption through world-class applications (Zora, Uniswap, Crowdmuse), building communities (2077, Superchain.eco) and expanding the narrative of Onchain Creativity (Archetype, EthereumStory).
