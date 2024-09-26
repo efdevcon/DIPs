@@ -18,8 +18,7 @@ This hub aims to help attendees understand the future of onchain creativity and 
 Through demos, workshops and panel discussions, attendees will walk away with new knowledge and exciting ideas on how we as patrons of the internet can truly capture value for the things that we create on the internet.
 
 
------Motivation & Rationale-----
-#### How would this community hub enhance attendee experience?
+## Motivation & Rationale
 
 Consumer crypto is one of the most prominent ways to onboard the next millions and billions of users - and one of the core drivers is onchain creation. This hub will be a dedicated space for creators, developers, and enthusiasts to connect and collaborate on the future of onchain creativity through hands-on demonstrations of onchain creation tools, platforms and protocols, networking opportunities with like-minded individuals building within the onchain creator space. 
 
