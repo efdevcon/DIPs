@@ -9,7 +9,6 @@ Authors: isaac@zora.com
 Resources Required: Physical Community Hub space (more details in proposal)
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-the-onchain-creator-hub/4211
 Created: 2024-09-18
-
 ## Summary of Proposal
 Last week’s news of Meta Spark winding down devastated many creators around the globe. This news alongside many others we’ve read over the years act as a strong reminder that what we create on the internet today does not belong to us – the patrons of the internet.
 
