@@ -69,8 +69,7 @@ Day 3
 * Panel - "What’s next for Onchain Creativity”
 
 
------Team-----
-__Please answer questions below:__
+## Team
 The following list of builders have agreed to cosign and contribute to this hub at Devcon 2024.
 
 Zora
