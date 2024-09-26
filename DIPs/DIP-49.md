@@ -34,7 +34,7 @@ The majority of creators today live on platforms like Instagram; most likely hav
 Onchain creators represent a major driver for mainstream Ethereum adoption as the technology helps unlock new economic models and ownership opportunities for the creative industry. A community hub is the best format for this topic because it allows for informal discussions, hands-on experimentation, organic exchange of ideas and is ultimately a more inclusive environment for both technical and non-technical individuals who are interested in Onchain Creator space.
 
 
------Implementation-----
+## Implementation
 
 The general theme of this hub is an “Open Creation Space” where attendees can experiment with tools and connect with the team throughout the programme.
 
