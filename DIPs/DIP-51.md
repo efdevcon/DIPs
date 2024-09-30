@@ -8,6 +8,7 @@ Instances: ["Devcon7"]
 Authors: Shelby & Anna (shelby@zknation.io, annaalexa.eth@gmail.com)
 Resources Required: (Physical space at venue, Tech (outlets, TV), whiteboard)
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-collective-intelligence-governance-hub/4025
+Created: 2024-09-19
 ---
 
 ## Summary of Proposal
