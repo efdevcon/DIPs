@@ -4,7 +4,7 @@ Title: Collective Intelligence Governance Hub
 Status: Draft
 Themes: Governance, Social
 Tags: Governance, Community, Social
-Instances: Devcon 7
+Instances: ["Devcon7"]
 Authors: Shelby & Anna (shelby@zknation.io, annaalexa.eth@gmail.com)
 Resources Required: (Physical space at venue, Tech (outlets, TV), whiteboard)
 Discussion: https://forum.devcon.org/t/sea-community-hub-proposal-collective-intelligence-governance-hub/4025
