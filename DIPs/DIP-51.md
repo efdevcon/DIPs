@@ -31,7 +31,7 @@ The Hub will tentatively operate between 10:00 and 3:00 pm each day. Below is th
 - 11:30 - 12:30 - Collective Intelligence Round - This is an open discussion time where anyone can ask a question or present a problem to the group and tap into our “collective intelligence” to hopefully get an answer or at least a lead.
 - 12:30 - 3:00 - Office Hours / Co-working
 
-Each day will have a different theam and people leading the discussion. Some potential workshop and discussion topics include: 
+Each day will have a different theme and people leading the discussion. Some potential workshop and discussion topics include: 
 
 - Delegation - Where we are today vs where we should be
 - Governance “experience” design
@@ -52,7 +52,7 @@ In decreasing order of importance.
 - A few small tables
 - Signage (simple sign with Hub name so folks know where to find us)
 
-### Actions to Implament: 1. What actions are required to implement the proposal at Devcon(nect)?
+### Actions to Implement: 1. What actions are required to implement the proposal at Devcon(nect)?
 
 ### Ownership / Team
 The team coordinating the space and facilitating the discussions will be a group of DAO operators who are focused on governance design and coordinating for various major DAOs (e.g. Celo, ZK Nation, EigenLayer, Sky, OP). Participants will be able to tap into the knowledge and experience of these folks, as well as that of other participants.
