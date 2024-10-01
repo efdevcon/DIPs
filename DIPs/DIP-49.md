@@ -72,7 +72,7 @@ Sharing about women-focused initiatives in different countries </br>
 Matching session for ETHGlobal hackathon </br>
 Other opportunities for women builders: learning resources, job opportunities, grant programs etc. </br>
 
-This preliminary programme layout offers a blend of educational sessions, networking opportunities, interactive discussions, and wellness activities to cater to the diverse interests and needs of our attendees throughout the operating hours of the Community Hub. We aim to create a vibrant and inclusive space where individuals can learn, connect, and be inspired, fostering a sense of community and empowerment within the Web3 ecosystem.
+This preliminary program offers a blend of educational sessions, networking opportunities, interactive discussions, and wellness activities to cater to the diverse interests and needs of our attendees throughout the operating hours of the Community Hub. We aim to create a vibrant and inclusive space where individuals can learn, connect, and be inspired, fostering a sense of community and empowerment within the Web3 ecosystem.
 
 
 ## Operational Requirements & Ownership
