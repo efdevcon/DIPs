@@ -25,7 +25,7 @@ Through this innovative format, the W3 Community Hub not only amplifies the voic
 ## Implementation
 In addition to the support provided by the Devcon team, our Hub will require specific production resources to ensure a seamless and enriching experience for our attendees. We plan to source additional equipment to enhance the space, tentatively including comfortable seating for various sessions, floor pillows for more intimate discussions, a projector and screen for presentations, desks for hands-on workshops, whiteboards for interactive sessions, and speakers with ambient music to create a welcoming and empowering atmosphere.
 
-**Tentative Programme Outline for the W3 Community Hub**
+**Tentative Program Outline for the W3 Community Hub**
 We aim to combine educational and networking sessions throughout the hub activities and associate a theme for each day of Devcon to facilitate thematic discussions.
 
 **Day 1: Welcome to Web3 (onboarding more women to web3)** </br>
