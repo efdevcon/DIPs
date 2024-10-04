@@ -1,7 +1,7 @@
 ---
 DIP: 35
 Title: Make Devcon censorship resistant, privacy preserving and smarter
-Status: Draft
+Status: Accepted
 Themes: Virtual experience, Freeform, Purchases & ID
 Tags: Software, Communications, Event Production, Event Operations
 Instances: Devcon 7 
