@@ -120,7 +120,6 @@ We propose the creation of Social Stereo, an interactive music and art instance 
 
 Additionally, Social Stereo will create two digital artifacts representing the music from DevCon SEA: a collection from DJ sets and a curated list of songs from the decentralized playlist, forming a digital archaeological piece for future reference.
 
----
 
 ## Abstract
 
