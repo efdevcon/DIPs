@@ -132,7 +132,6 @@ Music and art are pivotal in creating memorable and engaging community events. B
 
 Implementing Social Stereo addresses the need for scalable and resilient engagement models at large-scale events like DevCon SEA. By leveraging Stamp’s Web of Trust infrastructure, we ensure that privileges are granted based on community trust and active participation, fostering a more connected and dynamic environment.
 
----
 
 ## Specification
 
