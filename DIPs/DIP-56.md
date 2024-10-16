@@ -97,7 +97,6 @@ Implementing Social Stereo addresses the need for scalable and resilient engagem
 
 These artifacts will serve as a lasting representation of the cultural and artistic contributions made during DevCon SEA, showcasing the collaborative efforts of the community.
 
----
 
 ## Implementation
 
