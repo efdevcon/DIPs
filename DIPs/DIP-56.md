@@ -223,7 +223,6 @@ These artifacts will serve as a lasting representation of the cultural and artis
 * Zupass POD Documentation:[ https://github.com/proofcarryingdata/zupass/](https://github.com/proofcarryingdata/zupass/)
 * Eigen Algorithm:[ https://docs.openrank.com/the-reputation-stack/openrank-protocol](https://docs.openrank.com/the-reputation-stack/openrank-protocol)
 
----
 
 ## Conclusion
 
