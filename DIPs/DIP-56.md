@@ -25,7 +25,6 @@ Additionally, Social Stereo will create two digital artifacts representing the m
 
 Social Stereo is designed to enrich the DevCon SEA experience by integrating music and art activities. By utilizing their DJ Score and Singing Score, attendees can earn exclusive privileges such as booking DJ slots, gaining priority access to karaoke sessions, and participating in community-driven curation of playlists and art exhibits. This approach not only enhances real-time interactions but also extends the collaborative spirit of DevCon SEA into the broader Ethereum ecosystem by integrating multiple components of the stack.
 
----
 
 ## Motivation & Rationale
 
