@@ -7,7 +7,6 @@ tags: Communications
 Instances:
   - Devcon8
 Authors: peth@metagame.wtf, eowulia@metagame.wtf
-Resources Required: Physical space at venue, Extra equipment or smol budget to rent it, permission to use past content
 Discussion: https://forum.devcon.org/t/story-of-devcon/3797
 Created: 2024-09-26
 ---
