@@ -81,5 +81,3 @@ Damu & Carlos (BuidlGuidl)
 Yalor and Stacey (seeded the original idea and making it come true at MCON!)
 
 and since our forum post, a few people have reached out in wanting to add to the research/experience!
-
-Thanks so much for the consideration! 
