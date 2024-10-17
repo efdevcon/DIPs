@@ -39,11 +39,10 @@ The event aims to:
 - Provide a platform where employers can find potential employees
 
 
-- How is this solution better than other types of competitions?
-It is a short, intensive competition that requires fewer resources.
-Competitive programming will be a great additoin to the Devcon or other ETH events because it is objectively determines the best programming skills (unlike the subjective nature of hackathons).
+How is this solution better than other types of competitions?
+It is a short, intensive competition that requires fewer resources. Competitive programming will be a great additoin to the Devcon or other ETH events because it is objectively determines the best programming skills (unlike the subjective nature of hackathons).
 
-- How does this proposal introduce attendees to a novel blockchain/ethereum use case?
+How does this proposal introduce attendees to a novel blockchain/ethereum use case?
 A simple 30-minute competition where the winner is determined permissionlessly and transparently after time expires.
 
 ## Operational Requirements & Ownership
@@ -57,7 +56,7 @@ A simple 30-minute competition where the winner is determined permissionlessly a
 
 ## Workflow (From Idea to Implementation)
 
-Here is a UI for competition. This is where users will compete to show their skills.
+Here is the web UI for the competition. This is where users will compete to demonstrate their skills.
 <p align="center">
 <img src="images/DIP-60-solidity_ufc.png" alt="SolidityUFCe" style="height: 300px;">
 </p>
