@@ -3,8 +3,7 @@ DIP: 55
 Title: Story of Devcon
 Status: Draft
 Themes: Developer community, Content production, Community Involvement, Social
-tags:
-  - Communications
+tags: Communications
 Instances:
   - Devcon8
 Authors: peth@metagame.wtf, eowulia@metagame.wtf
