@@ -46,5 +46,3 @@ Collaborators:
 ### Links & Additional Information  
 Anything unclear? How can we make this better? Interested in getting involved?  
 All feedback and suggestions more than welcome!
-
-For further details, please refer to the ongoing discussion in the forum: https://forum.devcon.org/t/story-of-devcon/3797
