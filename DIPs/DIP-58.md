@@ -3,7 +3,7 @@ DIP: 58
 Title: Story of Devcon
 Status: Accepted
 Themes: Developer community, Content production, Community Involvement, Social
-tags: Communications
+Tags: Communications
 Instances: ["Devcon7"]
 Authors: peth@metagame.wtf, eowulia@metagame.wtf
 Discussion: https://forum.devcon.org/t/story-of-devcon/3797
