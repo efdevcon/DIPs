@@ -1,7 +1,7 @@
 ---
 DIP: 58
 Title: Story of Devcon
-Status: Draft
+Status: Accepted
 Themes: Developer community, Content production, Community Involvement, Social
 tags: Communications
 Instances: ["Devcon7"]
