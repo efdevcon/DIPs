@@ -1,7 +1,7 @@
 ---
 DIP: 59
 Title: DAO Confession Booth 
-Status: Draft
+Status: Accepted
 Themes: Freeform
 Tags: Event Production, Programming, On-site Experience
 Instances: ["Devcon7"]
