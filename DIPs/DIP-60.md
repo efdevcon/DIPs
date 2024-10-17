@@ -15,7 +15,6 @@ Created: 2024-10-18
 <img src="images/DIP-60-SolidityUFC_logo.png" alt="SolidityUFCe" style="height: 250px;">
 </p>
 
-
 ## Summary of Proposal
 The Solidity Ultimate Fighting Championship is a 30-minute competition where developers write Solidity functions and solve Solidity puzzles. The first programmer to complete all tasks earns bragging rights as the best Solidity programmer, and may even win a valuable prize.
 
@@ -70,12 +69,9 @@ Here is the web UI for the competition. This is where users will compete to demo
 - puzzle creators
 - lessons and master classes
 - web and smart contract contributors
-- Hosts
+- Event Hosts
 
 ## Links & Additional
 - [Solidity UFC Website (comming soon)](https://x.com/solidity_ufc)
 - [@solidity_ufc on Twitter](https://x.com/solidity_ufc)
 - [@fiveoceans_dev on Twitter](https://twitter.com/fiveoceans_dev)
-
-
-
