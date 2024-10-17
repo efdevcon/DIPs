@@ -4,8 +4,7 @@ Title: Story of Devcon
 Status: Draft
 Themes: Developer community, Content production, Community Involvement, Social
 tags: Communications
-Instances:
-  - Devcon8
+Instances: ["Devcon7"]
 Authors: peth@metagame.wtf, eowulia@metagame.wtf
 Discussion: https://forum.devcon.org/t/story-of-devcon/3797
 Created: 2024-09-26
