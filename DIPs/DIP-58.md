@@ -42,7 +42,3 @@ Project owners:
 
 Collaborators:
 - Anyone interested in this happening
-
-### Links & Additional Information  
-Anything unclear? How can we make this better? Interested in getting involved?  
-All feedback and suggestions more than welcome!
