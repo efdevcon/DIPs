@@ -4,7 +4,7 @@ Title: DAO Confession Booth
 Status: Draft
 Themes: Freeform
 Tags: Event Production, Programming, On-site Experience
-Instances: Devcon7
+Instances: ["Devcon7"]
 Authors: amy@raw-haus.co
 Resources Required: Physical space at venue, small tech support at set-up (plugs, wifi)
 Discussion: https://forum.devcon.org/t/dao-confession-booth/5145
