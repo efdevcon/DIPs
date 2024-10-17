@@ -25,6 +25,7 @@ The Solidity Ultimate Fighting Championship is a 30-minute competition where dev
 </p>
 The Solidity Ultimate Fighting Championship (UFC) is an event designed to showcase the skills of the best Solidity developers in the Ethereum ecosystem. In the future, the event will feature various formats, including head-to-head competitions, open tournaments, and live coding sessions. The primary goals are to highlight Solidity programming as an art form, onboard more developers into the ecosystem, educate the community, and foster collaboration, ultimately enhancing Ethereum's long-term impact. Participants gain exposure, recognition, bragging rights as the top Solidity developers, and fun prizes, while showcasing their expertise to potential employers and the blockchain community.
 
+
 For Devcon6, we propose to organize an open tournament to push the boundaries of competitive programming. The format includes 20 minutes of instructions and logistics, followed by a 30-minute hardcore non-stop programming challenge. Participants will have access to a website featuring 20-30 Solidity puzzles, ranging from basic to advanced difficulty levels.
 
 The winner will be determined permissionlessly, based on either solving all problems in record time or solving the most puzzles within the 30-minute window. In addition to the grand prize, we will recognize the top 10, 20, and 30 finishers, ensuring the event acknowledges a broad spectrum of talent. This format encourages innovation, networking, and adds an element of excitement and fun to blockchain development.
@@ -38,11 +39,10 @@ The event aims to:
 - Create an environment for Solidity developers to network
 - Provide a platform where employers can find potential employees
 
-
-How is this solution better than other types of competitions?
+*How is this solution better than other types of competitions?*
 It is a short, intensive competition that requires fewer resources. Competitive programming will be a great additoin to the Devcon or other ETH events because it is objectively determines the best programming skills (unlike the subjective nature of hackathons).
 
-How does this proposal introduce attendees to a novel blockchain/ethereum use case?
+*How does this proposal introduce attendees to a novel blockchain/ethereum use case?*
 A simple 30-minute competition where the winner is determined permissionlessly and transparently after time expires.
 
 ## Operational Requirements & Ownership
