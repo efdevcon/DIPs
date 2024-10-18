@@ -3,9 +3,9 @@ DIP: 60
 Title: Solidity UFC - Solidity Programming Competition
 Status: Draft
 Themes: Social
-Instances: [Devcon6]
+Instances: ["Devcon7"]
 Tags: Event Operations, Event Production, Communications, Sponsorships
-Authors: Five (@fiveoceans_dev)
+Authors: Five (@fiveoceans-dev)
 Resources Required: Room or Stage
 Discussion: https://forum.devcon.org/t/solidity-ufc-who-is-the-goat-of-solidity-universe/5112/5
 Created: 2024-10-18
