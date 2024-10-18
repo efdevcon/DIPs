@@ -12,7 +12,7 @@ Created: 2024-10-18
 ---
 
 <p align="center">
-<img src="images/DIP-60-SolidityUFC_logo.png" alt="SolidityUFCe" style="height: 250px;">
+<img src="images/DIP-60-solidity_ultimate_championship_logo.png" alt="Solidity Ultimate Championship" style="height: 250px;">
 </p>
 
 ## Summary of Proposal
@@ -20,7 +20,7 @@ The Ultimate Solidity Championship (USC) is a 30-minute competition where develo
 
 ## Abstract
 <p align="center">
-<img src="images/DIP-60-SolidityUFC_competition.png" alt="SolidityUFCe" style="height: 300px;">
+<img src="images/DIP-60-solidity_ultimate_championship_competition.png" alt="Solidity Ultimate Championship" style="height: 300px;">
 </p>
 The Ultimate Solidity Championship (USC) is an event designed to showcase the skills of the best Solidity developers in the Ethereum ecosystem. In the future, the event will feature various formats, including head-to-head competitions, open tournaments, and live coding sessions. The primary goals are to highlight Solidity programming as an art form, onboard more developers into the ecosystem, educate the community, and foster collaboration, ultimately enhancing Ethereum's long-term impact. Participants gain exposure, recognition, bragging rights as the top Solidity developers, and fun prizes, while showcasing their expertise to potential employers and the blockchain community.
 
@@ -57,7 +57,7 @@ A simple 30-minute competition where the winner is determined permissionlessly a
 
 Here is the web UI for the competition. This is where users will compete to demonstrate their skills.
 <p align="center">
-<img src="images/DIP-60-solidity_ufc.png" alt="SolidityUFC" style="height: 300px;">
+<img src="images/DIP-60-solidity_ultimate_championship.png" alt="Solidity Ultimate Championship" style="height: 300px;">
 </p>
 
 ## Future Improvements
@@ -75,3 +75,4 @@ Here is the web UI for the competition. This is where users will compete to demo
 - [Solidity UFC Website (comming soon)](https://x.com/solidity_usc)
 - [@solidity_ufc on Twitter](https://x.com/solidity_usc)
 - [@fiveoceans_dev on Twitter](https://twitter.com/fiveoceans_dev)
+
