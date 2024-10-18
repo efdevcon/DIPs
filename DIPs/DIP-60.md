@@ -72,6 +72,6 @@ Here is the web UI for the competition. This is where users will compete to demo
 - Event Hosts
 
 ## Links & Additional
-- [Solidity UFC Website (comming soon)](https://x.com/solidity_ufc)
-- [@solidity_ufc on Twitter](https://x.com/solidity_ufc)
+- [Solidity UFC Website (comming soon)](https://x.com/solidity_usc)
+- [@solidity_ufc on Twitter](https://x.com/solidity_usc)
 - [@fiveoceans_dev on Twitter](https://twitter.com/fiveoceans_dev)
