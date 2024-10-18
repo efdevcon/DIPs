@@ -1,6 +1,6 @@
 ---
 DIP: 60
-Title: Solidity UFC - Solidity Programming Competition
+Title: Ultimate Solidity Championship (USC) - Solidity Programming Competition
 Status: Draft
 Themes: Social
 Instances: ["Devcon7"]
@@ -16,13 +16,13 @@ Created: 2024-10-18
 </p>
 
 ## Summary of Proposal
-The Solidity Ultimate Fighting Championship is a 30-minute competition where developers write Solidity functions and solve Solidity puzzles. The first programmer to complete all tasks earns bragging rights as the best Solidity programmer, and may even win a valuable prize.
+The Ultimate Solidity Championship (USC) is a 30-minute competition where developers write Solidity functions and solve Solidity puzzles. The first programmer to complete all tasks earns bragging rights as the best Solidity programmer, and may even win a valuable prize.
 
 ## Abstract
 <p align="center">
 <img src="images/DIP-60-SolidityUFC_competition.png" alt="SolidityUFCe" style="height: 300px;">
 </p>
-The Solidity Ultimate Fighting Championship (UFC) is an event designed to showcase the skills of the best Solidity developers in the Ethereum ecosystem. In the future, the event will feature various formats, including head-to-head competitions, open tournaments, and live coding sessions. The primary goals are to highlight Solidity programming as an art form, onboard more developers into the ecosystem, educate the community, and foster collaboration, ultimately enhancing Ethereum's long-term impact. Participants gain exposure, recognition, bragging rights as the top Solidity developers, and fun prizes, while showcasing their expertise to potential employers and the blockchain community.
+The Ultimate Solidity Championship (USC) is an event designed to showcase the skills of the best Solidity developers in the Ethereum ecosystem. In the future, the event will feature various formats, including head-to-head competitions, open tournaments, and live coding sessions. The primary goals are to highlight Solidity programming as an art form, onboard more developers into the ecosystem, educate the community, and foster collaboration, ultimately enhancing Ethereum's long-term impact. Participants gain exposure, recognition, bragging rights as the top Solidity developers, and fun prizes, while showcasing their expertise to potential employers and the blockchain community.
 
 
 For Devcon6, we propose to organize an open tournament to push the boundaries of competitive programming. The format includes 20 minutes of instructions and logistics, followed by a 30-minute hardcore non-stop programming challenge. Participants will have access to a website featuring 20-30 Solidity puzzles, ranging from basic to advanced difficulty levels.
@@ -57,7 +57,7 @@ A simple 30-minute competition where the winner is determined permissionlessly a
 
 Here is the web UI for the competition. This is where users will compete to demonstrate their skills.
 <p align="center">
-<img src="images/DIP-60-solidity_ufc.png" alt="SolidityUFCe" style="height: 300px;">
+<img src="images/DIP-60-solidity_ufc.png" alt="SolidityUFC" style="height: 300px;">
 </p>
 
 ## Future Improvements
