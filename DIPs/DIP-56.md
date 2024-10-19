@@ -1,7 +1,7 @@
 ---
 DIP: 56
 Title: Social Stereo 
-Status: Draft
+Status: Accepted
 Themes: Art & Beauty, Community Involvement, Social
 Tags: zupass, music, karaoke, operations, EAS
 Instances: ["Devcon7"] 
