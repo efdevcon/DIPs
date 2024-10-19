@@ -1,7 +1,7 @@
 ---
 DIP: 60
 Title: Ultimate Solidity Championship (USC) - Solidity Programming Competition
-Status: Draft
+Status: Accepted
 Themes: Social
 Instances: ["Devcon7"]
 Tags: Event Operations, Event Production, Communications, Sponsorships
