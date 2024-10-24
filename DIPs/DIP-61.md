@@ -1,4 +1,4 @@
---- 
+---
 DIP: 61
 Title: Cover Devcon on Kiwi News
 Status: Draft
