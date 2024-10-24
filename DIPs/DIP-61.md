@@ -11,7 +11,6 @@ Discussion:https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200
 Created: 2024-10-23
 ---
 
-
 ## Summary of Proposal
 
 We’d like to recruit Devcon attendees to cover the most interesting Devcon links on Kiwi News so that people who couldn't make it in person can also follow the most interesting projects, ideas, and discussions from the event.
