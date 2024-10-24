@@ -3,7 +3,7 @@ DIP: 4
 Title: Treasure Hunt Game
 Status: Accepted
 Themes: Social
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Event Production
 Authors: Alberto Granzotto <agranzot@mailbox.org>
 Resources Required: Communication support, Access to the venue before the event starts

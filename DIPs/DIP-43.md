@@ -3,7 +3,7 @@ DIP: 43
 Title: Integration of Reclaim Protocol for Nationality Verification
 Status: Draft
 Themes: Ticketing, Purchases & ID
-Instances: [Devcon7]
+Instances: Devcon7
 Tags: Event Operations, Event Production, Software
 Authors: Roman Prohorenko (roman@creatoros.co), Rohit Goswami (@rohit-goswami)
 Resources Required: Software development, operations Support and tech support

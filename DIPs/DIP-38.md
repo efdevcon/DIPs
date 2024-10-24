@@ -4,7 +4,7 @@ Title: A sufficiently decentralized collaboration stack for Devcon 7
 Status: Draft
 Themes: Collaboration
 Tags: Collaboration
-Instances: Devcon 7
+Instances: Devcon7
 Authors: vijay@fileverse.io, andreas@fileverse.io
 Resources Required: Communication support
 Discussion: https://forum.devcon.org/t/dip-38-a-sufficiently-decentralized-collaboration-stack-for-devcon-7/3612

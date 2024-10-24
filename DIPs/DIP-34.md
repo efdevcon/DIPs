@@ -4,7 +4,7 @@ Title: Host DevCon Videos on Swarm & Etherna
 Status: Accepted
 Themes: Virtual experience, Freeform
 Tags: Software, Communications, Event Production, Event Operations
-Instances: Devcon 7 
+Instances: Devcon7
 Authors: costanza@ethswarm.org
 Resources Required: Operations support
 Discussion: https://forum.devcon.org/t/hosting-the-agenda-and-the-documents-on-swarm/342/3

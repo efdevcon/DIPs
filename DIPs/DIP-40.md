@@ -3,7 +3,7 @@ DIP: 40
 Title: Integration of Anon Aadhaar for Indian builder discounts
 Status: Accepted
 Themes: Ticketing, Purchases & ID
-Instances: [Devcon7]
+Instances: Devcon7
 Tags: Software
 Authors: Yanis Meziane (PSE - Anon Aadhaar)
 Discussion: https://forum.devcon.org/t/dip-40-integration-of-anon-aadhaar-for-ticket-discounts-targeting-indian-citizens/3632

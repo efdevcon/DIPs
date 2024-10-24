@@ -3,7 +3,7 @@ DIP: 47
 Title: FROGCRYPTO
 Status: Draft
 Themes: Social, Art, Freeform
-Instances: [Devcon7]
+Instances: Devcon7
 Tags: Event Production, Other
 Authors:  Small Brain (smallbraindev@gmail.com)
 Discussion: [https://forum.devcon.org/t/dip-36-games-of-capture-and-escape/3447](https://forum.devcon.org/t/dip-46-pod-based-ticketing-at-devcon/3850](https://forum.devcon.org/t/dip-47-frogcrypto-2/3866)

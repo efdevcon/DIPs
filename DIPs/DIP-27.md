@@ -3,7 +3,7 @@ DIP: 27
 Title: Community Hub - Temporary Anonymous Zone
 Status: Accepted
 Themes: Community Involvement
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Community Hub, Event Production
 Authors: Althea <althea@ethereum.org>
 Resources Required: Physical space, signage, seating, screen

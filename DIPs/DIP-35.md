@@ -4,7 +4,7 @@ Title: Make Devcon censorship resistant, privacy preserving and smarter
 Status: Accepted
 Themes: Virtual experience, Freeform, Purchases & ID
 Tags: Software, Communications, Event Production, Event Operations
-Instances: Devcon 7 
+Instances: Devcon7
 Authors: costanza@ethswarm.org
 Resources Required: Operations support
 Discussion: https://forum.devcon.org/t/devcon-2024-agenda-on-swarm-with-fair-data-society-and-brianknowsai/3357

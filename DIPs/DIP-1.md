@@ -3,7 +3,7 @@ DIP: 1
 Title: Make Devcon carbon neutral
 Status: Accepted
 Themes: Ticketing, Environmental Sustainability
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Event production, Software
 Authors: Raphaël Haupt <raphael@curvelabs.eu>
 Resources Required: Tech support, Communication support

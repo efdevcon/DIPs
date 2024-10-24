@@ -4,7 +4,7 @@ Title: Proposal for a new ticket payment plugin for Devcon 7
 Status: Accepted
 Themes: Ticketing, Payments
 Tags: Software, Payments
-Instances: Devcon 7
+Instances: Devcon7
 Authors: ryanberckmans@gmail.com
 Resources Required: Tech support, Communication support
 Discussion: https://forum.devcon.org/t/dip-34-proposal-for-a-new-ticket-payment-plugin-for-devcon-7/3350

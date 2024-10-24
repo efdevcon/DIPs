@@ -3,7 +3,7 @@ DIP: 12
 Title: Addition to DIP–1 — Make Devcon Carbon Neutral
 Status: Draft
 Themes: Ticketing, Environmental Sustainability
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Event production, Software
 Authors: Raphaël Haupt <raphael@curvelabs.eu>
 Resources Required: Tech support, Communication support
