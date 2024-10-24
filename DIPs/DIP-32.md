@@ -4,7 +4,7 @@ Title: Jubjubs, Collect → Prove → Win!
 Status: Accepted
 Themes: Art & Beauty, Social, Purchases & ID
 Tags: Event Production, Event Operations
-Instances: Devconnect Istanbul
+Instances: DevconnectIST
 Authors: Rachel (rachelaux3@gmail.com), Vivek (vb7401@gmail.com), Althea (althea@ethereum.org)
 Resources Required: Potentially a space in the Devconnect venue as a hub for the game
 Discussion: https://forum.devcon.org/t/jubjubs-zk-provable-devconnect-mementos/3225

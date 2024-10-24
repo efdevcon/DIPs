@@ -3,7 +3,7 @@ DIP: 15
 Title: Travel insurance
 Status: Draft
 Themes: Travel, Safety
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: DeFi, Insurance, Peer2Peer
 Authors: Christoph Mussenbrock <christoph@etherisc.com>
 Resources Required: CustomerSupportBooth at DevConVI

@@ -4,7 +4,7 @@ Title: Meerkat - Q&A-Tool for Zupass to increase Engagement at Talks
 Status: Draft
 Themes: Social, Ticketing
 Tags: Event Production, Event Operations
-Instances: ["Devcon7"]
+Instances: Devcon7
 Authors: Miriam (info@newagegoods.com), Florian (florian@voya.games)
 Resources Required: Tech support, Operational support, Communication support, Physical device support
 Discussion: https://forum.devcon.org/t/meerkat-q-a-tool-for-audience-engagement/3805

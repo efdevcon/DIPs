@@ -3,7 +3,7 @@ DIP: 36
 Title: Games of Capture and Escape
 Status: Accepted
 Themes: Freeform
-Instances: [Devcon7]
+Instances: Devcon7
 Tags: Event Production, Other
 Authors: Daedalus Industries
 Discussion: https://forum.devcon.org/t/dip-36-games-of-capture-and-escape/3447

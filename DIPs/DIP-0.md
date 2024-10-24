@@ -4,6 +4,7 @@ Title: DIP Purpose and Guidelines
 Status: Active
 Themes: Meta
 Tags: Other
+Instances: *
 Authors: Bettina Boon Falleur (@BettinaBF), Ligi (@ligi), Heather Davidson (@p0unce), Skylar (@skylarweaver), Joseph Schweitzer (@ethjoe)
 Discussion: https://forum.devcon.org
 Created: 2020-07-06

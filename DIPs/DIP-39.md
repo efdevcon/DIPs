@@ -3,7 +3,7 @@ DIP: 39
 Title: Integration of zkPassport for SEA builder discounts
 Status: Accepted
 Themes: Ticketing, Purchases & ID
-Instances: [Devcon7]
+Instances: Devcon7
 Tags: Software
 Authors: Michael Elliot (@michaelelliot), Théo Madzou (@madztheo)
 Discussion: https://forum.devcon.org/t/dip-39-integration-of-zkpassport-for-sea-builder-discounts/3621

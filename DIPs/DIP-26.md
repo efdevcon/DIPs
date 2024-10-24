@@ -3,7 +3,7 @@ DIP: 26
 Title: Cryptoeconomics & Governance Community Hub 
 Status: Accepted
 Themes: Social
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Community Hub, Event Production
 Authors: Angela Kreitenweis (angela@tokenengineering.net), Eugene Leventhal (eugene@scrf.io). Patricia Brolezzi (patricia@tokenengineering.net)
 Resources Required: Physical space at venue, additional screens for the laptop connection if possible
