@@ -7,7 +7,7 @@ Tags: Communications
 Instances: Devcon7
 Authors: mac@macbudkowski.com
 Resources Required: Promotion 
-Discussion:https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200
+Discussion: https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200
 Created: 2024-10-23
 ---
 
