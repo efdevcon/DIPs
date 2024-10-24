@@ -1,27 +1,14 @@
-
 --- 
-
-**DIP**: 61
-
-**Title**: Cover Devcon on Kiwi News
-
-**Status**: Draft
-
-**Themes**: Social, Virtual Experience
-
-**Tags**: Communications
-
-**Instances**: Devcon7
-
-**Authors**: mac@macbudkowski.com
-
-**Resources Required**: Promotion 
-
-**Discussion**: [https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200](https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200)
-
-**Created**: 2024-10-23
-
-
+DIP: 61
+Title: Cover Devcon on Kiwi News
+Status: Draft
+Themes: Social, Virtual Experience
+Tags: Communications
+Instances: Devcon7
+Authors: mac@macbudkowski.com
+Resources Required: Promotion 
+Discussion:https://forum.devcon.org/t/dip-51-cover-devcon-on-kiwi-news/5200
+Created: 2024-10-23
 ---
 
 
