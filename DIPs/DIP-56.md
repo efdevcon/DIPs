@@ -4,7 +4,7 @@ Title: Social Stereo
 Status: Accepted
 Themes: Art & Beauty, Community Involvement, Social
 Tags: zupass, music, karaoke, operations, EAS
-Instances: ["Devcon7"] 
+Instances: Devcon7
 Authors: petra@circledot.tech
 Resources Required: Physical space at the venue, Operations Support.  
 Discussion: https://forum.devcon.org/t/dip-49-social-stereo/4354

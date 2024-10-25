@@ -4,7 +4,7 @@ Title: Story of Devcon
 Status: Accepted
 Themes: Developer community, Content production, Community Involvement, Social
 Tags: Communications
-Instances: ["Devcon7"]
+Instances: Devcon7
 Authors: peth@metagame.wtf, eowulia@metagame.wtf
 Discussion: https://forum.devcon.org/t/story-of-devcon/3797
 Created: 2024-09-26

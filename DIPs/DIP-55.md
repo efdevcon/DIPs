@@ -4,7 +4,7 @@ Title: Security Awareness Activities On-Site
 Status: Draft  
 Themes: Community Involvement, Social  
 Tags: awareness, campaign, CTF, phishing, red-team, security 
-Instances: ["Devcon8"] 
+Instances: Devcon8
 Authors: matt@theredguild.org, tincho@theredguild.org  
 Resources Required: Physical space at venue, Operations Support, Tech Support, Volunteers, Access to Infrastructure.  
 Discussion: https://forum.devcon.org/t/rfc-dip-security-awareness-activities-on-site/4327
