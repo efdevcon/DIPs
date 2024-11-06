@@ -1,7 +1,7 @@
 ---
 DIP: 63
 Title: Travel insurance
-Status: Draft
+Status: Accepted
 Themes: Travel, Safety
 Instances: Devcon7
 Tags: DeFi, Insurance, Peer2Peer
