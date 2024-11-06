@@ -1,7 +1,7 @@
 ---
 DIP: 48
 Title: Tabletop Gaming Level Up At Devcon!
-Status: Draft
+Status: Accepted
 Themes: Community & Ethereum Culture, Social Experience
 Tags: Community Involvement, Social, Gaming
 Instances: Devcon7

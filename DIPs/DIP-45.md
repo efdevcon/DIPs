@@ -1,7 +1,7 @@
 ---
 DIP: 45
 Title: Meerkat - Q&A-Tool for Zupass to increase Engagement at Talks
-Status: Draft
+Status: Accepted
 Themes: Social, Ticketing
 Tags: Event Production, Event Operations
 Instances: Devcon7

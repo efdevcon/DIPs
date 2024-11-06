@@ -1,7 +1,7 @@
 ---
 DIP: 38
 Title: A sufficiently decentralized collaboration stack for Devcon 7
-Status: Draft
+Status: Accepted
 Themes: Collaboration
 Tags: Collaboration
 Instances: Devcon7

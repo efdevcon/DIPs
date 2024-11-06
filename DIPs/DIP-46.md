@@ -1,7 +1,7 @@
 ---
 DIP: 46
 Title: POD-Based Ticketing At Devcon
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Social, Purchases & ID, Community Involvement
 Tags: Event Production, Software
 Instances: Devcon7

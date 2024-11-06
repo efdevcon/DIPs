@@ -1,7 +1,7 @@
 ---
 DIP: 61
 Title: Cover Devcon on Kiwi News
-Status: Draft
+Status: Accepted
 Themes: Social, Virtual Experience
 Tags: Communications
 Instances: Devcon7

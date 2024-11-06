@@ -1,7 +1,7 @@
 ---
 DIP: 47
 Title: FROGCRYPTO
-Status: Draft
+Status: Accepted
 Themes: Social, Art, Freeform
 Instances: Devcon7
 Tags: Event Production, Other

@@ -1,7 +1,7 @@
 ---
 DIP: 41
 Title: NEON TEMPLE - A place for arts, communications, fun, and mementos
-Status: Draft
+Status: Accepted
 Themes: Art & Beauty, Community Involvement
 Tags: Event Production
 Instances: Devcon7
