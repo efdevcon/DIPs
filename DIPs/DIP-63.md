@@ -13,8 +13,8 @@ Created: 2024-11-06
 
 ## Summary of Proposal
 
-A lot of people will travel to DevConVI. This will impose a number of risks to these people:
-flight Delays, baggage loss, theft, and others. We will build a decentralized travel insurance for DevConVI participants. 
+A lot of people will travel to Devcon SEA. This will impose a number of risks to these people:
+flight Delays, baggage loss, theft, and others. We will build a decentralized travel insurance for Devcon SEA participants. 
 
 ## Abstract
 We will offer a FlightDelay Insurance for DevconVI attendees. 
@@ -39,7 +39,7 @@ those premiums which are not used to pay out claims. To become a liquidity provi
 stake [DIP (Decentralized Insurance Protocol) tokens](https://etherscan.io/token/0xc719d010b63e5bbf2c0551872cd5316ed26acd83).
 
 ## Motivation & Rationale
-Attendees get peace of mind when travelling to DevConVI. This will increase their well-being
+Attendees get peace of mind when traveling to DevConVI. This will increase their well-being
 and will also attract people who otherwise would abstain from participation.
 DevCon7 attendees will most likely be willing to use blockchain based insurance because it fits
 best in their DeFi engagement. Payouts can be immediate and no paperwork is needed.
