@@ -17,7 +17,7 @@ A lot of people will travel to Devcon SEA. This will impose a number of risks to
 flight Delays, baggage loss, theft, and others. We will build a decentralized travel insurance for Devcon SEA participants. 
 
 ## Abstract
-We will offer a FlightDelay Insurance for DevconVI attendees. 
+We will offer a FlightDelay Insurance for Devcon SEA attendees. 
 
 People can select their flight(s) and pay USDC 15 as a premium.
 Via an oracle, the risk of the flight being late is calculated, which determines the maximum amount paid out in case of a delay.
@@ -39,11 +39,11 @@ those premiums which are not used to pay out claims. To become a liquidity provi
 stake [DIP (Decentralized Insurance Protocol) tokens](https://etherscan.io/token/0xc719d010b63e5bbf2c0551872cd5316ed26acd83).
 
 ## Motivation & Rationale
-Attendees get peace of mind when traveling to DevConVI. This will increase their well-being
+Attendees get peace of mind when traveling to Devcon SEA. This will increase their well-being
 and will also attract people who otherwise would abstain from participation.
-DevCon7 attendees will most likely be willing to use blockchain based insurance because it fits
+Devcon SEA attendees will most likely be willing to use blockchain based insurance because it fits
 best in their DeFi engagement. Payouts can be immediate and no paperwork is needed.
-FlightDelay Insurance has been offered at DevConII in Shanghai and got a lot of good feedback, 
+FlightDelay Insurance has been offered at Devcon SEA in Shanghai and got a lot of good feedback, 
 it was the first insurance Dapp on Ethereum - time to bring it back!
 
 ## Implementation
