@@ -29,7 +29,7 @@ The Experience (Technical Explainer)
 In the booth, participants make a “confession” about their experience in DAOs. Their confession is recorded (through voice or text) through our UI and is added to an anonymized dataset and analyzed by coordination.network 1’s LLM pipeline, which categorizes the experiences into collective themes and displays them in real time. (Important: the voice recording is NOT saved. The voice is transcribed on a server only accessible by one of the coordination.network team and the transcription is analyzed into categories. Future iterations will also explore maximising the use of local processing.)
 
 ## Motivation & Rationale
-Conferences can be overstimulating at times, but fun experiences that attendees can do on solo at their time can spark curiousity and make "conference work time" feel less intensive. 
+Conferences can be overstimulating at times, but fun experiences that attendees can do on solo at their time can spark curiosity and make "conference work time" feel less intensive. 
 The booth is standalone, doesn’t require oversight, but is a fun experience for Devcon attendees to participate in, all while contributing to research.
 By making the experience more human-approachable while obfuscating an individual's contribution via an anonymized dataset, we help preserve a contributor's anonymity while still providing output for the greater collective. We're hoping these outputs help accelerate research, coordination and resource allocation for DAO solutions!
 

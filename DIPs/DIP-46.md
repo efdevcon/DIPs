@@ -43,7 +43,7 @@ Under the hood, Zupass is a general-purpose cryptographic data manager. At Zuzal
 
 We designed Zupass with ecosystem development in mind, and seeded/facilitated other identity and community experiments on top of the infrastructure that we built.
 
-It’s important to note that Zupass is ‘permisionlessly interoperable’ - developers of third party applications did not need our permission to integrate with the PCD framework. The entire thing is open source, and exposes easy-to-understand and easy-to-incorporate APIs.
+It’s important to note that Zupass is ‘permissionlessly interoperable’ - developers of third party applications did not need our permission to integrate with the PCD framework. The entire thing is open source, and exposes easy-to-understand and easy-to-incorporate APIs.
 
 Since Zuzalu, community platforms including [Zuzagora](https://www.zuzagora.com/), [Fora](https://fora.co/) and [Lemonade](https://lemonade.social/) have also built integrations to issue and/or verify cryptographic ID through Zupass. At ZuConnect, Zupass was used to provide tickets, polls, and new features including gated Telegram chat and an [anonymous chat bot](https://t.me/zurat_bot). Hackathon projects were able to leverage Zupass for use-cases including [zero-knowledge clinical trial](https://github.com/seeincodes/zuhack-istanbul) participation, [issuance of tickets](https://github.com/lemonadesocial/lemonade-zupass/) for additional events, and even [sharing of horoscopes](https://github.com/raigal-r/zuAstro).
 
@@ -54,7 +54,7 @@ At Devconnect last year, Ethereum and 0xPARC community members launched FROGCRYP
 In 2024, Zupass and the ZK data ecosystem have powered various Zuzalu ecosystem events — Edge City Denver, Edge Esmeralda, and ZuVillage Georgia — among other community-organized events. We’re also excited to see Zupass increasingly being used at Ethereum events that Zuzalu — ETH LATAM, ETHBerlin, ETHPrague. Here are some of the projects that various community developers have built on top of PODs and Zupass.
 
 - [Zumeet](https://github.com/floAr/offuffsaf): A peer-to-peer social network with ZK feeds
-- [Zukofi:](https://projects.ethberlin.org/submissions/352) Private qudaratic voting using FHE
+- [Zukofi:](https://projects.ethberlin.org/submissions/352) Private quadratic voting using FHE
 - [Voto](https://github.com/Vote-tech/voto-tech): zkMACI (private, bribery resistant voting infrastructure)
 - [zk-twitter](https://github.com/ichub/zk-twitter): Peer-to-peer image-sharing website
 - [zu-git-proofs](https://github.com/sztok7/zu-git-proofs): ZK badges in social forums

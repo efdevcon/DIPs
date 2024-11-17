@@ -101,7 +101,7 @@ Finally, we will be submitting another DIP to introduce an onchain AI agents / b
 Key requests are to receive feedback about mocks/app, understand the Devcon team‘s bandwidth for this DIP, and schedule the calls accordingly.
 * **Scheduled calls devcon<>fileverse:**
     * August: 1 call; 
-    * Septembre: 1; 
+    * September: 1; 
     * October: 1;
 
 * Calls are about the below requests, product feedback, and general sync. E.g.:

@@ -45,7 +45,7 @@ No.
 
 ## 1. What actions are required to implement the proposal at Devcon?
 
-Simply a physical space Community Hub space set up. We would ideally like:
+Simply a physical Community Hub space set up. We would ideally like:
 - A clear area for standing networking
 - A seated area for roundtable discussions and relaxation
 - A few desks

@@ -35,7 +35,7 @@ Must have:
 Good to have:
 - A nice permanent recording area with plants
 - Permission to use past content such as recording & photos
-- Lighting & tripod (or smol budget to rent)
+- Lighting & tripod (or small budget to rent)
 
 Project owners:
 - peth & eowulia

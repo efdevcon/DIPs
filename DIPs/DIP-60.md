@@ -39,7 +39,7 @@ The event aims to:
 - Provide a platform where employers can find potential employees
 
 *How is this solution better than other types of competitions?*
-It is a short, intensive competition that requires fewer resources. Competitive programming will be a great additoin to the Devcon or other ETH events because it is objectively determines the best programming skills (unlike the subjective nature of hackathons).
+It is a short, intensive competition that requires fewer resources. Competitive programming will be a great addition to the Devcon or other ETH events because it is objectively determines the best programming skills (unlike the subjective nature of hackathons).
 
 *How does this proposal introduce attendees to a novel blockchain/ethereum use case?*
 A simple 30-minute competition where the winner is determined permissionlessly and transparently after time expires.
@@ -72,7 +72,7 @@ Here is the web UI for the competition. This is where users will compete to demo
 - Event Hosts
 
 ## Links & Additional
-- [Solidity UFC Website (comming soon)](https://x.com/solidity_usc)
+- [Solidity UFC Website (coming soon)](https://x.com/solidity_usc)
 - [@solidity_ufc on Twitter](https://x.com/solidity_usc)
 - [@fiveoceans_dev on Twitter](https://twitter.com/fiveoceans_dev)
 

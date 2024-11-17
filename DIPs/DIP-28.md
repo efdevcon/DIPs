@@ -44,7 +44,7 @@ Applied ZK has evolved beyond university research projects: we believe that we�
 - The space will be operated from 10am - 4pm. Each day, this period is broken up into five 60-minute slots.
 - We’ll find five teams per day that will sign up for slots to “own” the space for 75 minutes each. During a slot, the chosen team will drive a “primary activity”—see the examples above.
 - Additionally, we imagine that the space will be used informally for followups with speakers on the ZK track, or other meetups.
-    - Fo example, here are some talks / programming held elsewhere that the ZK Community Hub can be used to facilitate continued discussion for
+    - For example, here are some talks / programming held elsewhere that the ZK Community Hub can be used to facilitate continued discussion for
         - SLS - ZK Apps Demo Session + Panel
         - SLS - PLONKish Day
         - SLS - ZK Security Gathering
