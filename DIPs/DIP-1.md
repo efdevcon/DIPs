@@ -17,7 +17,7 @@ Give Devcon participants a taste of a regenerative economy, by allowing them to 
 ## Abstract
 We want to offer attendees the ability to offset the carbon emissions from Devcon. This includes both **direct** emissions that occur during the event—energy use, air conditioning, food, etc.—as well as **indirect** emissions that are tightly coupled to it—most importantly, accommodation and flights.
 
-We have identified 2 ways of approaching offsetting, each with it's own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option.
+We have identified 2 ways of approaching offsetting, each with its own advantages and disadvantages.  We will outline these options, and [engage the community](https://forum.devcon.org/t/co2ken-carbon-neutral-devcon/27) to find the most suitable option.
 
 The user will be able to pay directly within the ticketing process. Offsetting contributions are destined for the highest quality local carbon projects in our host nation of Colombia.
 
@@ -42,7 +42,7 @@ High quality carbon offset price per ton:
 ## Implementation
 **Organizational**
 
-- How the funds gathered during the ticketing process will be used to offset the event's carbon footprint will be discussed in a future DIP. This DIP should describe the governance and allocation of the funds and could be developed in collboration with other projects like [Terra0](https://terra0.org/) or the [Sovereign Nature Initiative](http://sovereignnature.com/). Inputs from the community are encouraged!
+- How the funds gathered during the ticketing process will be used to offset the event's carbon footprint will be discussed in a future DIP. This DIP should describe the governance and allocation of the funds and could be developed in collaboration with other projects like [Terra0](https://terra0.org/) or the [Sovereign Nature Initiative](http://sovereignnature.com/). Inputs from the community are encouraged!
 - Gather data to best estimate the carbon footprint of the event.
 
 **Technical**

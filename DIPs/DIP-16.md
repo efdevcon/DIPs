@@ -40,7 +40,7 @@ Attendees will be able to make their voices heard and influence some decisions.
 
 The organizers will be able to leverage a layer of governance that will allow them to include the input of the participants in the decision making.
 
-Other active attendees such as speakers, sponsors or projects will use a permisionless platform to organize votes using different tokens. Thus an ecosystem of informal communities and small governance initiative will take place within event.
+Other active attendees such as speakers, sponsors or projects will use a permissionless platform to organize votes using different tokens. Thus an ecosystem of informal communities and small governance initiative will take place within event.
 
 - How is this solution better than a non-blockchain experience?
 

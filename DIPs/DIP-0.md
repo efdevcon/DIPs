@@ -112,7 +112,7 @@ Your first PR should be a first draft of the final DIP. It must meet the formatt
 
 If your DIP requires images, the image files should be included in a subdirectory of the assets folder for that DIP as follows: assets/dip-N (where N is to be replaced with the DIP number). When linking to an image in the DIP, use relative links such as ../assets/dip-1/image.png.
 
-After submitting editors will go through [this checklist](../checklist.md) - it is encouraged that you already went trough these points yourself.
+After submitting editors will go through [this checklist](../checklist.md) - it is encouraged that you already went through these points yourself.
 
 All DIPs should be written in markdown format. Please use the template below:
 
