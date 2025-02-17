@@ -19,7 +19,7 @@
    * [ ] Authors
    * [ ] Resources Required (optional)
    * [ ] Discussion (with link to devcon forum)
-   * [ ] Created (in the format year-month-day e.g 2020-4-20)
+   * [ ] Created (in the format year-month-day e.g 2020-04-20)
  * [ ] contains these sections:
    * [ ] Abstract
    * [ ] Rationale
