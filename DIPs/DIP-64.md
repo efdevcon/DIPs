@@ -1,7 +1,7 @@
 ---
 DIP: 64
 Title: Universal Checkout for Devcon[nect]
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Payments
 Tags: Software, Payments
 Instances: Devconnect2025
