@@ -1,3 +1,16 @@
+---
+DIP: 65
+Title: Provide a seamless housing reservation experience for **Devcon[nect]**.
+Status: Draft
+Themes: Housing
+Tags: Housing, Software, Payments
+Instances: Devconnect2025
+Authors: jason@betrusty.io
+Resources Required: Communication support
+Discussion: https://forum.devcon.org/t/housing-devconnect-argentina-2025/6747
+Created: 2025-06-20
+---
+
 ## Abstract
 Provide a seamless housing reservation experience for **Devcon[nect]**. This platform, developed by **Betrusty**, allows attendees to **securely and reliably** book verified accommodations during events using decentralized identity and cryptocurrency payments.
 
