@@ -19,9 +19,9 @@ Provide a seamless housing reservation experience for **Devcon[nect]**. This pla
 ## Rationale
 
 ### Background
-Devcon brings together thousands of global participants, but finding accessible and secure housing remains a challenge. Traditional platforms like Airbnb and Booking charge high fees, require fiat payments, and lack integration with on-chain solutions.
+Devconnect (2025) brings together thousands of global participants, but finding accessible and secure housing remains a challenge. Traditional platforms like Airbnb and Booking charge high fees, require fiat payments, and lack integration with on-chain solutions.
 
-**Betrusty** is a web3 tool that solves this issue: it enables users to rent verified properties without commission and pay with crypto. It is already integrated with **Didit** and **Daimo Pay**, offering a frictionless multichain payment experience. As part of our roadmap toward Devcon, we aim to integrate additional partners from the ecosystem such as **Ensuro, QuarkID, Kleros, and Autopen**, although those are still in progress.
+**Betrusty** is a web3 tool that solves this issue: it enables users to rent verified properties without commission and pay with crypto. It is already integrated with **Didit** and **Daimo Pay**, offering a frictionless multichain payment experience. As part of our roadmap toward Devconnect (2025), we aim to integrate additional partners from the ecosystem such as **Ensuro, QuarkID, Kleros, and Autopen**, although those are still in progress.
 
 This proposal seeks to simplify the arrival of the Ethereum community to Buenos Aires through a real-world application of digital sovereignty.
 
@@ -30,7 +30,7 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 ## Goals
 
 - Provide a housing solution aligned with Ethereum values: frictionless, trust-based, sovereign, and decentralized.  
-- Promote real-world crypto adoption by showcasing how Devcon can help bring Argentina’s housing market onchain.  
+- Promote real-world crypto adoption by showcasing how Devconnect (2025) can help bring Argentina’s housing market onchain.  
 - Deliver a safe booking experience combining verified identity and crypto payments.  
 - Enable attendees to find trustworthy places to stay without intermediaries or commissions.  
 - Prevent fraud and scams common in unverified peer-to-peer rentals.  
@@ -43,9 +43,9 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 ## Implementation
 
 ### Branded Environment
-**Betrusty** will create a **Devcon-branded landing page**, under a subdomain such as `devconnect.betrusty.io` (to be defined), with the following features:
+**Betrusty** will create a **Devconnect-branded landing page**, under a subdomain such as `devconnect.betrusty.io` (to be defined), with the following features:
 
-- Access restricted to verified Devcon participants (via promo code or another method).  
+- Access restricted to verified Devconnect (2025) participants (via promo code or another method).  
 - Listings of curated properties from trusted local partners (co-livings, professional hosts).  
 - Identity verification via **Didit**.  
 - Multichain crypto payments via **Daimo Pay**.  
@@ -58,7 +58,7 @@ In addition to the platform, Betrusty can manage group or custom bookings—idea
 
 ### Booking Flow
 
-1. The user accesses the portal from the Devcon ecosystem.  
+1. The user accesses the portal from the Devconnect (2025) ecosystem.  
 2. Selects a property.  
 3. Submits an application.  
 4. The host approves the application.  
@@ -72,7 +72,7 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 ## Operational Requirements & Ownership
 
 **Betrusty commits to delivering:**
-- A fully functional, branded Devcon landing page.  
+- A fully functional, branded Devconnect (2025) landing page.  
 - Integration with Daimo Pay for multichain payments.  
 - Technical support before and during the event.
 
@@ -84,23 +84,23 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 - 0% commission on all bookings.  
 - 1:1 crypto payments with no additional fees.
 
-**For Devcon:**  
+**For Devconnect (2025):**  
 - No cost.  
-- No funding or technical resources required from Devcon.
+- No funding or technical resources required from Devconnect (2025).
 
 ---
 
 ## Timeline
 
-The Betrusty team already operates a functional environment and has experience with on-chain integrations. The branded landing page can go live within 1 week of approval and requires no technical resources from the Devcon team. The design will be shared for prior review.
+The Betrusty team already operates a functional environment and has experience with on-chain integrations. The branded landing page can go live within 1 week of approval and requires no technical resources from the Devconnect (2025) team. The design will be shared for prior review.
 
 ---
 
 ## Conclusion
 
-The solution is entirely opt-in and does not interfere with any existing Devcon workflows. It can be communicated as an added benefit without replacing hotel agreements or traditional booking platforms.
+The solution is entirely opt-in and does not interfere with any existing Devconnect (2025) workflows. It can be communicated as an added benefit without replacing hotel agreements or traditional booking platforms.
 
-If successfully implemented, this collaboration will allow Devcon to:
+If successfully implemented, this collaboration will allow Devconnect (2025) to:
 
 - Provide a decentralized, accessible housing solution aligned with Ethereum values.  
 - Offer a smooth, real-world web3 experience that solves a concrete problem.  
@@ -114,4 +114,4 @@ If successfully implemented, this collaboration will allow Devcon to:
 - [Platform – app.betrusty.io/search](https://app.betrusty.io/search)  
 - [Daimo Pay](https://pay.daimo.com)  
 - [Didit](https://www.didit.me)  
-- [Betrusty + Devcon Demo (Mockup)](https://drive.google.com/file/d/10HSvaZP3uVyNASZwd1AG6rMjhSefPMFE/view?usp=sharing)
+- [Betrusty + Devconnect (2025) Demo (Mockup)](https://drive.google.com/file/d/10HSvaZP3uVyNASZwd1AG6rMjhSefPMFE/view?usp=sharing)
