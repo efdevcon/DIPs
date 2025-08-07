@@ -18,7 +18,7 @@ Provide a seamless housing reservation experience for **Devcon[nect]**. This pla
 ## Rationale
 
 ### Background
-Devconnect (2025) brings together thousands of global participants, but finding accessible and secure housing remains a challenge. Traditional platforms like Airbnb and Booking charge high fees, require fiat payments, and lack integration with on-chain solutions.
+Devconnect ARG (2025) brings together thousands of global participants, but finding accessible and secure housing remains a challenge. Traditional platforms like Airbnb and Booking charge high fees, require fiat payments, and lack integration with on-chain solutions.
 
 **Betrusty** is a web3 tool that solves this issue: it enables users to rent verified properties without commission and pay with crypto. It is already integrated with **Didit** and **Daimo Pay**, offering a frictionless multichain payment experience. As part of our roadmap toward Devconnect (2025), we aim to integrate additional partners from the ecosystem such as **Ensuro, QuarkID, Kleros, and Autopen**, although those are still in progress.
 
