@@ -69,7 +69,7 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 ## Operational Requirements & Ownership
 
 **Betrusty commits to delivering:**
-- A fully functional, branded Devconnect (2025) landing page.  
+- A fully functional, branded Devconnect ARG (2025) landing page.  
 - Integration with Daimo Pay for multichain payments.  
 - Technical support before and during the event.
 
