@@ -85,7 +85,7 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 
 ## Timeline
 
-The Betrusty team already operates a functional environment and has experience with on-chain integrations. The branded landing page can go live within 1 week of approval and requires no technical resources from the Devconnect (2025) team. The design will be shared for prior review.
+The Betrusty team already operates a functional environment and has experience with on-chain integrations. The branded landing page can go live within 1 week of approval and requires no technical resources from the Devconnect ARG (2025) team. The design will be shared for prior review.
 
 
 ## Conclusion
