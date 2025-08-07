@@ -36,7 +36,6 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 - Showcase how web3 tools can solve tangible problems beyond the event.  
 - Promote frictionless multichain payments enabled by Daimo Pay.
 
----
 
 ## Implementation
 
