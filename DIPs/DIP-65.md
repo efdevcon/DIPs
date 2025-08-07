@@ -4,7 +4,7 @@ Title: Provide a seamless housing reservation experience for **Devcon[nect]**.
 Status: Draft
 Themes: Housing
 Tags: Housing, Software, Payments
-Instances: Devconnect2025
+Instances: DevconnectARG
 Authors: jason@betrusty.io
 Resources Required: Communication support
 Discussion: https://forum.devcon.org/t/housing-devconnect-argentina-2025/6747
