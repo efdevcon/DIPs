@@ -14,7 +14,6 @@ Created: 2025-06-20
 ## Abstract
 Provide a seamless housing reservation experience for **Devcon[nect]**. This platform, developed by **Betrusty**, allows attendees to **securely and reliably** book verified accommodations during events using decentralized identity and cryptocurrency payments.
 
----
 
 ## Rationale
 
