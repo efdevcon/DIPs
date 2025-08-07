@@ -42,7 +42,7 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 ### Branded Environment
 **Betrusty** will create a **Devconnect-branded landing page**, under a subdomain such as `devconnect.betrusty.io` (to be defined), with the following features:
 
-- Access restricted to verified Devconnect (2025) participants (via promo code or another method).  
+- Access restricted to verified Devconnect ARG (2025) participants (via promo code or another method).  
 - Listings of curated properties from trusted local partners (co-livings, professional hosts).  
 - Identity verification via **Didit**.  
 - Multichain crypto payments via **Daimo Pay**.  
