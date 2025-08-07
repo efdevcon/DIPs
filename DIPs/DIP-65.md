@@ -55,7 +55,7 @@ In addition to the platform, Betrusty can manage group or custom bookings—idea
 
 ### Booking Flow
 
-1. The user accesses the portal from the Devconnect (2025) ecosystem.  
+1. The user accesses the portal from the Devconnect ARG (2025) ecosystem.  
 2. Selects a property.  
 3. Submits an application.  
 4. The host approves the application.  
