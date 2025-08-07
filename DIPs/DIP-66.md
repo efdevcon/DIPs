@@ -67,6 +67,3 @@ Links:
 - ETH Taipei: Ethereum and impactful auctions: https://www.youtube.com/live/ILz4qwFcnFI?t=11974s
 - ETHCC: Fun(d) Public Goods - Without Donations or Sacrifices: https://www.youtube.com/watch?v=_m2KYXoVqCc
 
------Final Thought-----
-
-If possible, it would be AMAZING to auction off DevConnect ALL ACCESS Pass(es) - which would give the holder(s) access to every DevConnect event, including all side events. This may be beyond DevConnect’s scope, but it would be a super unique an desirable auction prize.
