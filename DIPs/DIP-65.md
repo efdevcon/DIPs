@@ -28,7 +28,7 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 ## Goals
 
 - Provide a housing solution aligned with Ethereum values: frictionless, trust-based, sovereign, and decentralized.  
-- Promote real-world crypto adoption by showcasing how Devconnect (2025) can help bring Argentina’s housing market onchain.  
+- Promote real-world crypto adoption by showcasing how Devconnect ARG (2025) can help bring Argentina’s housing market onchain.  
 - Deliver a safe booking experience combining verified identity and crypto payments.  
 - Enable attendees to find trustworthy places to stay without intermediaries or commissions.  
 - Prevent fraud and scams common in unverified peer-to-peer rentals.  
