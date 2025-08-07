@@ -15,7 +15,7 @@ Created: 2025-07-11
 
 I propose that DevConnect auction off 10 x Regular Tickets on Paddle Battle (https://www.paddlebattle.auction/) and distribute the auction proceeds to an Ethereum aligned public goods project.
 
------Abstract-----
+## Abstract
 
 I propose that DevConnect auction off 10 x Regular Tickets on Paddle Battle (https://www.paddlebattle.auction/) and distribute the auction proceeds to an Ethereum aligned public goods project.
 I would recommend 3-4 auctions - each with a different auction mechanism:
