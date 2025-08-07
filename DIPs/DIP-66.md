@@ -30,7 +30,7 @@ I would recommend chosing public goods projects which:
 - are Ethereum aligned
 - have a strong community
 
------Motivation & Rationale-----
+## Motivation & Rationale
 
 Hosting an auction on Paddle Battle will improve the attendee experience by 1) creating a fun and impactful way for people to purchase tickets, and 2) highlight and fund Ethereum aligned public goods.
 
