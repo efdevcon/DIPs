@@ -63,7 +63,6 @@ In addition to the platform, Betrusty can manage group or custom bookings—idea
 
 Thanks to **Daimo Pay**, users can pay from any chain without worrying about bridges, swaps, or gas fees. Hosts receive the full amount directly, improving conversion and reducing friction.
 
----
 
 ## Operational Requirements & Ownership
 
