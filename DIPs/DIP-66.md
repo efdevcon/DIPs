@@ -11,7 +11,7 @@ Discussion: https://forum.devcon.org/t/auction-off-2-x-devconnect-regular-ticket
 Created: 2025-07-11
 ---
 
------Summary of Proposal-----
+## Summary of Proposal
 
 I propose that DevConnect auction off 10 x Regular Tickets on Paddle Battle (https://www.paddlebattle.auction/) and distribute the auction proceeds to an Ethereum aligned public goods project.
 
