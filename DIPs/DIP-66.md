@@ -58,7 +58,7 @@ Paddle Battle already uses yodl for easy payment processing and Shutter API for 
 
 If any other organisations are interested in hosting additional impactful auctions on Paddle Battle (before, during or after DevConnect), we would gladly support.
 
------Links & Additional Information-----
+## Links & Additional Information
 
 Paddle Battle does not charge any setup fees. Paddle Battle charges a service fee of 10% of the total amount raised (paid bids + bid fees), and Paddle Battle requires that auction proceeds (total amount raised minus applicable taxes (if any) and our service fee) are distributed to public goods.
 
