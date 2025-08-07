@@ -24,7 +24,6 @@ Devconnect (2025) brings together thousands of global participants, but finding 
 
 This proposal seeks to simplify the arrival of the Ethereum community to Buenos Aires through a real-world application of digital sovereignty.
 
----
 
 ## Goals
 
