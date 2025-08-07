@@ -46,7 +46,7 @@ In May 2025, Shutter Network auctioned off 2 x EthCC Tickets on Paddle Battle, r
 
 If this proposal is accepted, Paddle Battle will work with DevConnect to host and publicise a similar impactful auction on the Paddle Battle website.
 
------Operational Requirements & Ownership-----
+## Operational Requirements & Ownership
 
 DevConnect will need to sponsor 10 x Regular Tickets, provide and configure a clean EOA (to receive bid payments), publicise the auction via social media channels / newsletters / a livestream, deliver the tickets to the winner(s), and distribute auction proceeds to the Ethereum aligned project(s) of your choice.
 
