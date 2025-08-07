@@ -92,7 +92,7 @@ The Betrusty team already operates a functional environment and has experience w
 
 The solution is entirely opt-in and does not interfere with any existing Devconnect (2025) workflows. It can be communicated as an added benefit without replacing hotel agreements or traditional booking platforms.
 
-If successfully implemented, this collaboration will allow Devconnect (2025) to:
+If successfully implemented, this collaboration will allow Devconnect ARG (2025) to:
 
 - Provide a decentralized, accessible housing solution aligned with Ethereum values.  
 - Offer a smooth, real-world web3 experience that solves a concrete problem.  
