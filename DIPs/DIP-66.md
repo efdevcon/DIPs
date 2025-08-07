@@ -38,7 +38,7 @@ Hosting an auction on Paddle Battle 1) shows non-crypto impactful organizations 
 
 Hosting an auction on Paddle Battle also acts as a branding (establishing DevConnect as a leader/innovator in public goods funding), marketing (the auction itself is a viral marketing campaign) and sales lead generation tool for DevConnect (we can provide DevConnect with contact info for all bidders, and the DevConnect can follow-up with those who did not win).
 
------Implementation-----
+## Implementation
 
 Since launching in January 2025, Paddle Battle has hosted 8 impactful auctions and raised over $5,000 for Ethereum aligned public goods like Protocol Guild, Rotki, Dappnode, DeFiScan, and more.
 
