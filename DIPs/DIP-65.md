@@ -51,7 +51,6 @@ This proposal seeks to simplify the arrival of the Ethereum community to Buenos 
 
 In addition to the platform, Betrusty can manage group or custom bookings—ideal for sponsors, organizers, or teams that require entire buildings or multiple rooms. This ensures logistical consistency and reduces booking overhead.
 
----
 
 ### Booking Flow
 
