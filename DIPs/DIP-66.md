@@ -4,7 +4,7 @@ Title: Auction Off 10 x Devconnect Regular Tickets For Public Goods On Paddle Ba
 Status: Draft
 Themes: Ticketing, Community Involvement
 Tags: Event Operations, Communications
-Instances: Devconnect Argentina 2025
+Instances: DevconnectARG
 Authors: Loring Harkness (loring@brainbot.com, @LoringHarkness)
 Resources Required: 10 x DevConnect Regular Tickets, a clean EOA, social media / newsletter / livestream support
 Discussion: https://forum.devcon.org/t/auction-off-2-x-devconnect-regular-tickets-for-public-goods-on-paddle-battle/7607/1
