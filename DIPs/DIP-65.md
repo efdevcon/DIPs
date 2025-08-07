@@ -78,7 +78,7 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 - 0% commission on all bookings.  
 - 1:1 crypto payments with no additional fees.
 
-**For Devconnect (2025):**  
+**For Devconnect ARG (2025):**  
 - No cost.  
 - No funding or technical resources required from Devconnect (2025).
 
