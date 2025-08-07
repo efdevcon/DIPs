@@ -98,7 +98,6 @@ If successfully implemented, this collaboration will allow Devconnect (2025) to:
 - Offer a smooth, real-world web3 experience that solves a concrete problem.  
 - This initiative not only solves a logistical need—it sets a precedent for how global events can actively bring crypto utility to emerging markets.
 
----
 
 ## Links & Resources
 
