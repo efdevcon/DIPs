@@ -25,7 +25,7 @@ I would recommend 3-4 auctions - each with a different auction mechanism:
 - Sealed bid auction is also an untested mechanism
 
 Conducting multiple auctions also give us the opportunity to host different auctions on different platforms (i.e. a Farcaster mini app) and direct auction proceeds to multiple public goods projects.
-I would recommend chosing public goods projects which:
+I would recommend choosing public goods projects which:
 - are local Argentinean
 - are Ethereum aligned
 - have a strong community
