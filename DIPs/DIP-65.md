@@ -82,7 +82,6 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 - No cost.  
 - No funding or technical resources required from Devconnect (2025).
 
----
 
 ## Timeline
 
