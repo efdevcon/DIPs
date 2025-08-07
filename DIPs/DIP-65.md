@@ -71,7 +71,6 @@ Thanks to **Daimo Pay**, users can pay from any chain without worrying about bri
 - Integration with Daimo Pay for multichain payments.  
 - Technical support before and during the event.
 
----
 
 ## Cost
 
