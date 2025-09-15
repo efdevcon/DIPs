@@ -1,7 +1,7 @@
 ---
 DIP: 66
 Title: Auction Off 10 x Devconnect Regular Tickets For Public Goods On Paddle Battle
-Status: Draft
+Status: Accepted
 Themes: Ticketing, Community Involvement
 Tags: Event Operations, Communications
 Instances: DevconnectARG
