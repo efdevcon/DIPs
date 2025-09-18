@@ -1,7 +1,7 @@
 ---
-DIP: 66
+DIP: 67
 Title: CleanApp-ing Devconnect
-Status: Draft
+Status: Accepted
 Themes: Community Involvement, Safety, Feedback, Realworld Usage, Universal Adoption
 Tags: Event Operations, Communications
 Instances: DevconnectARG
