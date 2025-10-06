@@ -1,18 +1,17 @@
-DIP: TBD\
-Title: Tabletop Games\
-Status: Draft\
-Themes: Social; Art; Attendee Experience\
-Tags: Games; Community; Art\
-Authors: Colton Orr ([Farcaster @colton](https://farcaster.xyz/colton) · [X @colton\_art](https://x.com/colton_art))\
-Resources Required: 3-5 small tables with chairs; high-traffic location; \$1,000 for accommodations & materials (playmats, signage)\
-Discussion: [https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745](https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745)\
-Created: 2025-9-22\
+DIP: 68
+Title: Tabletop Games
+Status: Draft
+Themes: Social; Art; Attendee Experience
+Tags: Games; Community; Art
+Authors: Colton Orr ([Farcaster @colton](https://farcaster.xyz/colton) · [X @colton\_art](https://x.com/colton_art))
+Resources Required: 3-5 small tables with chairs; high-traffic location; $1,000 for accommodations & materials (playmats, signage)
+Discussion: [https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745](https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745)
+Created: 2025-9-22
 ------------------
-<img width="1380" height="460" alt="image" src="https://github.com/user-attachments/assets/1787fd5d-162f-4d8e-84e5-b250ac676118" />
 
 ## Abstract
 
-Create a high-vibe tabletop space at Devconnect where attendees can drop in to play and learn games. Similar to last Devcon, I will host [Memethology](https://memethology.com/) sessions; others are welcome to BYO-host their own games in the same area (Mindy mentioned Battlestar Galactica, Nico Shi will offer her beloved crypto-themed tarot reading).
+Create a high-vibe tabletop space at Devconnect where attendees can drop in to play and learn games. Similar to last Devcon, I will host [Memethology](https://memethology.com) sessions; others are welcome to BYO-host their own games in the same area (Mindy mentioned Battlestar Galactica, Nico Shi will offer her beloved crypto-themed tarot reading).
 
 ## Rationale
 
@@ -35,12 +34,10 @@ Tabletop play reliably sparks connection and decompression amid conference inten
 * **Org support requested:**
 
   * Space allocation in a high-traffic area
-  * **\$1,000** toward accommodations and materials (playmats/signage/prizes)
+  * **$1,000** toward accommodations and materials (playmats/signage/prizes)
   * Listing on the official schedule
 * **Safety/Conduct:** Follow Devconnect code of conduct; kind, playful, welcoming tables; quick resets between sessions to keep flow.
 
 ## Rationale (extended)
 
 Games reduce social friction and create memorable micro-communities. The mix of crypto-native themes (Memethology) and general tabletop favorites makes the space accessible to both builders and plus-ones. A decentralized tabletop area that keeps Devconnect buzzing with friendly play and effortless networking.
-
-<img width="690" height="230" alt="image" src="https://github.com/user-attachments/assets/3d8d2b28-4426-4bff-a71d-ef6530dee13b" />
