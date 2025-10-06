@@ -8,7 +8,7 @@ Authors: Colton Orr ([Farcaster @colton](https://farcaster.xyz/colton) · [X @co
 Resources Required: 3-5 small tables with chairs; high-traffic location; $1,000 for accommodations & materials (playmats, signage)
 Discussion: [https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745](https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745)
 Created: 2025-9-22
-------------------
+---
 
 ## Abstract
 
