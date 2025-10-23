@@ -6,7 +6,7 @@ Themes: Freeform, Social
 Tags: Event Production, Software
 Instances: DevConnect
 Authors: Daniel Kronovet (@kronosapiens), Cartridge Gaming Company
-Resources Required: Access to community hub spaces, Operations Support, Communication support, Tech support
+Resources Required: Access to community hub spaces, Operations Support, Communications support
 Discussion: https://forum.devcon.org/t/focg-treasure-hunt/8099
 Created: 2025-10-21
 ---
@@ -165,7 +165,7 @@ The adventure is designed to leverage **community hub spaces** as quest location
 **Operational Support**
 - Coordination on community hub schedules and availability
 - On-site contact for troubleshooting during event
-- WiFi reliability for smart contract interaction
+- WiFi connectivity for smart contract interaction
 
 **Communication Support**
 - Feature in DevConnect progressive web application for discoverability
@@ -187,13 +187,15 @@ Potential integration points:
 - Community-created quest content could be incorporated with proper review
 - Achievement NFTs could integrate with existing Starknet NFT standards
 
-### Budget and Timeline Considerations
+### Budget and Timeline
+
+**This activation will require no external budget.**
 
 Given the relatively short amount of time before Devconnect (<4 weeks), successfully executing on this project will require a tight scope. Design and development of the adventure will be led by myself in my capacity as Cartridge Developer Relations. I have 6 years of experience with smart contract development and have high confidence that a 6-stage adventure is realistic to implement in our time frame.
 
 **Contingency**: If development challenges arise, we can scale down to 4 levels (2 onchain games, 2 community hub quests) while maintaining the core experience and demonstration of Cartridge/Dojo capabilities.
 
-Given that this activation is meant to primarily highlight the capabilities of the Cartridge/Dojo gaming stack, we are not asking for any budget apart from communications and logistical support and introductions to community hubs.
+Given that this activation is meant to primarily highlight the capabilities of the Cartridge/Dojo gaming stack, **we are not asking for any budget** apart from communications and logistical support and introductions to community hubs.
 
 ## Links & Additional Information
 
