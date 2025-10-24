@@ -1,7 +1,7 @@
 ---
 DIP: 69
 Title: DevConnect Onchain Gaming Adventure
-Status: Draft
+Status: Accepted
 Themes: Freeform, Social
 Tags: Event Production, Software
 Instances: DevConnect
