@@ -4,10 +4,10 @@ Title: Tabletop Games
 Status: Draft
 Themes: Social; Art; Attendee Experience
 Tags: Games; Community; Art
-Authors: Colton Orr ([Farcaster @colton](https://farcaster.xyz/colton) · [X @colton\_art](https://x.com/colton_art))
+Authors: Colton Orr (https://farcaster.xyz/colton, ·https://x.com/colton_art)
 Resources Required: 3-5 small tables with chairs; high-traffic location; $1,000 for accommodations & materials (playmats, signage)
-Discussion: [https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745](https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745)
 Created: 2025-9-22
+Discussion: https://forum.devcon.org/t/tabletop-gaming-at-devconnect/7745
 ---
 
 ## Abstract
