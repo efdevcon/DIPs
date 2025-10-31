@@ -1,7 +1,7 @@
 ---
 DIP: 68
 Title: Tabletop Games
-Status: Draft
+Status: Accepted
 Themes: Social; Art; Attendee Experience
 Tags: Games; Community; Art
 Authors: Colton Orr (https://farcaster.xyz/colton, ·https://x.com/colton_art)
