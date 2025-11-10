@@ -33,8 +33,6 @@ Participants own their content. They grant Zk Av Club a non‑exclusive license 
 * **Community self‑representation:** People speak for themselves—not via a selection filter—strengthening inclusive narratives and memory.
 * **Consent-first, participant-owned media:** Explicit consent at every step and decentralized contribution to post-production.
 
----
-
 ## Implementation
 
 * **Prior activations:** Deployed at Berlin Blockchain Week 2025 (Funding the Commons, Protocol Berg v2, Decentralized Media Summit, Dappcon, ZK Hack) and Dark Prague; typical output \~20–40 recorded sessions over a week, 10–45 minutes each.
