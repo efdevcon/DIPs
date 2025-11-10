@@ -1,5 +1,5 @@
 ---
-DIP: 70 
+DIP: 70
 Title: Zk Av Club Recording Station at Devconnect — Open, Community‑Run Media Lab
 Status: Draft
 Themes: Community, Media, Education, Decentralization
