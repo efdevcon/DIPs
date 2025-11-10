@@ -43,8 +43,6 @@ Participants own their content. They grant Zk Av Club a non‑exclusive license 
 * **Distribution & licensing:** Edited release first on Zk Av Club and/or co‑creator channels; then publish sources to Internet Archive under CC BY‑SA; include credits/metadata.
 * **Post‑event collaboration:** Consent confirmation; community editing (audio cleanup, multicam edits, captions); archive + return raw files to participants; community signal‑boost.
 
----
-
 ## Operational Requirements & Ownership
 
 1. **Actions required at Devconnect**
