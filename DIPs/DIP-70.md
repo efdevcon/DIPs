@@ -29,8 +29,6 @@ The Zk Av Club Recording Station is a free and open media lab designed to host c
 
 Participants own their content. They grant Zk Av Club a non‑exclusive license to edit, publish, clip, and archive; in return, we give them the raw material. Edited releases publish first; following approvals, source masters are uploaded to Internet Archive under CC BY‑SA with full credits and metadata. Donations primarily support post‑production (editing, mastering, captioning, metadata) rather than on‑site costs. The activation invites community members to learn by doing and decentralizes the post-production workload (video editing, audio cleanup, captioning, etc.).
 
----
-
 ## Motivation & Rationale
 
 * **Enhancing attendee experience:** Creates a friendly, chill spot to sit down, reflect, and record—turning fleeting hallway exchanges into durable, shareable knowledge.
