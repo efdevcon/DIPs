@@ -64,8 +64,6 @@ Participants own their content. They grant Zk Av Club a non‑exclusive license 
    * Captioning/translation collectives; archives/research groups. 
    * Ethereum tech for provenance, streaming/storage for large media, or other FOSS/P2P experiments. 
 
----
-
 ## Links & Additional Information
 
 * [Zk Av Club Recording Station](https://www.zkav.club/recording-station/) overview & flow (how it works, formats).
