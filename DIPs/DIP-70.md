@@ -78,8 +78,6 @@ Participants own their content. They grant Zk Av Club a non‑exclusive license 
 * [Licensing & consent summary](https://www.zkav.club/recording-station/licensing/) participant ownership; CC BY‑SA; Internet Archive sources.
 * [Examples](https://www.youtube.com/playlist?list=PL9eB_cR4oMehZCgFJqCIVPb253lVWnr8d) from prior activations.
 
----
-
 ### Appendix: Staffing & Schedule
 
 * Production + support (6–10).
