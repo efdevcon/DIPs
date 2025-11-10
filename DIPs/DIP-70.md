@@ -21,8 +21,6 @@ A free, open, volunteer‑run recording station inside Devconnect to document ha
 
 Zk Av Club sets up a media lab that anyone can use to record conversations. Nothing is livestreamed (with experimental exceptions, like collab with Swarm or something); recordings respect privacy, guest‑approved, and later released. Edited pieces publish first; afterwards, source masters are archived to Internet Archive under Creative Commons CC BY‑SA, building an open, remixable documentary.
 
----
-
 ## Abstract
 
 The Zk Av Club Recording Station is a free and open media lab designed to host conversations among attendees and bring hallway discussions into the collective memory. It is volunteer‑run, open‑source and decentralized: we don’t drive the narrative; we provide space, equipment, and facilitation so people can record podcast‑style or quick reflections. Nothing is livestreamed by default; everything is recorded and processed post‑event.
