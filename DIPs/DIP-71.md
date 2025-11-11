@@ -70,7 +70,7 @@ Our team would continously gather feedback from attendees and organizers during 
 - Share conversation links in official DevConnect group chats to invite attendees to join the discussions. 
 
 **On-Site Promotion**
--Display QR codes linking to Agora conversations in suitable areas throughout the event venues (e.g., entrance halls, hub spaces, discussion corners).)
+- Display QR codes linking to Agora conversations in suitable areas throughout the event venues (e.g., entrance halls, hubs,  discussion corners, etc).
 
 ### Links & Additional Information
 - Forum discussion: https://forum.devcon.org/t/dip-piloting-agora-during-devconnect/8228/12
