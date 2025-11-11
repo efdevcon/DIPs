@@ -66,7 +66,7 @@ Our team would continously gather feedback from attendees and organizers during 
 ### Resource Requirements from DevConnect Organizers
 
 **Communication Support**
-- Promote the AgoraxDevConnect landing pag eon DevConnect’s social media channels before and during the event to encourage participation.
+- Promote the landing page on DevConnect’s social media channels before and during the event to encourage participation.
 - Share conversation links in official DevConnect group chats to invite attendees to join the discussions. 
 
 **On-Site Promotion**
