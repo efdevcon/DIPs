@@ -65,8 +65,8 @@ Our team would continuously gather feedback from attendees and organizers during
 
 ### Resource Requirements from DevConnect Organizers
 
-**ASAP: need help added to Zupass Whitelist**
-- Zupass integration on Agora is deployed but doesn't work in production because Zupass' security policy doesn't allow our domain. We opened a detailed request to whitelist our domain: https://github.com/proofcarryingdata/zupass/issues/2213. The needed change on Zupass side is very quick (just some config).
+**ASAP: need help testing Zupass integration**
+- Zupass integration on Agora is deployed and now works in production. We need your help to test it with more DevConnect ticket holders. We created this test conversation: https://www.agoracitizen.app/conversation/tpJoGig
 
 **Communication Support**
 - Promote the landing page on DevConnect’s social media channels before and during the event to encourage participation.
