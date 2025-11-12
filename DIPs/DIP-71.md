@@ -43,7 +43,7 @@ Observe how ecosystem narratives are shaped collectively. The conversations serv
 
 Agora has been successfully piloted by events including UNESCO’s Media & Information Literacy Week 2025 and was used during France’s national strike in September 2025 to help people map disagreement and find alignment.
 
-Our team would continously gather feedback from attendees and organizers during the pilot.
+Our team would continuously gather feedback from attendees and organizers during the pilot.
 
 ## Operational Requirements & Ownership
 
