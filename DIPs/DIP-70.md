@@ -1,13 +1,13 @@
 ---
 DIP: 70
 Title: Zk Av Club Recording Station at Devconnect — Open, Community‑Run Media Lab
-Status: Draft
+Status: Accepted
 Themes: Community, Media, Education, Decentralization
 Tags: Communications
 Instances: Devconnect Argentina
 Authors:  Ryan Taylor (youtube.com/@adjyLeak, x.com/adjyLeak), Zk Av Club (x.com/zkav_club) 
 Resources Required: Physical space (≈6×6m), power (4× 230V), 1 table for equipment, 1 small table for guests, chairs for guests and crew. 1 whiteboard for signage would be great, or 1 flip chart with a stand.
-Discussion: [https://forum.devcon.org/t/dip-zero-knowledge-audiovisual-club-recording-station-at-devconnect-2025](https://forum.devcon.org/t/dip-zero-knowledge-audiovisual-club-recording-station-at-devconnect-2025) 
+Discussion: https://forum.devcon.org/t/dip-zero-knowledge-audiovisual-club-recording-station-at-devconnect-2025
 Created: 2025-11-03
 ---
 
