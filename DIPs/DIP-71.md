@@ -1,7 +1,7 @@
 ---
 DIP: 71
 Title: Piloting Agora during DevConnect
-Status: Active
+Status: Accepted
 Themes: Social, Community Involvement 
 Tags: Event Production, Communications
 Instances: DevConnect
