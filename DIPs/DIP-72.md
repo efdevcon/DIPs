@@ -1,7 +1,7 @@
 ---
 DIP: 72
 Title: Meerkat - Online Q&A at scale
-Status: Draft
+Status: Accepted
 Themes: Audience Engagement, Content Quality
 Tags: Production, Q&A, Software, Moderation, Reputation, Feedback, Open-Source
 Instances: Devconnect2025
