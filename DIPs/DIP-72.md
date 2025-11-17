@@ -8,6 +8,7 @@ Instances: Devconnect2025
 Authors: Florian Dreschner (florian@voya.games)
 Resources Required: Tech support, Communication support, On-site desk
 Discussion: https://forum.devcon.org/t/dip-meerkat-online-q-a-at-scale-and-session-feedback/7780
+Created: 2025-08-17
 ---
 
 ## Abstract
